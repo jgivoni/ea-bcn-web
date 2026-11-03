@@ -19,7 +19,7 @@ We are leaving Meetup and moving to Luma! 
 
 We have been using Meetup as our main events platform for a while now, but given their recent increase in prices, we have decided to move to Luma, which offers very similar services but for zero cost. Be sure to subscribe to our new Luma Events Calendar [here](https://lu.ma/calendar/cal-9tdD2nUvxmygpXa)! 
 
-<iframe src="https://www.youtube.com/embed/3DKWdoIzQvE?embed_config=%7B%22enc%22:%22AXH1ezn4TAVpxEbu6KKxuVYTA4Md5nPhNDivPwAigd0Gl7-Qekuv4TU8liShtLpHuOJEC_f4Zee5AMgtcVQPZnNMQvzl4A5UhO82Aiu8KiBxb181A3G60gnrZvemEth4TOID8xood4zCQB352Zo068RcX0NZCMt4i7Ff-deBWt2pIwJf%22%7D&enablejsapi=1&errorlinks=1&origin=https://www.eabarcelona.org&vl=1" title="" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/3DKWdoIzQvE" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 La cruda verdad detrás de la carne (The harsh truth behind the meat industry)
 

@@ -19,7 +19,7 @@ Es algo que se ha estado gestando durante un tiempo y que finalmente se ha publi
 
 Llevamos un tiempo utilizando Meetup como nuestra plataforma principal de eventos, pero dado el reciente aumento de precios, hemos decidido pasarnos a Luma, que ofrece servicios muy similares pero sin coste alguno. ¡No olvides suscribirte a nuestro nuevo calendario de eventos de Luma [aquí](https://lu.ma/calendar/cal-9tdD2nUvxmygpXa)! 
 
-<iframe src="https://www.youtube.com/embed/3DKWdoIzQvE?embed_config=%7B%22enc%22:%22AXH1ezm8uEjYhR89GqgoQWLsKg8WMsmcGrKA-ErH6CdQ3-gsSCrmKp7RZHqKJWe6HM1GA7aC98SyzvF3bluS1UPwrhMA88gs9A32ZdTDxjkHbAizPFjoMJ1RMpah9ePYZNbwRWxuLtDs67-C2AsN0kNRIljs_Flvr6EkQxcq4Wg-WG0l%22%7D&enablejsapi=1&errorlinks=1&origin=https://es.eabarcelona.org&vl=1" title="" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/3DKWdoIzQvE" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 La cruda verdad detrás de la carne
 

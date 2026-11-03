@@ -1,17 +1,18 @@
 ---
+import SiteFooter from '../components/SiteFooter.astro';
+import SiteHeader from '../components/SiteHeader.astro';
 import {
   alternatesFor,
   describe,
   findByKey,
   HOME_SLUGS,
-  LANG_LABELS,
-  LANG_NAMES,
   LANGS,
   loadPages,
   OG_LOCALES,
   urlFor,
   type Page,
 } from '../lib/pages';
+import { UI } from '../lib/ui';
 import '../styles/global.css';
 
 interface Props {
@@ -23,44 +24,50 @@ const site = Astro.site!.origin;
 const pages = await loadPages();
 const alternates = alternatesFor(pages, page);
 const description = describe(page);
+const ui = UI[page.lang];
 const isHome = page.path === HOME_SLUGS[page.lang];
-const title = isHome ? `EA Barcelona — ${page.entry.data.title}` : `${page.entry.data.title} | EA Barcelona`;
-const canonical = site + (page.url === '/' ? '/' : page.url);
+const title = isHome ? `${ui.siteName} — ${page.entry.data.title}` : `${page.entry.data.title} | ${ui.siteName}`;
+const absolute = (url: string) => site + (url === '/' ? '/' : url);
+const canonical = absolute(page.url);
 
 const navKeys = ['about', 'upcoming-events', 'past-events', 'take-action', 'get-involved'];
+const isCurrent = (url: string) => page.url === url || page.url.startsWith(`${url}/`);
 const nav = navKeys
   .map((key) => findByKey(pages, page.lang, key))
-  .filter((item): item is Page => Boolean(item));
-const home = urlFor(page.lang, HOME_SLUGS[page.lang]);
+  .filter((item): item is Page => Boolean(item))
+  .map((item) => ({ label: item.entry.data.title, href: item.url, current: isCurrent(item.url) }));
 
 const switcher = LANGS.map((lang) => ({
   lang,
-  url: alternates[lang] ?? urlFor(lang, HOME_SLUGS[lang]),
-  exact: Boolean(alternates[lang]),
+  href: alternates[lang] ?? urlFor(lang, HOME_SLUGS[lang]),
 }));
-const isActive = (url: string) => page.url === url || (url !== '/' && page.url.startsWith(`${url}/`));
 ---
 
 <!doctype html>
-<html lang={page.lang}>
+<html lang={page.lang} data-theme="light">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script is:inline>
+      // Runs before first paint so the page never shows the wrong theme. Light is the default.
+      try {
+        const saved = localStorage.getItem('theme');
+        document.documentElement.dataset.theme = saved === 'dark' || saved === 'auto' ? saved : 'light';
+      } catch {
+        document.documentElement.dataset.theme = 'light';
+      }
+    </script>
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    {
-      Object.entries(alternates).map(([lang, url]) => (
-        <link rel="alternate" hreflang={lang} href={site + (url === '/' ? '/' : url)} />
-      ))
-    }
+    {Object.entries(alternates).map(([lang, url]) => <link rel="alternate" hreflang={lang} href={absolute(url)} />)}
     {
       alternates.en && Object.keys(alternates).length > 1 && (
-        <link rel="alternate" hreflang="x-default" href={site + (alternates.en === '/' ? '/' : alternates.en)} />
+        <link rel="alternate" hreflang="x-default" href={absolute(alternates.en)} />
       )
     }
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="EA Barcelona" />
+    <meta property="og:site_name" content={ui.siteName} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
@@ -68,46 +75,26 @@ const isActive = (url: string) => page.url === url || (url !== '/' && page.url.s
     <meta name="twitter:card" content="summary" />
   </head>
   <body>
-    <a class="skip" href="#content">Skip to content</a>
-    <header class="site-header">
-      <a class="brand" href={home}>EA Barcelona</a>
-      <nav aria-label="Main">
-        <ul>
-          {
-            nav.map((item) => (
-              <li>
-                <a href={item.url} aria-current={isActive(item.url) ? 'page' : undefined}>
-                  {item.entry.data.title}
-                </a>
-              </li>
-            ))
-          }
-        </ul>
-      </nav>
-      <nav class="languages" aria-label="Language">
-        {
-          switcher.map((item) => (
-            <a
-              href={item.url}
-              hreflang={item.lang}
-              lang={item.lang}
-              title={LANG_NAMES[item.lang]}
-              aria-current={item.lang === page.lang ? 'true' : undefined}
-            >
-              {LANG_LABELS[item.lang]}
-            </a>
-          ))
-        }
-      </nav>
-    </header>
+    <a class="skip" href="#content">{ui.skip}</a>
+    <SiteHeader lang={page.lang} homeHref={urlFor(page.lang, HOME_SLUGS[page.lang])} nav={nav} switcher={switcher} />
     <main id="content">
       <slot />
     </main>
-    <footer class="site-footer">
-      <p>
-        EA Barcelona ·
-        <a href="mailto:effectivealtruismbarcelona@gmail.com">effectivealtruismbarcelona@gmail.com</a>
-      </p>
-    </footer>
+    <SiteFooter>{ui.footerContact}</SiteFooter>
   </body>
 </html>
+
+<style is:global>
+  .skip {
+    position: absolute;
+    left: -999px;
+  }
+
+  .skip:focus {
+    left: var(--gutter);
+    top: var(--gutter);
+    z-index: 30;
+    padding: var(--space-2) var(--space-3);
+    background: var(--color-bg);
+  }
+</style>

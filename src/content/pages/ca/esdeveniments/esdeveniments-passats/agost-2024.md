@@ -19,7 +19,7 @@ Deixem Meetup i ens traslladem a Luma!
 
 Fa temps que fem servir Meetup com a principal plataforma d'esdeveniments, però com que fa poc han pujat els preus, hem decidit traslladar-nos a Luma, que ofereix serveis molt similars però a cost zero. Assegura't de subscriure't al nostre nou calendari d'esdeveniments de Luma [aquí](https://lu.ma/calendar/cal-9tdD2nUvxmygpXa)!
 
-<iframe src="https://www.youtube.com/embed/3DKWdoIzQvE?embed_config=%7B%22enc%22:%22AXH1eznyBqvztTT2Zypi2RYVIn0p0ai6GGlsYqN0Tl2SF0fQZ39adVk9mvY60YnZ9BOGrkCPq6ZN54-unZAE0sEyy69PjmS_OGDHXGRkLz2YB38utamBCZ4Ovx1vtBUeNwg94E9wmv1IVbHGLh5bgqzeWfwVNTLol5j30Fxx4d1DUNSCxxAgHDTZy77UD1aYBr-aZcllx9Fz_Doq9jyzUx3QBdUYZbXWyf-GuJIY2FWgX61amyhNzMICF2yaFcIVEMqY_TzzdwkV3gsOuRPe2U3A9hd2v1hpLmwMWj7JjxnSEqO90j-7dhZLaZ4uWxg7omcWEXjOsh2hViqqg062dN-AJKMg1UL-JD5P2cJ3wDK49C4%3D%22%7D&enablejsapi=1&errorlinks=1&origin=https://ca.eabarcelona.org&vl=1" title="" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/3DKWdoIzQvE" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 La cruda verdad detrás de la carne 
 

@@ -1,7 +1,14 @@
 ---
 import { render } from 'astro:content';
+import Button from '../components/Button.astro';
+import Card from '../components/Card.astro';
+import CardGrid from '../components/CardGrid.astro';
+import Hero from '../components/Hero.astro';
+import Prose from '../components/Prose.astro';
+import Section from '../components/Section.astro';
 import Base from '../layouts/Base.astro';
 import { loadPages } from '../lib/pages';
+import { photo } from '../lib/photos';
 
 export async function getStaticPaths() {
   const pages = await loadPages();
@@ -13,10 +20,49 @@ export async function getStaticPaths() {
 
 const { page } = Astro.props;
 const { Content } = await render(page.entry);
+const { layout, headline, cards = [], cta } = page.entry.data;
 ---
 
 <Base page={page}>
-  <article>
-    <Content />
-  </article>
+  {
+    layout === 'home' ? (
+      <>
+        <Hero image={photo('hero')} alt="Park Güell, Barcelona" />
+        <Section width="prose" align="center">
+          <Prose>
+            <h1>{headline}</h1>
+            <div class="lead">
+              <Content />
+            </div>
+          </Prose>
+        </Section>
+        <Section width="wide">
+          <CardGrid>
+            {cards.map((card) => (
+              <Card title={card.title} href={card.href} image={photo(card.image)}>
+                {card.text}
+              </Card>
+            ))}
+          </CardGrid>
+        </Section>
+        {cta && (
+          <Section width="prose" align="center">
+            <Button href={cta.href}>{cta.label}</Button>
+          </Section>
+        )}
+      </>
+    ) : (
+      <Section width="prose">
+        <Prose>
+          <Content />
+        </Prose>
+      </Section>
+    )
+  }
 </Base>
+
+<style>
+  .lead {
+    font-size: var(--text-lg);
+  }
+</style>

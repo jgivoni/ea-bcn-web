@@ -1,0 +1,45 @@
+---
+interface Props {
+  width?: 'prose' | 'content' | 'wide';
+  tone?: 'default' | 'alt';
+  align?: 'start' | 'center';
+}
+
+const { width = 'content', tone = 'default', align = 'start' } = Astro.props;
+---
+
+<section class:list={['section', tone]}>
+  <div class:list={['inner', width, align]}>
+    <slot />
+  </div>
+</section>
+
+<style>
+  .section {
+    padding: var(--space-8) var(--gutter);
+  }
+
+  .alt {
+    background: var(--color-bg-alt);
+  }
+
+  .inner {
+    margin: 0 auto;
+  }
+
+  .prose {
+    max-width: var(--width-prose);
+  }
+
+  .content {
+    max-width: var(--width-content);
+  }
+
+  .wide {
+    max-width: var(--width-wide);
+  }
+
+  .center {
+    text-align: center;
+  }
+</style>

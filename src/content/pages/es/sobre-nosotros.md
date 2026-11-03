@@ -9,9 +9,9 @@ Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences 
 
 ### Vídeos
 
-<iframe src="https://www.youtube.com/embed/WyprXhvGVYk?embed_config=%7B%22enc%22:%22AXH1ezmkPVjdtsqU4FJjhLWnZC1CcnaTbxOUtn4Oil6PCFmjE8oTTrQ4LAjHdHheRgjYD4Q-4Ofk7HKvghnZTzTpBSZpVohgOvd8aWEjbW1UQZf9Pu0r8icOjWkx7setEsSKMYgjxUn42hGQaTMY2pOtiZJvmr71AK6r7xGbusjQC4MZ%22%7D&enablejsapi=1&errorlinks=1&origin=https://es.eabarcelona.org&vl=1" title="" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/WyprXhvGVYk" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/48VAQtGmfWY?embed_config=%7B%22enc%22:%22AXH1ezkCXvSJwhnfiLs12Njiuq_qrDmQDhGmgUOs0QCltf2Yf56XVbkar-ZXnaW7RPdqpRLZ8YsRIOYaLLeF8reXiBjH9VplIfysRltDFWrc1trVeKlv7qlEuN-RnxW9r5mLgzFLPJwa049Z9T9RzTbprCk-JkgLDCJ4XqZu3bB57haf%22%7D&enablejsapi=1&errorlinks=1&origin=https://es.eabarcelona.org&vl=1" title="" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/48VAQtGmfWY" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Libros
 
@@ -53,9 +53,9 @@ Nuestro objetivo es ofrecer oportunidades para conocer los problemas más urgent
 
 ### Charlas
 
-<iframe src="https://www.youtube.com/embed/roZoEhnQB-I?embed_config=%7B%22enc%22:%22AXH1ezn4JAAwEXfjo0z1wSVchXWHq3a171_CY-Aivg68c3N3bUR2Uhj8aS9iGWrYpy0ZJrALuaDJe3AjC2CORUgjDezWFpqA2dRDpR36kgyyYxhUn2JYw3K7V125DFoMMg6FE9G2pIbk6gdKIkSaP1h0rBFxEoyfwbkJ2X_fKf3g4ExJ%22%7D&enablejsapi=1&errorlinks=1&origin=https://es.eabarcelona.org&vl=1" title="" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/roZoEhnQB-I" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/MCrSeWeZbOY?embed_config=%7B%22enc%22:%22AXH1ezlBdQl1vTc7PV85iwP9sSbkNod1dRhA1W6wz5II01f_GhH8S_4t5M8Y_mkn17cHsd_srWQxhVawK9sjO-E072rtKP6sd2VjBQHr07-Pi2bLkCtv9OUiw7Yvicff7xKHTNuSZIpHVjX_76ho4RtPHTOT-_W_RdeLDMpGUXfBZKsX%22%7D&enablejsapi=1&errorlinks=1&origin=https://es.eabarcelona.org&vl=1" title="" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/MCrSeWeZbOY" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Anímate y únete a uno o más de nuestros canales sociales para mantenerte al día de lo que sucede en Barcelona.
 

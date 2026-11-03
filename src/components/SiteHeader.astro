@@ -1,0 +1,197 @@
+---
+import { LANG_LABELS, LANG_NAMES, type Lang } from '../lib/pages';
+import Logo from './Logo.astro';
+import ThemeToggle from './ThemeToggle.astro';
+
+interface NavItem {
+  label: string;
+  href: string;
+  current: boolean;
+}
+
+interface Props {
+  lang: Lang;
+  homeHref: string;
+  nav: NavItem[];
+  switcher: { lang: Lang; href: string }[];
+}
+
+const { lang, homeHref, nav, switcher } = Astro.props;
+---
+
+<header class="site-header">
+  <div class="bar">
+    <Logo href={homeHref} />
+    <input class="menu-toggle" type="checkbox" id="menu-toggle" aria-label="Menu" />
+    <label class="menu-button" for="menu-toggle" aria-hidden="true">
+      <span></span>
+    </label>
+    <div class="menu">
+      <nav aria-label="Main">
+        <ul>
+          {
+            nav.map((item) => (
+              <li>
+                <a href={item.href} aria-current={item.current ? 'page' : undefined}>
+                  {item.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </nav>
+      <nav class="languages" aria-label="Language">
+        {
+          switcher.map((item) => (
+            <a
+              href={item.href}
+              hreflang={item.lang}
+              lang={item.lang}
+              title={LANG_NAMES[item.lang]}
+              aria-current={item.lang === lang ? 'true' : undefined}
+            >
+              {LANG_LABELS[item.lang]}
+            </a>
+          ))
+        }
+      </nav>
+      <ThemeToggle lang={lang} />
+    </div>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: var(--color-bg);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3) var(--space-6);
+    min-height: var(--header-height);
+    max-width: var(--width-wide);
+    margin: 0 auto;
+    padding: 0 var(--gutter);
+  }
+
+  .menu-toggle {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .menu-button {
+    display: grid;
+    place-items: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    cursor: pointer;
+  }
+
+  .menu-button span,
+  .menu-button span::before,
+  .menu-button span::after {
+    display: block;
+    width: 1.5rem;
+    height: 2px;
+    background: var(--color-text);
+    content: '';
+  }
+
+  .menu-button span {
+    position: relative;
+  }
+
+  .menu-button span::before {
+    position: absolute;
+    top: -7px;
+  }
+
+  .menu-button span::after {
+    position: absolute;
+    top: 7px;
+  }
+
+  .menu-toggle:focus-visible + .menu-button {
+    outline: 3px solid var(--color-focus);
+    border-radius: var(--radius-sm);
+  }
+
+  .menu {
+    display: none;
+    flex-basis: 100%;
+    padding-bottom: var(--space-4);
+  }
+
+  .menu-toggle:checked ~ .menu {
+    display: block;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+    margin: 0 0 var(--space-3);
+    padding: 0;
+    list-style: none;
+  }
+
+  nav a {
+    display: block;
+    padding: var(--space-2) 0;
+    color: var(--color-text);
+    font-weight: var(--weight-semibold);
+    text-decoration: none;
+  }
+
+  nav a:hover {
+    color: var(--color-primary-strong);
+  }
+
+  nav a[aria-current='page'] {
+    color: var(--color-primary-strong);
+    box-shadow: inset 0 -3px 0 var(--color-primary);
+  }
+
+  .languages {
+    display: flex;
+    gap: var(--space-4);
+    font-size: var(--text-xs);
+  }
+
+  .languages a[aria-current] {
+    color: var(--color-primary-strong);
+  }
+
+  @media (min-width: 62rem) {
+    .menu-button {
+      display: none;
+    }
+
+    .menu {
+      display: flex;
+      flex: 1;
+      align-items: center;
+      justify-content: flex-end;
+      gap: var(--space-6);
+      padding-bottom: 0;
+    }
+
+    ul {
+      flex-direction: row;
+      gap: var(--space-5);
+      margin: 0;
+    }
+
+    nav a[aria-current='page'] {
+      box-shadow: inset 0 -3px 0 var(--color-primary);
+    }
+  }
+</style>

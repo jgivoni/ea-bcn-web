@@ -9,9 +9,9 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 ### Videos
 
-<iframe src="https://www.youtube.com/embed/WyprXhvGVYk?embed_config=%7B%22enc%22:%22AXH1ezlUhlMvBlIce5HnApsL5FBI7JARWHVPupU1zKGZVuKWOm8-Zj-ArfZX33DleHmdx2DPSZ6Xu7YLIDhcNSATjm32uzEcNvI8uJvugLL3aX2o5e_zHervtWQjqHp5CWTyQjX5nFbXLLACViOlxptx4lCWekC0m293Hk2P3385czPRrteUY9wN-CVrOYfBs5k8k8WF8up4Ye7_miJjXmperLnWXPwVihPQKlIPF5cqY6qq5gGwMJotv2i5v3-5uabuYRf5jho46qPpwSJBY6H-cMZvuWjj7SXHjSIktECDm_GTNxDYl3ARrNDG9wVidMSD_iGtJExPtqs1z72GufMOFk4ZXHo1IG4R0kEFagXFPFg%3D%22%7D&enablejsapi=1&errorlinks=1&origin=https://www.eabarcelona.org&vl=1" title="" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/WyprXhvGVYk" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/48VAQtGmfWY?embed_config=%7B%22enc%22:%22AXH1eznlY2B9aML1vKCjaHmfpe7cPVZi_UNNu55CNV16IZuKEdna52NyhIwLxUj2zAAhHIZ6Qns5Vrg7iyeJEqB-hBnHjPpd6yizx4ta0gbHNP8M1Q1EAviZVojWnjntYERbbr-Mx5fg8hlSfBR3sXZESRFTy3UiLx1_2PpZlwDEfm7XSVbA2srqIFa5t4WLGu_99vOqYnWx0D1B0FCeeeaJoCqSzYnIVA0A5fzUi3TWYlK0qE44GD_ViFKhwrPHH2N_5KCrFTuwpeUEfCgiD31vrWk3LsFcCO3YUDBYb5sKyXg5t3Wdw1bU2rPca05X6u8K-pYn8MIZ6RRP2-G1gplBYzQebSzDSC72UEVxWFsN8lM%3D%22%7D&enablejsapi=1&errorlinks=1&origin=https://www.eabarcelona.org&vl=1" title="" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/48VAQtGmfWY" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Books
 
@@ -53,9 +53,9 @@ Our aim is to provide opportunities to learn about the world’s most urgent pro
 
 ### Talks
 
-<iframe src="https://www.youtube.com/embed/roZoEhnQB-I?embed_config=%7B%22enc%22:%22AXH1ezkDbCFCmA69J6bHA9fu_mzTw2cW9NB7ChoOPjBRsx-aR_zIc-3oj5AIrsOgfVAO38eG31geMVv7GxpgkzgGsZHT9E4YT_l9Fbv4MIj5BmCcRt1Cj199mVrb0sKpVpPsziC34eSZAlbWJNRMUcRqEQL8GQl2JWkOlgLRk90tnvFE_ZtiNwDQJ9t1t2EjH587IL2TxprUIthLLNv9nv4UtlJuzojfq4tcFoJgnidh2wHAmHlEXbMoQE29mVlC-CTmmFIPZBo-OuVRetUeJevLJRNednTU9JlIgpn_EmqgMxbDKhL-rmglvx-HczeocrK3d9F8vFDGZsZDBkVNfpeHd6PwjuqnltKc_3s5usbmP-0%3D%22%7D&enablejsapi=1&errorlinks=1&origin=https://www.eabarcelona.org&vl=1" title="" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/roZoEhnQB-I" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/MCrSeWeZbOY?embed_config=%7B%22enc%22:%22AXH1ezkacF7rxwLeOaeodKjhYn6QafbQj6Fy1cCCw2IJU_qOOyzwiwkiP0MZnHMMA6qbixQhLN_zZReTZ8nVafqUzGpXVwL9gXbdK5bahJ84Pvy1YswsIP2tDnsxkg0W849KrpLX57qopWK82rxQ1Mg8XwI_VNHuNiP2sSq7Vyx_AfR0T7Z8k20HYEsJBVlVg3PzeODU6VSsUVfaHMGYhnt6SSJpFZGrMNpREHFc77G3oxE6Wb00PylgKUuZzu8DYW2P9FJStzaD5QUe61HzKbzipiN31UxTVGQl_cUH7lIZs2XKsi4Y2goENVO90ixi_LHCIKDZpIRe5GBtVTemKHFKeitDcgW9Stw_h8cUyzihiLQ%3D%22%7D&enablejsapi=1&errorlinks=1&origin=https://www.eabarcelona.org&vl=1" title="" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/MCrSeWeZbOY" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Feel free to join one or more of our social channels so that you can stay up-to-date on what’s going on in Barcelona.
 

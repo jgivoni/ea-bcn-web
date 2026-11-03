@@ -1,0 +1,70 @@
+---
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+  title: string;
+  href: string;
+  image: ImageMetadata;
+}
+
+const { title, href, image } = Astro.props;
+---
+
+<article class="card">
+  <Image class="card-image" src={image} alt="" widths={[320, 480, 720]} sizes="(min-width: 48rem) 22rem, 90vw" />
+  <div class="card-body">
+    <h3 class="card-title"><a class="card-link" href={href}>{title}</a></h3>
+    <p class="card-text"><slot /></p>
+  </div>
+</article>
+
+<style>
+  .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border-radius: var(--radius-md);
+    background: var(--color-bg);
+    box-shadow: var(--shadow-card);
+    transition: box-shadow 0.2s, transform 0.2s;
+  }
+
+  .card:hover {
+    box-shadow: var(--shadow-card-hover);
+    transform: translateY(-2px);
+  }
+
+  .card-image {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+  }
+
+  .card-body {
+    padding: var(--space-5);
+  }
+
+  .card-title {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-xl);
+  }
+
+  .card-link {
+    color: var(--color-primary-strong);
+    text-decoration: none;
+  }
+
+  /* The whole card is the click target. */
+  .card-link::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
+
+  .card-text {
+    margin: 0;
+    color: var(--color-text-muted);
+  }
+</style>

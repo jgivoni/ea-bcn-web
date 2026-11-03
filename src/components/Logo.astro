@@ -1,0 +1,40 @@
+---
+import { Image } from 'astro:assets';
+import icon from '../assets/brand/logo-icon.png';
+
+interface Props {
+  href: string;
+}
+
+const { href } = Astro.props;
+---
+
+<a class="logo" href={href} aria-label="EA Barcelona">
+  <Image class="logo-icon" src={icon} alt="" densities={[1, 2]} height={32} />
+  <span class="logo-text"><strong>Effective Altruism</strong> Barcelona</span>
+</a>
+
+<style>
+  .logo {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    color: var(--color-text);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .logo-icon {
+    height: 2rem;
+    width: auto;
+  }
+
+  .logo-text {
+    font-size: var(--text-sm);
+    font-weight: var(--weight-regular);
+  }
+
+  .logo-text strong {
+    font-weight: var(--weight-bold);
+  }
+</style>

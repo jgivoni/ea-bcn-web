@@ -1,6 +1,6 @@
 // Converts the Google Sites crawl in crawl/html into Markdown content files.
-// Run with: pnpm import-crawl
-import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+// Run with: pnpm import-crawl (add -- --force to overwrite pages that already exist)
+import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { load } from 'cheerio';
@@ -127,6 +127,12 @@ function resolveLink(href, lang) {
   }
 }
 
+// Google Sites adds an encrypted embed_config and an origin that only work on the old domain.
+export function cleanEmbed(src) {
+  const youtube = src.match(/youtube(?:-nocookie)?\.com\/embed\/([\w-]{11})/);
+  return youtube ? `https://www.youtube-nocookie.com/embed/${youtube[1]}` : src;
+}
+
 function makeConverter(lang) {
   const td = new TurndownService({ headingStyle: 'atx', bulletListMarker: '-' });
   td.addRule('heading', {
@@ -157,11 +163,12 @@ function makeConverter(lang) {
   td.addRule('iframe', {
     filter: 'iframe',
     replacement: (_content, node) => {
-      const src = node.getAttribute('src') || node.getAttribute('data-src');
-      if (!src) return '';
+      const raw = node.getAttribute('src') || node.getAttribute('data-src');
+      if (!raw) return '';
+      const src = cleanEmbed(raw);
       report.iframes.push(src);
       const title = (node.getAttribute('title') || '').replace(/"/g, '&quot;');
-      return `\n\n<iframe src="${src}" title="${title}" loading="lazy" allowfullscreen></iframe>\n\n`;
+      return `\n\n<iframe src="${src}" title="${title}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>\n\n`;
     },
   });
   td.addRule('divs', { filter: ['div', 'section'], replacement: (content) => `\n${content}\n` });
@@ -181,7 +188,9 @@ const LUMA_TITLES = { en: 'EA Barcelona events calendar', ca: 'Calendari d’esd
 const lumaEmbed = (lang) =>
   `<iframe src="https://lu.ma/embed/calendar/${LUMA_CALENDAR}/events" title="${LUMA_TITLES[lang]}" loading="lazy" allowfullscreen></iframe>`;
 
-rmSync(contentDir, { recursive: true, force: true });
+// Pages are edited by hand after the first import. Existing files are kept unless --force is given.
+const force = process.argv.includes('--force');
+report.skipped = 0;
 
 for (const [host, lang] of Object.entries(HOSTS)) {
   const dir = join(crawlDir, 'html', host);
@@ -204,6 +213,10 @@ for (const [host, lang] of Object.entries(HOSTS)) {
     const body = key === 'upcoming-events' ? `${markdown}\n\n${lumaEmbed(lang)}` : markdown;
     const front = ['---', `title: ${yaml(pageTitle($))}`, ...(key ? [`key: ${yaml(key)}`] : []), '---', ''].join('\n');
     const out = join(contentDir, lang, `${path}.md`);
+    if (existsSync(out) && !force) {
+      report.skipped += 1;
+      continue;
+    }
     mkdirSync(dirname(out), { recursive: true });
     writeFileSync(out, `${front}\n${body}\n`);
     report.pages += 1;

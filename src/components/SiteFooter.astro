@@ -1,0 +1,62 @@
+---
+const links = [
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/company/effective-altruism-barcelona' },
+  { label: 'Luma', href: 'https://lu.ma/calendar/cal-9tdD2nUvxmygpXa' },
+  { label: 'YouTube', href: 'https://www.youtube.com/@eabarcelona' },
+];
+---
+
+<footer class="site-footer">
+  <div class="inner">
+    <p>
+      <slot />{' '}
+      <a href="mailto:effectivealtruismbarcelona@gmail.com">effectivealtruismbarcelona@gmail.com</a>
+    </p>
+    <ul>
+      {
+        links.map((link) => (
+          <li>
+            <a href={link.href} rel="noopener">
+              {link.label}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    padding: var(--space-7) var(--gutter);
+    background: var(--color-footer-bg);
+    color: var(--color-footer-text);
+    font-size: var(--text-sm);
+  }
+
+  .inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-4) var(--space-6);
+    max-width: var(--width-wide);
+    margin: 0 auto;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  ul {
+    display: flex;
+    gap: var(--space-5);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+</style>
