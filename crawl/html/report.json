@@ -1,0 +1,278 @@
+{
+ "www.eabarcelona.org": {
+  "/": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/",
+   "bytes": 162270
+  },
+  "/about": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/about",
+   "bytes": 187455
+  },
+  "/events/upcoming-events": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/upcoming-events",
+   "bytes": 156928
+  },
+  "/events/past-events": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events",
+   "bytes": 154529
+  },
+  "/get-involved": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/get-involved",
+   "bytes": 188925
+  },
+  "/take-action": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/take-action",
+   "bytes": 160827
+  },
+  "/home": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/home",
+   "bytes": 162448
+  },
+  "/events/past-events/events-2024/jan-jun-2024": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2024/jan-jun-2024",
+   "bytes": 193970
+  },
+  "/events/past-events/events-2024": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2024",
+   "bytes": 164873
+  },
+  "/events/past-events/events-2025": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2025",
+   "bytes": 173156
+  },
+  "/events/past-events/events-2024/july-2024": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2024/july-2024",
+   "bytes": 156362
+  },
+  "/events/past-events/events-2024/september-2024": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2024/september-2024",
+   "bytes": 161840
+  },
+  "/events/past-events/events-2024/november-2024": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2024/november-2024",
+   "bytes": 165956
+  },
+  "/events/past-events/events-2024/december-2024": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2024/december-2024",
+   "bytes": 158178
+  },
+  "/events/past-events/events-2024/october-2024": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2024/october-2024",
+   "bytes": 170226
+  },
+  "/events/past-events/events-2024/august-2024": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2024/august-2024",
+   "bytes": 164192
+  },
+  "/events/past-events/events-2025/april-2025": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2025/april-2025",
+   "bytes": 161543
+  },
+  "/events/past-events/events-2025/october-2025": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2025/october-2025",
+   "bytes": 168412
+  },
+  "/events/past-events/events-2025/march-2025": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2025/march-2025",
+   "bytes": 169237
+  },
+  "/events/past-events/events-2025/november-december-2025": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2025/november-december-2025",
+   "bytes": 174916
+  },
+  "/events/past-events/events-2025/september-2025": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2025/september-2025",
+   "bytes": 187880
+  },
+  "/events/past-events/events-2025/july-2025": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2025/july-2025",
+   "bytes": 165765
+  },
+  "/events/past-events/events-2025/may-2025": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2025/may-2025",
+   "bytes": 173778
+  },
+  "/events/past-events/events-2025/jan-feb-2025": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2025/jan-feb-2025",
+   "bytes": 172238
+  },
+  "/events/past-events/events-2025/august-2025": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2025/august-2025",
+   "bytes": 162420
+  },
+  "/events/past-events/events-2025/june-2025": {
+   "status": 200,
+   "final": "https://www.eabarcelona.org/events/past-events/events-2025/june-2025",
+   "bytes": 169405
+  }
+ },
+ "ca.eabarcelona.org": {
+  "/": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/",
+   "bytes": 158101
+  },
+  "/inici": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/inici",
+   "bytes": 158161
+  },
+  "/contacte": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/contacte",
+   "bytes": 152597
+  },
+  "/esdeveniments/propers-esdeveniments": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/esdeveniments/propers-esdeveniments",
+   "bytes": 154598
+  },
+  "/qui-som": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/qui-som",
+   "bytes": 187253
+  },
+  "/actua": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/actua",
+   "bytes": 158363
+  },
+  "/esdeveniments/esdeveniments-passats": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/esdeveniments/esdeveniments-passats",
+   "bytes": 166297
+  },
+  "/esdeveniments/esdeveniments-passats/novembre-2024": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/esdeveniments/esdeveniments-passats/novembre-2024",
+   "bytes": 167616
+  },
+  "/esdeveniments/esdeveniments-passats/gener-juny-2024": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/esdeveniments/esdeveniments-passats/gener-juny-2024",
+   "bytes": 192435
+  },
+  "/esdeveniments/esdeveniments-passats/desembre-2024": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/esdeveniments/esdeveniments-passats/desembre-2024",
+   "bytes": 159235
+  },
+  "/esdeveniments/esdeveniments-passats/juliol-2024": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/esdeveniments/esdeveniments-passats/juliol-2024",
+   "bytes": 156962
+  },
+  "/esdeveniments/esdeveniments-passats/setembre-2024": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/esdeveniments/esdeveniments-passats/setembre-2024",
+   "bytes": 161400
+  },
+  "/esdeveniments/esdeveniments-passats/octubre-2024": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/esdeveniments/esdeveniments-passats/octubre-2024",
+   "bytes": 171831
+  },
+  "/esdeveniments/esdeveniments-passats/agost-2024": {
+   "status": 200,
+   "final": "https://ca.eabarcelona.org/esdeveniments/esdeveniments-passats/agost-2024",
+   "bytes": 164684
+  }
+ },
+ "es.eabarcelona.org": {
+  "/": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/",
+   "bytes": 157920
+  },
+  "/actúa": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/act%C3%BAa",
+   "bytes": 158061
+  },
+  "/inicio": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/inicio",
+   "bytes": 158106
+  },
+  "/contacto": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/contacto",
+   "bytes": 151714
+  },
+  "/eventos/eventos-pasados": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/eventos/eventos-pasados",
+   "bytes": 168949
+  },
+  "/eventos/próximos-eventos": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/eventos/pr%C3%B3ximos-eventos",
+   "bytes": 154001
+  },
+  "/sobre-nosotros": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/sobre-nosotros",
+   "bytes": 186524
+  },
+  "/eventos/eventos-pasados/diciembre-2024": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/eventos/eventos-pasados/diciembre-2024",
+   "bytes": 159238
+  },
+  "/eventos/eventos-pasados/noviembre-2024": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/eventos/eventos-pasados/noviembre-2024",
+   "bytes": 169605
+  },
+  "/eventos/eventos-pasados/enero-junio-2024": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/eventos/eventos-pasados/enero-junio-2024",
+   "bytes": 192266
+  },
+  "/eventos/eventos-pasados/septiembre-2024": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/eventos/eventos-pasados/septiembre-2024",
+   "bytes": 161162
+  },
+  "/eventos/eventos-pasados/julio-2024": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/eventos/eventos-pasados/julio-2024",
+   "bytes": 156722
+  },
+  "/eventos/eventos-pasados/agosto-2024": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/eventos/eventos-pasados/agosto-2024",
+   "bytes": 165622
+  },
+  "/eventos/eventos-pasados/octubre-2024": {
+   "status": 200,
+   "final": "https://es.eabarcelona.org/eventos/eventos-pasados/octubre-2024",
+   "bytes": 172129
+  }
+ }
+}

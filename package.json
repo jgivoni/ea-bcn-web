@@ -1,0 +1,26 @@
+{
+  "name": "ea-website",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.34.7",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "import-crawl": "node scripts/import-crawl.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.4.5"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.12",
+    "cheerio": "^1.2.0",
+    "turndown": "^7.2.4",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,22 @@
+---
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { loadPages } from '../lib/pages';
+
+export async function getStaticPaths() {
+  const pages = await loadPages();
+  return pages.map((page) => ({
+    params: { slug: page.url === '/' ? undefined : page.url.slice(1) },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page.entry);
+---
+
+<Base page={page}>
+  <article>
+    <Content />
+  </article>
+</Base>
