@@ -5,36 +5,94 @@ key: "past-2024-10"
 
 # Octubre: Charlas, tapas y minicasas🏡
 
-Octubre ha estado repleto de actividades, incluyendo charlas sobre emprendimiento, la ciencia de las proteínas alternativas y la seguridad de la IA, así como sesiones de coworking y una visita a una minicasa. Esperamos que disfrutes recordándolas, que te entren ganas de venir a las siguientes y que podamos mantener este gran impulso en noviembre.
+Octubre ha estado repleto de actividades, incluyendo charlas sobre **emprendimiento**, la **ciencia de las proteínas alternativas** y la **seguridad de la IA**, así como sesiones de **coworking** y una **visita a una minicasa**. Esperamos que disfrutes recordándolas, que te entren ganas de venir a las siguientes y que podamos mantener este gran impulso en noviembre.
+
+<div class="cols">
+
+<div class="col">
 
 ![](/images/c154dd05f8b0.jpg)
 
-Creando cambios significativos a través del emprendimiento
+</div>
 
-Los emprendedores [Pablo Melchor](https://www.linkedin.com/in/pmelchor/) de [Ayuda Efectiva](https://ayudaefectiva.org/) y [Emma Stoks](https://www.linkedin.com/in/emmastoks/) de [Ambitious Impact (AIM)](https://www.ambitiousimpact.com/) dieron una charla fascinante sobre sus perspectivas únicos de impacto social en [MOB Bailèn Eixample](https://mob-barcelona.com/coworking-eixample/), seguida de networking y debates interesantes. Puedes ver su presentación en Youtube [aquí](https://youtu.be/8RytPkSHjr8?si=aoMqFcMIE8eYigd4).
+<div class="col">
+
+### Creando cambios significativos a través del emprendimiento
+
+Los emprendedores [Pablo Melchor](https://www.linkedin.com/in/pmelchor/) de [Ayuda Efectiva](https://ayudaefectiva.org/) y [Emma Stoks](https://www.linkedin.com/in/emmastoks/) de [Ambitious Impact (AIM)](https://www.ambitiousimpact.com/) dieron una charla fascinante sobre sus **perspectivas únicas de impacto social** en [MOB Bailèn Eixample](https://mob-barcelona.com/coworking-eixample/), seguida de networking y debates interesantes. Puedes **ver su presentación en Youtube** [aquí](https://youtu.be/8RytPkSHjr8?si=aoMqFcMIE8eYigd4).
+
+</div>
+
+</div>
+
+<div class="cols">
+
+<div class="col">
 
 ![](/images/ae8567d7a5cd.jpg)
 
-AI Safety Barcelona sigue creciendo
+</div>
 
-El segundo evento organizado por el nuevo grupo de estudiantes AI Safety Barcelona tuvo lugar en la Universitat Pompeu Fabra. El investigador y doctor de Cambridge [Adriá Garriga-Alonso](https://www.linkedin.com/in/adrigarriga/) compartió su último trabajo sobre la mitigación de los riesgos de la IA, seguido una sesión de preguntas y respuestas, un rato de socialización y unas pizzas. Si quieres saber más sobre AIS Barcelona y ver cómo puedes participar, puedes visitar su nuevo sitio web [aquí](https://www.aisafetybcn.org/).
+<div class="col">
+
+### AI Safety Barcelona sigue creciendo
+
+El segundo evento organizado por el nuevo grupo de estudiantes **AI Safety Barcelona** tuvo lugar en la **Universitat Pompeu Fabra**. El investigador y doctor de Cambridge [Adriá Garriga-Alonso](https://www.linkedin.com/in/adrigarriga/) compartió su último trabajo sobre la **mitigación de los riesgos de la IA**, seguido de una sesión de preguntas y respuestas, un rato de socialización y unas pizzas. Si quieres saber más sobre AIS Barcelona y ver cómo puedes participar, puedes visitar su **nuevo sitio web** [aquí](https://www.aisafetybcn.org/).
+
+</div>
+
+</div>
+
+<div class="cols">
+
+<div class="col">
 
 ![](/images/0ff0962da13e.jpg)
 
-Tapa Talks con ESAlogika
+</div>
 
-EA Barcelona colaboró ​​con la [Environmental Social Association de Barcelona](https://esalogika.com/) (ESAlogika) para su taller TapaTalks sobre proteínas alternativas, con la participación de Ricard Soler, Anya Reshetnyak y, como invitado especial, [Marc Coloma](https://www.linkedin.com/in/marccoloma/), cofundador de [Heura](https://heurafoods.com/), una de las empresas de carnes vegetales de más rápido crecimiento de España. ¡Y pudimos probar su jamón York! 😋 Si quieres saber más sobre ESAlogika y su serie TapaTalks, puedes unirte a su grupo Meetup [aquí](https://www.meetup.com/barcelona-community-meetup-group/?eventOrigin=event_home_page).
+<div class="col">
+
+### Tapa Talks con ESAlogika
+
+EA Barcelona colaboró con la [Environmental Social Association de Barcelona](https://esalogika.com/) (ESAlogika) para su **taller TapaTalks sobre proteínas alternativas**, con la participación de **Ricard Soler, Anya Reshetnyak** y, como invitado especial, [Marc Coloma](https://www.linkedin.com/in/marccoloma/), cofundador de [Heura](https://heurafoods.com/), una de las empresas de carnes vegetales de más rápido crecimiento de España. ¡Y pudimos probar su jamón York! 😋 Si quieres saber más sobre ESAlogika y su serie TapaTalks, puedes **unirte a su grupo Meetup** [aquí](https://www.meetup.com/barcelona-community-meetup-group/?eventOrigin=event_home_page).
+
+</div>
+
+</div>
+
+<div class="cols">
+
+<div class="col">
 
 ![](/images/c39d4fbdaf94.jpg)
 
-Coworking
+</div>
 
-Por supuesto, disfrutamos de nuestra habitual sesión de coworking en Sopa, esta vez compartiendo ideas sobre salud global, la industria de la moda y solucionando algunos problemas con nuestro sitio web :D
+<div class="col">
+
+### Coworking
+
+Por supuesto, disfrutamos de nuestra habitual sesión de coworking en Sopa, esta vez compartiendo ideas sobre **salud global**, la **industria de la moda** y **solucionando algunos problemas con nuestro sitio web** :D
+
+</div>
+
+</div>
+
+<div class="cols">
+
+<div class="col">
 
 ![](/images/b5fd5d07865f.jpg)
 
-¡Visita a una minicasa!
+</div>
 
-A pesar de la lluvia, un grupo de personas se acercó a La Floresta para visitar la minicasa de nuestro miembro Jakob (¡30 metros cuadrados!). Disfrutamos de un tour especial, un delicioso almuerzo de falafel y jugamos a un juego de mesa muy interesante llamado “Cuarto”. Gracias a Jakob y su esposa Helena por hospedarnos 🙏
+<div class="col">
 
-[Próximos eventos](/es/eventos/próximos-eventos)
+### ¡Visita a una minicasa!
+
+A pesar de la lluvia, un grupo de personas se acercó a **La Floresta** para visitar la **minicasa** de nuestro miembro Jakob (¡30 metros cuadrados!). Disfrutamos de un **tour especial**, un **delicioso almuerzo de falafel** y jugamos a **un juego de mesa muy interesante llamado “Cuarto”**. Gracias a Jakob y su esposa Helena por hospedarnos 🙏
+
+</div>
+
+</div>
