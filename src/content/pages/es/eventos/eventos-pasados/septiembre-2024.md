@@ -19,7 +19,7 @@ Aquí tenéis más fotos porque nos encantó :D
 
 Muchas gracias a todos los que participaron en este maravilloso evento, que tuvo lugar en el hermoso [Apocapoc Nest City Lab](https://www.apocapocbcn.com/) como parte de su Good Deed Saturday 💚 ¡Esperamos futuras colaboraciones!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uRJ7xeAprkd7axQ8lJRvKZf1IMic_UFlaJVFMeTxlLmI5YmTyJMZP-LTlqsh1RjVTyPPgONWfM7xPpfF_ni8JsRDA3Q5vk8c-H8Wpm0cvjtaW5_a539P72efRoLcoYwzj0ZGexwGvFG1qInkE-EEHo8pxsv1QzUuBh2bg4R2vVzgtlICvGrEOgzB2hwml8bnL_QDZHx60uQ2Bgl03_0OHjimo58wt9cZbP9PJ0K94=w1280)
+![](/images/7f833d43689d.jpg)
 
 Altruisme Efectiu UAB
 

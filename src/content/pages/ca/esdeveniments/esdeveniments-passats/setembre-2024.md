@@ -7,7 +7,7 @@ key: "past-2024-09"
 
 Setembre ha estat un mes molt emocionant per a EA Barcelona, ​​amb moltes plantes, proteïnes i estudiants universitaris apassionats, a més d'un viatge a Berlín. Esperem que ens porti bons records i inspiri a aquells que no han estat tan presents últimament a unir-se a nosaltres molt aviat!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sQXmCYAayD1N6UY9FR8IOGbzGgk-Utd-DNV06cyAQpa1pn4i4yiW6IADEPsCHA9hQu6_7f7OTFN3SrXHv48kFklDoE1CvKQQDg3dF3D-1PXtY3CBkjI3W2d3O0FjNn14JAx_gKoHf8MkeQUUDzh4-CFlNo0CDpiZ-vvN9mjbYP0kQZUxEP68gKvnXHvUuazeL6s7JDJEy2kyrK5n_HaqezE9kRrEMt3wvAMlVwGMI=w1280)
+![](/images/99beb267b3cf.jpg)
 
 Veg-curious: Aprèn, empodera't i tasta!
 
@@ -19,13 +19,13 @@ Aquí teniu algunes fotos més perquè ens va encantar :D
 
 Moltes gràcies a tots els que vau participar en aquest meravellós esdeveniment, que va tenir lloc al preciós [Apocapoc Nest City Lab](https://www.apocapocbcn.com/) com a part del seu Good Deed Saturday 💚 Esperem tornar a col·laborar aviat!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uF0dj0AFSE_4AtZaj8GK3paZRlXU0ZTSMjM6iihjb0b5DdhlzhOVOLCUYMMxu02Yif9kRIk-Wi34Tf3dK7XV3t9C33dTcjGCX_pCBNfPnDdrJ1HCgxc6XaIWko8k6qVHz4S7qYUGsi9DDq867y2h_3dnVNmHbgQ2ecjFcX3Uv-ilTT5zrldklmhaErmIB_tB-2rSK1OCUiat6Pc_EvD7rRsVKSn2aZhfBlLJ7DHDM=w1280)
+![](/images/fd0150ec4ff1.jpg)
 
 Altruisme Efectiu UAB
 
 En [Lukas Robertson](https://www.linkedin.com/in/lukas-paul-robertson/) va organitzar l'acte inaugural del seu nou grup universitari d'EA [Altruisme Efectiu UAB](https://sites.google.com/view/altruisme-efectiu-uab). Va incloure una altra gran xerrada de [Pablo Rosado](https://www.linkedin.com/in/pabloarosado/) sobre els problemes més grans del món i com dirigir la vostra carrera cap a l'impacte. Esperem veure com evoluciona l'AE UAB, Lukas!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72udX4Ud0EQooECp7C7JUqfHcxs3GNAsA49NLHvGbEdljiFB0UqH4vPi8FTe7cErh1gJNaka7KyItRIIAZItqDCDfcLHhPvf-5OBa5gbwmsBaBfz8v-8Fcsg357d2X1yzbFKH6OodyvWAl9PXzw4kPCklNF7Qc8knwflELWU8CPAOLmTvV_1wrSaVpQHk2n6SBpoXX3FlBQ47okf20L_J0MtOhgEnFdNrhd3M_bw6jA=w1280)
+![](/images/b05a21699945.jpg)
 
 EA Barcelona està representada a EAGx Berlin!
 

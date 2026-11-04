@@ -8,19 +8,19 @@ This month was all about reconnecting with one another. The cold winter months h
 
 Ready for the recap? Let’s go!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tSyjgTobeLVs1xZLC-6P7joxQOqh0ahPYe0PFRJv_g6zzfvjbGxCPcV7PvFvlzowZw-lmKOIsRg8sFuGe6RcBlFcycEhhpxLYewmmbVBrOCwDyn-Xt5UT9gVCNomfcLkewwK3OKrgT3WWlcEZJczFK_GyCXeft7V-Iof9LPLDME_vfRLYZacwUI8xTinv-1psx90w_373XpGjMw5xKSkoiezUya74HncN6sfTXSpk=w1280)
+![](/images/e270bf68aef1.jpg)
 
 We’re introducing our brand NEW Community Spotlight!
 
 [Ana Luna Hernández](https://altruismoeficaz.us17.list-manage.com/track/click?u=0dc76b203bd2c6ce07552df96&id=9c0a8834f1&e=2f00419b00) is a third year Biotechnology student at Universitat of Barcelona. She is especially interested in alternative protein development and the [One Health approach](https://altruismoeficaz.us17.list-manage.com/track/click?u=0dc76b203bd2c6ce07552df96&id=485140799c&e=2f00419b00), which links human, animal, and environmental health. This month, she and her classmates organised a university fundraising campaign and successfully raised 460,68€ for [Against Malaria Foundation](https://altruismoeficaz.us17.list-manage.com/track/click?u=0dc76b203bd2c6ce07552df96&id=82a809ae48&e=2f00419b00)! This initiative will provide 230 insecticide-treated bed nets, protecting approximately 460 people for 3 to 4 years.​ Amazing work, Ana and team!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uRTvykoxeTsLdyvNn11bsd2lv2CU6Og_HHZ1wRnyRpcp98vwMY7fmCLrtBnS2HNnctE_lg9wcIGYrbfQTqBbGIhcItVNUj0zLddiOkpb-Nj1ZGR8U3OJxzpLUH7nHaxT7tgzctxZnRoxqZD3hDbz-sstgftX44R7LUpSLdU-auI9HXa6VHeEOUuEeV_uwq7gxfMPjq9HMSthUI2DY_HN3x8id_L_jgAxZ6XQ=w1280)
+![](/images/856f5ba32083.jpg)
 
 Spring social in Ciutadella Park 🌷
 
 We had a delightful Saturday afternoon in Ciutadella Park with 14 attendees, including a few new faces. The sunshine complemented our engaging conversations on effective altruism, AI, career paths, and ideas for more regular get togethers Thanks to everyone who came!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vb1eODiX10csOkJk8y8ymCN5Ed2SQNdhK1Yjz7I_6MC88tRxkUt4b2cOkC9_DDo4jc6nsuR6ikugnh79y3C-BqVPmsogK8jR_yjvlCwj2xwijrHb8c9ZKJ3lxQ6yRru0zGU5X8QhKEyChhyPzlPMTd1ZfXvIDUq0mgHKSBdTIOITu0eFyB4ZISlLlppeNiKOznpoeonmJqnVAsRAxmVRfAm6bcw0kmCcO3QYAi=w1280)
+![](/images/312ac0f48e59.jpg)
 
 Coworking in Sopa ☕️
 

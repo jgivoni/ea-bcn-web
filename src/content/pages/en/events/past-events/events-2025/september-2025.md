@@ -6,7 +6,7 @@ title: "September 2025"
 
 September was an incredible month for our community! From kicking off our second Introductory Fellowship to hosting a dynamic workshop run by a world-famous animal advocate, the energy was palpable. We reached for impact and celebrated a huge milestone for one of our own.
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tN4QYQS_bpB3pkQl56iBWA9ItFkY_Hliw7nYMyfmsVEVN3Tmo5N3N3aEWaRUVRrnhC2gKsDPFhI-YPuxmg1cxOF9zOmGuQ0-CGluz_ayLP2PF2EKUFVL0hH0kvR7l5D-ajkli72lKVuADMNTzELNJvn1_rjXa8UlX3IQHup3VNgVogb-A1E5aruf-Cu08VpTRHSjhO18O16vngrqUIZ7a7CoAq21Lw-KPThWaN4AA=w1280)
+![](/images/8b623190d741.png)
 
 Community Spotlight 🔦
 
@@ -30,7 +30,7 @@ If this video makes you think differently, here are three easy ways to help it r
 
 Amazing work, Pablo! Thanks for pushing this vital conversation forward 👏
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u-t_3XXgOXG0OTivnxhqRAh_PQsNFMp5iKbNigdGZgrV_mnNaLv4pvY0O4jKoF0KeSfwh-aMw0NSQbUtCI9oRcddrdYnyBR_ZNywZp-dP5Ev4J6HaMQvmdA04Q6NY6MATlbKoRmykKM8241XXs6fkrzRDojGnjhvrXCP6xA6cB9y7jrEWPnUjRZUM5OnwwG07NTDNI7LseTmPQoVRliCBZqTDl0KboGENsNAkw=w1280)
+![](/images/b05627a5cd50.jpg)
 
 And a Big Congratulations to Mel! 🎤
 
@@ -38,9 +38,9 @@ We also want to celebrate our incredible community builder, [Mel Brennan](https:
 
 You can read her full story [here](https://www.effectivealtruism.org/stories/melanie-brennan).
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u7VNC47UJYZxjs11Q9UxlrxmjF4qHbwwrZAVfHW6TZa4irv0fngxpY5D0sZNfyksGzTyqrxRxh4iIYHz-LPPF5eq7zNU8idUDl_MFO8lGyWTWvoN6iO9PyG2U3heMsd_6JcaRYJHwGDrmvDxp46vvXLsEJsKIpFmiDRGotRsbeRQ5SbQ8zjvzOxuE82CgK6C-sLR-l4t2AY-nCt1t-iUfjCuphsbYhVmatRpbJv2A=w1280)
+![](/images/e111ae55d676.jpg)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72trfwpENYZt606-szSWICE9z8CBkjcnSQJC8i9X7Pk5B9F0gkTXK73qP89WcOz0-URKpjV5_7f9BWRXqicebvINTBPJxSKPNn6f3HENKABRN6PV__gJOCR71wcfpsnNixuDiGOedbXvvPSrehAuJDMwE4UiIhMQxkdiWTOUSXs6amlV-_2wiQM62hHWutDOht6GeUTFaFsR-t8KMzEDiuv1Df9x4b7OE5j9Xk15cPE=w1280)
+![](/images/eed88ea5a9a2.jpg)
 
 🎉 Kicking Off Our Second EA Intro Fellowship!
 
@@ -48,7 +48,7 @@ A huge congratulations to our second cohort of the EA Intro Fellowship, which ra
 
 Sad you missed out this time? You can express your interest in the next iteration likely to run in Q1 2026 [here](https://docs.google.com/forms/d/e/1FAIpQLSdm4lTkycPCe5svXGCpwOdcnGX5YhRHs0lDzQNziiZGEO4OGQ/viewform?usp=header) 👈
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72swQk6RAbMddUSul4uckppgUeyfliRQvG3m2lP07szMVUBD52b6OLClzC38Q-PH8iK4-UGF5LRiPxHyWXgsFHQNibO9wDKWeEWCWMxP0t6BJujX_iTLuSZLcG49oTo9uYs3J2P-9N_ALO9Rh0E6bvjGsMHbK2q7k1ZWs1D0ZF_eOvtBejkMhYnnnPxGa7co9Gz43xukX-mRVihp1vFyHSikC5xNHjWcZY3CZ3KA1q8=w1280)
+![](/images/7db06395ea0d.jpg)
 
 Melanie Joy Workshop 🐷
 
@@ -58,7 +58,7 @@ A huge thank you to everyone who attended! We’re organising a follow-up brunch
 
 ![](/images/116edd51e16b.jpg)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ueQ19hzXBkHaLuBonH3CL0WAuaBbW_37TNBJ0S_tGOqL6A08gtZ9EePgl7P7RDCkL1hv5fqxCSoEnhWesa7jGMD7t88ly4oQ2--Su9pRQBcCEg9EXH66LVYnagTBCpdLY8_Rv4KCABYnWZ4sJp-MYoIP3djNuXJg7skQ09_JuKST7IyYqbpy-Xfy_hF40EfnFEopGh_8qtmqC9eKovBMhe4pz-SNUeyORen9i3=w1280)
+![](/images/00a8f3eabe0d.jpg)
 
 Coworking at Sopa & Sandwichez ☕️
 
@@ -74,7 +74,7 @@ Whether you're looking to network, build, or grow, our coworking sessions are fo
 
 🗓️ [Check the calendar here!](https://luma.com/calendar/cal-9tdD2nUvxmygpXa)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sOgBRBHB-r0I1K1QbLi9tI6MIHHNmRX6RJ6yl-n-CtDCGCRK6NzWNTA_pZupP80Bcsm-dDa6LcdbtnosYPYWcjqdWpZwxj_-2oUrsrOhAYooPMgbD2VBJIjieByOQ6Od0H9HOX1WOnbKg9WHukLA84MyLUH03UFpht_vWeZMBFhV63j4oXo1O7luEiDRQ4CGhEhaOKzxgG9dPRGRQOYu9YTgp7ndl3-cmNFbfXTuU=w1280)
+![](/images/ae41511cd944.jpg)
 
 🤖 A Deep Dive into Generative AI at 42 Barcelona
 
@@ -82,7 +82,7 @@ Whether you're looking to network, build, or grow, our coworking sessions are fo
 
 The event even featured live jailbreaking demos, giving attendees a hands-on look at the technology's vulnerabilities and strengths. A big thank you to the AI Safety BCN team for organizing and to everyone who came and participated!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sADXZcalEkhPlaacvILSOQd_Xki-DMPBfeHUZnw6YMk4iZQxv79-wn2qOmq0NYxQatF7EoOWfLHJreDOiQgaBqcQeucIoN1S2NotXNvUBa4sN3aKPmXb9QVDnmsgrB93tClzyR0U_9GBbWE4wNsMVuJAD8atn3LkgAsZdT6zC1Hpyo4nCt-AmlY5NoS-2BiDOgqXtm8JD_5IRQpzC_Jh1pvWnmJZ6o2m7RZw=w1280)
+![](/images/0c6516b68bae.jpg)
 
 ![](/images/3ce7efd46b7e.jpg)
 

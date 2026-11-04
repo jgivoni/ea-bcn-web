@@ -7,7 +7,7 @@ key: "past-2024-10"
 
 Octubre ha estado repleto de actividades, incluyendo charlas sobre emprendimiento, la ciencia de las proteínas alternativas y la seguridad de la IA, así como sesiones de coworking y una visita a una minicasa. Esperamos que disfrutes recordándolas, que te entren ganas de venir a las siguientes y que podamos mantener este gran impulso en noviembre.
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sWJKxNabE46Haui67SuT1ZDWbUcQw2g_xVVjpGA7tsmSSCxbZETIOChiYlNa0QW-5WuEv7aK9AHzTPhSpwliVt4h1mZf8or3AHkv3ORPXO3SEFiQnRY5EQZls3DR0ELq_UImGJP6tbMDYgp75f1HlP8KUeQDGl0onEyrnv2MQJ3huPHtgOIEiinenRU-XovQJB8WkD5s9Jjp048WFqoxsz_hutr5wy66vM0YE-=w1280)
+![](/images/c154dd05f8b0.jpg)
 
 Creando cambios significativos a través del emprendimiento
 
@@ -19,7 +19,7 @@ AI Safety Barcelona sigue creciendo
 
 El segundo evento organizado por el nuevo grupo de estudiantes AI Safety Barcelona tuvo lugar en la Universitat Pompeu Fabra. El investigador y doctor de Cambridge [Adriá Garriga-Alonso](https://www.linkedin.com/in/adrigarriga/) compartió su último trabajo sobre la mitigación de los riesgos de la IA, seguido una sesión de preguntas y respuestas, un rato de socialización y unas pizzas. Si quieres saber más sobre AIS Barcelona y ver cómo puedes participar, puedes visitar su nuevo sitio web [aquí](https://www.aisafetybcn.org/).
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uLRPEPxh4iLwcZ1jnx5fCPHfJYiUNE7oi-krJ4CWMI2SoSZSgpt7F6UJUicXgG1Kd9XGmOFWflX95A9G0sAWzOFFUnWA7ZSWoWSnPdQ1Y-EFYiqQDWrd2CEg0KXmSt4F9NOL8YDok2-vAnL29QttyS5jpnWbKruv-FfWIFc21iOSn7cVPiAM9yGXewgsSrMneJLWEFiaokqDeXAwF99r9CV364IBp9nTTsmae_D-Q=w1280)
+![](/images/0ff0962da13e.jpg)
 
 Tapa Talks con ESAlogika
 

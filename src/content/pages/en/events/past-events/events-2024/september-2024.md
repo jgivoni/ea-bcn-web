@@ -13,7 +13,7 @@ Veg-curious: Learn, empower and taste!
 
 This dynamic event included presentations by [Ricard Soler](https://www.linkedin.com/in/ricardsolerroger/) on his shift to effective altruism and [Anne Reshetnyak](https://www.linkedin.com/in/anne-reshetnyak/) on nutrition and meat alternatives. Then, our star chefs [Camilla Ariano](https://www.linkedin.com/in/camilla-ariano-6b5552163/) and [Anthony Lara](https://www.linkedin.com/in/anthonylarap/) demonstrated their approach to plant-based cooking, focusing on unleashing the power of plant proteins and umami flavors. We left inspired and full of ideas (and great food!) 😋 If you’d like a more complete recap, see [this Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7246802144882774016). 
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uq8r33zqiDbeRc4EHYnZH0CGQyqS2QsAoZMgnOYaUvdeuYMmjvdZjR21eP0DVqQftwJ0A_g3dlLBpuakuRHSe6AXJjiSuJcNEW0Se_RfdtUiLMh16ZGVoeg197SI3d5uyulvb4mG8wmTP1zjxE9LrhY1enGGY3E9_miKO0-KC96RcR1f92o6IGFm2t2n5VVskf1an094s0UA_TAcRv-4bNKBS7LjOMXDPmc43pA94=w1280)
+![](/images/7a7e37d3b82a.jpg)
 
 Here are some more pics because we just can’t get enough :D
 
@@ -25,7 +25,7 @@ Altruisme Efectiu UAB
 
 [Lukas Robertson](https://www.linkedin.com/in/lukas-paul-robertson/) organised the inaugural event for his new EA university group [Altruisme Efectiu UAB](https://sites.google.com/view/altruisme-efectiu-uab). It featured yet another great talk by [Pablo Rosado](https://www.linkedin.com/in/pabloarosado/) about the world's biggest problems, and how to steer your career towards impact. We look forward to seeing how AE UAB evolves, Lukas! 
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sYsyf0mUG4LPOxFSB8GqHmu8UrpEZosCnSDQbtHphO8kx2SChSdTk9NrDaqVKzlG8jAvF8tcJbxZ9LYjcphe3THeDvhd2JW5iYwJ9R2mPgxKd47V1XPsU_q5_e8wYY0FIDCoo1Armr_5cIc95Vy8o08tlB1HSToD1EntCRUNmZkU435Cp4LVEdJexpkuSJKU07n-0OudeIb5fM4aoolnffRXCVJ4yxa9cnP8C50ts=w1280)
+![](/images/bd7883c3f193.jpg)
 
 EA Barcelona is represented at EAGx Berlin!
 

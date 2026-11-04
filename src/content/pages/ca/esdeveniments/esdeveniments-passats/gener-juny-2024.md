@@ -9,7 +9,7 @@ T'expliquem alguns dels millors moments del 2024 fins ara:
 
 Gener
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t5nvnpeBEaXbrXiCRi_sru7wE44Tw_QszmjzRbqR0Cu4pJs67H-EP--yIhGvzF-ehXRInsxzA9lJiHaLgRebtgKrY7pXWYD_2OB9PfgnRp5LDmi5kt6CsI1EN8zxplZ1R4M_E5LB4ZBot63CWTaHYt1vqZWu7BlDh8WnbCQ-iMknN3oQ7-yXv870J5awY8_aHkL1vGDFIcSRt27I0tyvbk-0ERWfbiadnWOV0mLVE=w1280)
+![](/images/7e8364d54da0.jpg)
 
 En Ricard s'uneix a l'equip de community building!
 
@@ -17,7 +17,7 @@ Estem molt contents d'anunciar que el traductor multilingüe i activista dels an
 
 Febrer
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72urV-ajKzG_165NC78c8Zhmgw7Bg7T-t5qFqKXRZU-PmGp41WncsTUyzg9H1S6MYbejZyqNPqtCSbOKeUhDGvwWmMGSckWD4MsobD-KOFTo-z2d4-iyrMisuu9f7UX_sg6IpdtHUL18tCQezUF98b1suOCwfAFSd1r5WrgIhVRMTUEX-N71uyu01JlvUv9cSyrL1HofbBjEe9XrYk34thx0K_JsldD1vMLGBWoP=w1280)
+![](/images/20f79e18996e.jpg)
 
 Bruce Friedrich fa una xerrada a Norrsken House
 
@@ -31,7 +31,7 @@ Vam participar a l'esdeveniment de recaptació de fons [Project for Awesome](htt
 
 Març
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tSYGg44Co4OLIYgeNn6e3Dna8-CaRiHlJZheaDwN9Hk81vouyDIdCX7q8BUxITPt1TgaL2kFHzpas8y33IUjg-U5aUSSDJA3GPU642rmUQQp0V-0M4Kd-a7sU_GNGU6y7-KD-xfEiyvwdqJL4Nz-YfgofmK2OqXC06tzPsoSoLOmzG09KJ8K8Qm5vHJUSzPHafBepXrNeb2Nw0JpJp11Nt5_9JVL3spNt-1zHpEhQ=w1280)
+![](/images/5bd4b7689bae.png)
 
 Club de lectura
 
@@ -53,13 +53,13 @@ Trobada de racionalitat
 
 EA Barcelona va acollir la Trobada Anual de Racionalitat d'[Astral Codex Ten](https://www.astralcodexten.com/) al Parc de la Ciutadella. Ens vam divertir molt coneixent-nos jugant a alguns jocs per calibrar la confiança. A més, enhorabona a la Laura Correa per guanyar el concurs de recompte de cigrons!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tun3aoWMrcfhnwUizZup3st4olC7uZ0Fsb4eQ1wDETA7hOspeS-fc3n1LxaazK2EfYXRWNG61QlSO-VxDzhYI1CVtYJIl_Rg9T8PFhNxq1lO3jJY9xhYZgjrNKcCWj5foKwYD9H1J34pdMZXC_0j89gCupEkXzk4dL1zVrFBCnDi36yXfjwup4y3mc5V5RTIK7vCbuu06B4iNs0gBR3PXDUw7LQCF9YxlWwGDe_To=w1280)
+![](/images/28ea5a65e70a.jpg)
 
 Xerrades sobre seguretat de l'IA
 
 La comunitat emergent d'AI Safety Barcelona va acollir el seu esdeveniment de presentació a la Universitat de Barcelona amb dos ponents principals sobre els avenços recents en seguretat de la IA. Pots veure les xerrades [aquí](https://www.youtube.com/watch?v=8noPGzogpk4) i estar pendent de més esdeveniments d'AIS aviat!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tqRoSzdP__RjAaC7Cie5vBmrlWvfHsmpni6Awm11d3KI7wMdOTfijPA4ZALRkMVcfeUWUBUwyWihaTIKIyUpyxAcNB2OEFMlIPuhUhBHt7hkP3nttZPQaQ7DYaV8twm8KXx8KOAhaIhjjxlPsqVgnYEg_dzyCP4F83VA5woSsvDaXIN7r5zWIOwF8ME3mzfW50fspVO2j9VBPxxLNtP8gDcEDeEUZMGTKYPTuuUn4=w1280)
+![](/images/34ad67a94a45.jpg)
 
 Giving game
 
@@ -67,7 +67,7 @@ En Guillem Lajara, fundador de [Karoteno](https://karoteno.org/), va organitzar 
 
 Juny
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s3Mj4nRzpyeoF4fayeQIAm9i8JrVdLL1GQxVoBA82D7QASbp9Sj2M1AwYhO-jjzbZBm_UGz4V9ZF5VQKdto-GqzGHCUWW_7zT9Ak1XJGYtGLjIRm2lBnByx2QdtQF98Dtm63DUgbOXs2n_o8kUkt0M5rcvmc8OKYN-VX2IduOFYdfx6CWzcez5HB8aEFQs4X1N7halJrim8C_UK46nVR_dseF-6QfNZq2YKoxLFUc=w1280)
+![](/images/08b244c87a6f.jpg)
 
 EAG Londres
 

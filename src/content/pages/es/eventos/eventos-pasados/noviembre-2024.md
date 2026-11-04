@@ -7,13 +7,13 @@ key: "past-2024-11"
 
 En noviembre contamos con nuestra visualización de la conferencia EAGxVirtual, el inicio de nuestro primer fellowship introductorio y el lanzamiento de un álbum de música muy especial. Esperamos que disfrutéis leyendo estos resúmenes y esperamos veros una última vez antes de acabar el año!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vpBWCxbuS_E7VbEgooqCFgmrE1hgf87a-tUdobqlP-FKissSxLvxmsuaEylxiNLCChtTIKC-NRtWxp_uFwyhVOeRNluG8JY0tg6dqR4Y3um8iJrKB5YifotC7hl5_ZVRUAoGzUuHYUuo9UpI88ghzsxWtQJXUn7mFp678Wg40kym-k5WDQG5gy-c5JM6nhmcDeLbcJlGW9MtSD4SO_fqPgZ-SAzfBOfnW3NV75G0s=w1280)
+![](/images/e43b029f57c7.jpg)
 
 Conectando ideas para abordar los retos globales
 
 EA Barcelona acogió una visualización presencial de la [conferencia EAGxVirtual 2024](https://www.effectivealtruism.org/ea-global/events/eagxvirtual-2024), que reunió a 18 personas apasionadas con ganas de aprender cómo afrontar los mayores retos de la humanidad. Fue un ambiente vibrante de curiosidad y conexión, y nos gustaría dar las gracias a todos los que nos acompañaron por sus reflexiones 💡
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uIQhrO-5x0wTdP97ESd1bj51RvCtkbWFTUeph8y57Wg7tNnRepNJK1VgRzuxAR4Rs94nwfrqeHSMF9gRBNI2Ljnvhz3K2_mxSUZZy02KPUUX_5lnodoIxsDxmG8SsUqsQa5R55hwCkrc3PTnn5Vdj94e_pViM9zQhKy-9XuybHA_VuokOfWAvw6lpmXip0t9yFok4NNTww1oBuuMFBpzcQNVW3xyamVl_IqAB-=w1280)
+![](/images/53acc6378e8c.jpg)
 
 EA Barcelona comienza su primer fellowship introductorio!
 
@@ -27,7 +27,7 @@ Coworking
 
 Estábamos disfrutando de una sesión productiva en Sandwichez Provenza, cuando inesperadamente un experto en bioseguridad se unió a nosotros y tomó esta foto... ¿Alguien puede adivinar quién era?🤔
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uKks4kIsi9540z6K4h_bdqRsiFxYH7rIgIjSNaU-1H_YtpXoHDjiTvaKHjg2UG99DK6QkRa2fdHRn1KLSYgwg0MK8s2xJyjjaMJ_Ugo_B4MjjR4DEcwXRUKfCuC2gB_qbSC5FJFhsRylvIlnsocSirabZGA2cIGHUKUNkESYfSZq6VxE2RLxNxPh3p2d8dG-pm34TR4dVkLzhH389TKD3vdg1hDW3LdIfoEESssqU=w1280)
+![](/images/74b42a7aad24.jpg)
 
 EXTRA: Ricard Soler publica un álbum de rap en catalán sobre los numerosos problemas asociados a la explotación animal en el Día Mundial del Veganismo
 

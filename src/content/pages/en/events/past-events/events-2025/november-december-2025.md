@@ -14,7 +14,7 @@ You may remember [Karoteno](https://karoteno.org/), the new giving platform foun
 
 Thanks to the generosity of many contributors, over €6,000 was raised and redirected toward highly effective charities in global health, animal welfare, and safeguarding the future of humanity. We’d like to extend a huge congratulations to Guillem on a very successful first campaign - and thank you to everyone involved in making this happen!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sdF4ikqiDusX-ntBCrxviq1kLBlPiP4Zz2AmDX993E5mjs4KlDCPcJZtNEQQEo58IUN2UFIMY71pdP66Qp0ICPL7h8NW0zw8M3gvtUzfu6E86CUhgZnfBTbjioUm42sdPYrhi6KttbCZy0eN6yHuC93BsGUajdNQUe6GNRVF5OmPJC9cHyi-hJ2OpAe8xJhteDdlFr-O5rQa6td7PkL1JmkVwWaJFHrBJlJz-x=w1280)
+![](/images/bd5b1a81bda3.jpg)
 
 “Altruismo Racional” Book Club 📚
 
@@ -30,7 +30,7 @@ In mid-November, Rocky from [Probably Good](https://probablygood.org/) led 12 of
 
 Thanks to everyone who joined us, and we’re excited to plan the next workshop soon: How to (actually) get a job that makes a difference 🔍
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vhEf6mCtKuJrrOxX2SvtKV8IsAMtITqGF4a3w2zEY_ggEMDBTRL1Qq3PoYvmMj-zG2VMYuwz1KhvEaWVy5A98BaPStQkCw0aeU1RprIoudoZukRYST-pAHtgXQQ5OZo3egEDBle7SMPPrDMyj9RRw8DGEpwGy6pO9DxrIXkHqDeytFZrmd5qv7CC7QFIS8zv_D3NIo2FvfmcQmN3m6-IkjwX8tBHSYrPqOzHqa=w1280)
+![](/images/392e75075b63.jpg)
 
 EA Connect Viewing 📺
 
@@ -38,7 +38,7 @@ On the first weekend of December, we hosted an in-person viewing of the EA Conne
 
 It was great to see new connections forming - a big thank you to everyone who came along and helped make the event run smoothly!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sB4wpgHkPMZA60jV9LVGYuG1utXnkq4CRoz1PWBucj7zMFzvSlql__RlBLzOUoaZmuGR7U2Xnpax0f2E_KmIWXpzz93rJQ5yUe2YDKjzhHfoalGQ_7iO4mQwJAOv5WlX-IF0dbfUfrK2X7IeWzJyNpeA69nSfOrbMk2T5j3VHR6t5DFpl2qhTg0JPFgfZIEUHxfolns4d2_Eb7nqGUjjFI4LJPpkpAtZBJW-iewT4=w1280)
+![](/images/354f6cb0db82.jpg)
 
 Coworking at Sopa ☕️
 

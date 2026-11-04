@@ -7,13 +7,13 @@ key: "past-2024-11"
 
 El mes de novembre va comptar amb la nostra visualització de la conferència EAGxVirtual, l'inici del nostre primer fellowship introductori i el llançament d'un àlbum de música molt especial. Esperem que gaudiu llegint aquests resums i esperem veure-us un últim cop abans d'acabar l'any!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vQhrdwOryx3_3DPERdG6qHo0IRwYECAOoNxY42FHf51M82OSPgMfw6KFElNl6VLWxJl0a0yWrTVHlo4urO5EXah332EYm2QXGpN1dEweAUri5arZK6GqJnTfpiM2Eyzd1T47Xke9nj0rrlFFpEqjeaNdv_3-EeQ04H8r_NnvY2_EVsK7_UqGU81K7v81D7rzFCwiLBi4NTdbBPgvw9pBtStlWKDG2AYeE4nW-u8zU=w1280)
+![](/images/ec2e55771b45.jpg)
 
 Connectant idees per abordar els reptes globals
 
 EA Barcelona va acollir una visualització presencial de la [conferència EAGxVirtual 2024](https://www.effectivealtruism.org/ea-global/events/eagxvirtual-2024), que va reunir 18 persones apassionades amb ganes d'aprendre com podem afrontar els reptes més grans de la humanitat. Va ser un ambient vibrant de curiositat i connexió, i ens agradaria donar les gràcies a tots els que ens vau acompanyar per les vostres reflexions 💡
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72soz3SGG3inZ6ujWzdCcvwwFvIcZ2zof2AyV-Tci86pGtKhDi-M6KzkkWp_-gVjxQ6AzhpFb1XLDrdmVdWsiNfrfmvkLaI4O9Q4WYPiZ-5vie0bshR4KPFrRgcQEmOR4quiwsWCSYNxstszes6KeeasEg_OFVoPtKxaLu08eOXhuU5SyxeJ7KX9SEhp7mr5E5yUvSCv5dx5AzI9novj-7yvwrujJCtJxBdyZCLJM14=w1280)
+![](/images/1e7ab5fc7184.jpg)
 
 EA Barcelona comença el seu primer fellowship introductori!
 
@@ -21,13 +21,13 @@ El nostre primer fellowship introductori d'EA ha començat molt bé! Fins ara, h
 
 (Et sap greu haver-t'ho perdut? Recorda que pots [unir-te a un programa virtual](https://altruismoeficaz.us17.list-manage.com/track/click?u=0dc76b203bd2c6ce07552df96&id=17c008e44b&e=862e883ca8) des de qualsevol lloc!)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ubW5L1G2EyeKoBv2eXkfRvYvfWRAXmzcQuBMcu_BjQ6lkMf7N8flYWLiqA4ya2VJH8h2HMPX-LKUDy7ZLJu2FZYRNFnGfgRhuwrqvFlD9biv_LRsJNp_uHhqSN0mN7QliA0WxnHu4egBF2h0k6DWQ30z_HeL28Q_ojn7MYIYjSmiEIJoTKeE2NioGLDkvmk6Y1Ze8EvNVpVpkU8BC5getVRGXtAV1Vq3clYRBb=w1280)
+![](/images/c52818d7a78c.jpg)
 
 Coworking
 
 Estàvem gaudint d'una sessió productiva a Sandwichez Provença, quan inesperadament un expert en bioseguretat es va unir a nosaltres i va fer aquesta foto... Algú pot endevinar qui era?🤔
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v2e1uGHRiji1qSQ42d3Dh4QFBWtFIfS1STIuQmHUHQAcYCDQ7S08ff8EGTROrwHAaiLD0N-bEMEGlpe9q7Hj7b8CfVMtB2ohFgYD5OY-aiGc3i9yzcgp8QaBc8ydYmgyTjhbUDrQU5Nu9Psmb2gBD4Vftfg8FAuItwyw2iYdep_DygB0T5I5eZ-X8_nrdYXisP3t0IHtoTGoVZ7qzNjfAkpi_HktSS5FYbofMtpJg=w1280)
+![](/images/85418b25c6ff.jpg)
 
 EXTRA: En Ricard Soler publica un àlbum de rap en català sobre els nombrosos problemes associats a l'explotació animal en el Dia Mundial del Veganisme
 

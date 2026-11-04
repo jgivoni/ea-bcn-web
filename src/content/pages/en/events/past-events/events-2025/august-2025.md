@@ -6,7 +6,7 @@ title: "August 2025"
 
 August was a month of reflection and connection for us. We enjoyed some cozy coworking sessions, shared our favorite "Summer Reads," and have been busy planning an impactful September for you.
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uWiNLeim0Z6w1ZcvQ37e9TD59AyVDzvkQBnFYlNkpeENEEWt9RRqQPgmU1b8yf1uo7fnEI4fu-MnA_Fh4akD7kcHHZ1g-IO4UeWz-g5k3A4g_rolDCWARIMeNh6XGQ-btXpT9kGrrWuGGEv3MJjsqK9p2WumR64MfNLH4bYZaHgeMT2nmetfbvwHSGl0ttNLAAgyBJpJoFISzbCuyVHznrAXCA8NSmQztfOrJm7Lg=w1280)
+![](/images/f86e9f286f18.jpg)
 
 Community Spotlight 🔦
 
@@ -20,7 +20,7 @@ Congratulations, Martin, on your incredible achievement and for providing such a
 
 ![](/images/88786211bc94.jpg)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t4NHNdBkOTX7czSujYNk3-G6GzOTN7zYxI9OAxN2KIEAt_Lse6W3Qx03bTZZCrYx3BuWaRoD0ezJM9lnvkboAx5JCqRvEPqjFWtx41TcWTvMsW2XDADBJ58GRUXG8ZQPZG7UFGVu56tQeSDHnU8NhetJ4pyerLHUGdS4lVn5AflerYLNayvtmQOje0TKVsY1tE-4MLg6_EBow88K3szhB_NCiIVh32VLcRJtnx1fc=w1280)
+![](/images/1551cf6b588b.jpg)
 
 Coworking at Sopa & Sandwichez ☕️
 

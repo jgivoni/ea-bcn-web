@@ -109,4 +109,4 @@ If you have any questions or need support as you get started, don’t hesitate t
 
 Let’s work together to create a better world! 🌍
 
-[![LinkedIn](https://ssl.gstatic.com/atari/images/sociallinks/linkedin_white_28dp.png)](https://www.linkedin.com/company/effective-altruism-barcelona)[![Link](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72traRgXcAAdEfI5GERAGoUvECpW_iDxtxaYFA4_jI4VB2mEr4Sp0uowaAwuBI29qkQrLKfM8NGmctFrf9sMAEC0neaESNklnadd4vC9DHF9BpLMhCSKkHNKFxgCliEyJgVfyf4mbHV1tKc-mxKyRp3n24v-ONxfljQ8jDWm96yRXegGeyOX0ilQfGtiA-c8jDirKY8hNXPweljVGJ62)](https://lu.ma/calendar/cal-9tdD2nUvxmygpXa)[![YouTube](https://ssl.gstatic.com/atari/images/sociallinks/youtube_white_28dp.png)](https://www.youtube.com/@eabarcelona)
+[![LinkedIn](https://ssl.gstatic.com/atari/images/sociallinks/linkedin_white_28dp.png)](https://www.linkedin.com/company/effective-altruism-barcelona)[![Link](/images/966990b6fba1.png)](https://lu.ma/calendar/cal-9tdD2nUvxmygpXa)[![YouTube](https://ssl.gstatic.com/atari/images/sociallinks/youtube_white_28dp.png)](https://www.youtube.com/@eabarcelona)

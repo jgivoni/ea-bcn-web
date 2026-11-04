@@ -19,7 +19,7 @@ Aquí podrás encontrar resúmenes de nuestros eventos desde 2024 hasta ahora.
 
 [Octubre: charlas, tapas y minicasas🏡](/es/eventos/eventos-pasados/octubre-2024)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vxL4x_4DEtIBxtO50VIvKUa-1nbllkR5R9aPft7R4fPubVMhQRyxjJbfaVc6kLnz6dSZ2VEAPDdxoIVb0PYsXX26Vm6AotpCrTLoW1J6TjDiI58VAUz1Jru_M0lRWd-hLPYxLLoecb2yu6HV2Iq6vrzEv5LwJ4JNk9ap72sIkvVkv6O7OrbzBt9sIGtHqslE8m49C-zZg957yZbMbNQzy4HKxsHsw4d7TPjhRT3U4=w1280)
+![](/images/e04a60d36b3f.jpg)
 
 [Septiembre: Veg-curious y nuevos comienzos 🥦](/es/eventos/eventos-pasados/septiembre-2024)
 

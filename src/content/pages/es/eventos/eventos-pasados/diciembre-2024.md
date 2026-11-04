@@ -13,7 +13,7 @@ Una charla sobre el poder de las donaciones efectivas
 
 EA Barcelona y [ESAlogika](https://esalogika.com/) organizaron un evento sobre el poder de las donaciones efectivas para realizar cambios significativos. También disfrutamos intercambiando los artículos que más nos gustaban y estableciendo redes con personas que piensan en hacer cambios significativos. Esperamos que los participantes se inspiraran para marcar una diferencia real en la vida de los demás durante estas fiestas de Navidad y ¡más allá!
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sBIjC5uw1foowWLjWYQlOVYGwt2tdB8717uesEDL3CReVWr4s6bUH-Z09bzbinzRdaSyiV3HJpEanvhPfeMCdKOVheAADrwbRyqXYxKY2o_RG1_2oy8XJJohP3KMfXGyvnnlXeqOnAgkwq1HBKOwX5q710mgkL_xMHEUWPkfAnTANXhUOPJXVnwKyrCcpO5f3ulIaWT1N33FLITLFOKFW3cB_AsWSqXelFGGot=w1280)
+![](/images/441e2f663bed.jpg)
 
 ¡Hemos terminado nuestro primer Curso Introductorio!
 
@@ -21,7 +21,7 @@ Durante cinco semanas, nuestro grupo de participantes curiosos se reunieron para
 
 (¿Te sabe mal habértelo perdido? Recuerda que siempre puedes [unirte a un programa virtual](https://www.effectivealtruism.org/virtual-programs/introductory-program) desde cualquier lugar. ¡Y también tenemos previsto organizar más cursos en 2025!)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uA6zL-ktUE9OvqYD_HeOrDgFTzXW5vGcq427qyWh33O4Kxw1hb7Kupu-I9Om-57oSpEcz9eluM1cpkScJEhum5Ay81uflIFzjjC1FSqluu10Gd4TWNdGIC4FGy0YFIbvu4DtJhGw5XG_ztCRdS5bK47bhZ0bzL-WGoKrsECNUDJI0mYN7f0qS-VxtNguc6zdl2CXGooVs3Q2tvvvs-bD4D6STHqnQm9LrqskKX-uc=w1280)
+![](/images/7f2a824d97a5.jpg)
 
 Última noche de juegos de mesa del año (¡por supuesto!)
 

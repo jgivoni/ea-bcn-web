@@ -17,7 +17,7 @@ Si ets nou al concepte d'altruisme eficaç, et recomanem que comencis per aquí:
 
 [https://impactbooks.store/](https://impactbooks.store/)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72txRj4sUeY8AnBI4vytxuGvCFgET4DyVYsWxxauQYUInjYEtpAlB7OPUHb9KDikthI9gaTeBxyokTz88wIcVXXs2JrcQwhn3Qdpwv27f0nCBltXDtYq4L2wilhOn-5yeOfkvFjniDmbSBhYzRkV6xKKUQcBqiPsIk7bUz1qnDUgpuJexxBwEl9SDt1w7kA6nPeUTK6wkVkeMH99L_EQPM-Z0GMXFKAqPb8fVYaBN8Q=w1280)
+![](/images/e1c2121e1719.png)
 
 ### Podcasts
 
@@ -25,7 +25,7 @@ Si ets nou al concepte d'altruisme eficaç, et recomanem que comencis per aquí:
 
 [https://hearthisidea.com/](https://hearthisidea.com/)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tYgZvv0m5ohao1niAJ1t1BbOZVhM2qsKh-UAMdEzB6Ml8WQXcOt4--2mB9R9mqfhfluzctwKECKH6iaxr1_TgcZBRRAPfh-GpzivigyWu-MR_BaBHcv5Ju1Ua6Vxx254IPav8E8MLi6m85R5RFF1Q7R0DGzGMRM0mrKVM7y_zQIOKFn1EL4iZOcjci_jY=w1280)
+![](/images/794272a6131f.jpg)
 
 ### Webs
 
@@ -35,7 +35,7 @@ Si ets nou al concepte d'altruisme eficaç, et recomanem que comencis per aquí:
 
 [https://80000hours.org/problem-profiles/](https://80000hours.org/problem-profiles/)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tC0rCrmrVhZsXJQnOcyfw0eX4sN8Cz6g5F-IeSuBKYjcXoyyyOs-xgGmmcBBIb18y81WFYyWnKfUxIl9hlCGY5GDbJtfZ28OwN9CRuBmeM6TLRVm7K2srtTwoFN6OfGOs6_qDgKk8_7dD66mF2KgRTl5JBnVHidxi870so9EgMQkscUXcFe0tLrK6ex-0YSFvr1nZz13MMsRN8Pk1Ez57s-fOAa0GJzqRCAW3MGrk=w1280)
+![](/images/f19646abdbfb.png)
 
 # Effective Altruism Barcelona és el grup local.
 
@@ -45,11 +45,11 @@ El nostre objectiu és oferir oportunitats per conèixer els problemes més urge
 
 ![](/images/9b20088de94d.jpg)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uDu9rUorEHOsuzG4V8MT7_xohTHxY_hK8qQtuRylVQRsslyG3-BBaFyEvHQK7WCjjif1SQBqIwAEqvnZcpumn-l73d7Pi1_l6IA6Wl70QkyJzheWzKgqs-bUC6qZpkPMF-QkidFUFWyQ4zgpUn_ZgfofmBaTFXO3rzfdk8aMNtP18FpUo6sIIEfC4HC2Wm4tMR7f6_tIzVhVKV4ovQOnK4-uVkSiI5K_ID-wIEDeo=w1280)
+![](/images/58642fa4e1c5.jpg)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vL2eyWJJZUYZzf2FFKzrvWGwTrpSqaFHjmgmoZaNEtkuhEcCmBgaU3oXqXAWj5BQ90Qm2z0QtW1xpTrM4L3TsJWv3YSqv_RZ4zKNbnP8BbkzsQRuwOKhEgb9qp1RfCjVQGMEgh-3793sADHoccRvSTd6-xKl6w0mmDssSRpM4q-Yfg8QCb2OCOENlygWdlDP26P0tZDFae9Ga-ghKwMEYNo62XXqgOQShQjuZ2V10=w1280)
+![](/images/eddef9a8cb83.jpg)
 
-![](https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tW0RbDZRHnk9jmCMlv4Iy_HmIjXFC-WdXZUWV4WLN5tK9EMj8JtPhYIIjITff0oUrU8sqTomAU46yNxwPcbOiQFhCFldzxvVRe4-zK7iqO-3Y11nH0BrkXjw98ILOwK4pElh9Kful2o4HbZPJQ3hdFufXoBxUeXLokrJy0DblYW1tKF8aNwxKg4uF-n4rOGNsaf6dsmYdXs4tVgwlmhciB2gRBSaOkKkYgh76X=w1280)
+![](/images/7970e8602ad9.jpg)
 
 ### Xerrades
 
