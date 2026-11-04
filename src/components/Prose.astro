@@ -49,4 +49,63 @@
     aspect-ratio: 16 / 9;
     min-height: 0;
   }
+
+  .prose h4 {
+    margin: var(--space-5) 0 var(--space-2);
+    font-size: var(--text-base);
+  }
+
+  /* Rows of columns from the old site: cards, photo and text pairs, video pairs.
+     They are wider than the text column and centred on the page. */
+  .prose .cols {
+    position: relative;
+    left: 50%;
+    width: min(var(--width-content), calc(100vw - 2 * var(--gutter)));
+    transform: translateX(-50%);
+    display: grid;
+    gap: var(--space-5) var(--space-6);
+    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+    align-items: start;
+    margin: var(--space-6) 0;
+  }
+
+  .prose .col > :first-child {
+    margin-top: 0;
+  }
+
+  .prose .col > :last-child {
+    margin-bottom: 0;
+  }
+
+  .prose .col img,
+  .prose .col iframe {
+    width: 100%;
+    margin: 0 0 var(--space-3);
+  }
+
+  .prose .col img {
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+  }
+
+  .prose .col h3 {
+    margin-top: 0;
+    color: var(--color-primary-strong);
+  }
+
+  /* A link styled as a button. Content uses <a class="button" href="…">Label</a>. */
+  .prose a.button {
+    display: table;
+    margin: var(--space-6) auto 0;
+    padding: var(--space-3) var(--space-6);
+    border-radius: var(--radius-sm);
+    background: var(--color-primary);
+    color: var(--color-on-primary);
+    font-weight: var(--weight-semibold);
+    text-decoration: none;
+  }
+
+  .prose a.button:hover {
+    background: var(--color-primary-strong);
+  }
 </style>

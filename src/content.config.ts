@@ -17,7 +17,8 @@ const pages = defineCollection({
     title: z.string(),
     key: z.string().optional(),
     description: z.string().optional(),
-    layout: z.enum(['page', 'home']).default('page'),
+    // index: the page lists its child pages (newest first) after its own text.
+    layout: z.enum(['page', 'home', 'index']).default('page'),
     // Home layout only. The Markdown body is the introduction.
     headline: z.string().optional(),
     cards: z.array(card).optional(),

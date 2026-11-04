@@ -1,0 +1,99 @@
+---
+import { childrenOf, headingOf, loadPages, parentOf, type Page } from '../lib/pages';
+import { UI } from '../lib/ui';
+
+interface Props {
+  page: Page;
+}
+
+const { page } = Astro.props;
+const pages = await loadPages();
+const parent = parentOf(pages, page);
+const siblings = parent ? childrenOf(pages, parent) : [];
+const index = siblings.findIndex((sibling) => sibling.url === page.url);
+// Siblings are newest first.
+const newer = index > 0 ? siblings[index - 1] : undefined;
+const older = index >= 0 ? siblings[index + 1] : undefined;
+const ui = UI[page.lang];
+---
+
+{
+  parent && (
+    <nav class="recap-nav" aria-label={ui.recaps}>
+      <div class="prev">
+        {older && (
+          <a href={older.url} rel="prev">
+            <span class="label">← {ui.older}</span>
+            <span class="title">{headingOf(older)}</span>
+          </a>
+        )}
+      </div>
+      <a class="up" href={parent.url}>
+        {headingOf(parent)}
+      </a>
+      <div class="next">
+        {newer && (
+          <a href={newer.url} rel="next">
+            <span class="label">{ui.newer} →</span>
+            <span class="title">{headingOf(newer)}</span>
+          </a>
+        )}
+      </div>
+    </nav>
+  )
+}
+
+<style>
+  .recap-nav {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-4);
+    margin-top: var(--space-7);
+    padding-top: var(--space-5);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .recap-nav a {
+    text-decoration: none;
+  }
+
+  .prev a,
+  .next a {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+  }
+
+  .label {
+    color: var(--color-text-muted);
+    font-size: var(--text-xs);
+  }
+
+  .title {
+    font-weight: var(--weight-semibold);
+  }
+
+  .up {
+    align-self: center;
+    font-size: var(--text-sm);
+  }
+
+  @media (min-width: 48rem) {
+    .recap-nav {
+      grid-template-columns: 1fr auto 1fr;
+      align-items: start;
+    }
+
+    .up {
+      text-align: center;
+    }
+
+    .next {
+      text-align: right;
+    }
+
+    .next a {
+      align-items: flex-end;
+    }
+  }
+</style>

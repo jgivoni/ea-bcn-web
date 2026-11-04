@@ -4,10 +4,12 @@ import Button from '../components/Button.astro';
 import Card from '../components/Card.astro';
 import CardGrid from '../components/CardGrid.astro';
 import Hero from '../components/Hero.astro';
+import PageList from '../components/PageList.astro';
 import Prose from '../components/Prose.astro';
+import RecapNav from '../components/RecapNav.astro';
 import Section from '../components/Section.astro';
 import Base from '../layouts/Base.astro';
-import { loadPages } from '../lib/pages';
+import { childrenOf, loadPages, parentOf } from '../lib/pages';
 import { photo } from '../lib/photos';
 
 export async function getStaticPaths() {
@@ -21,6 +23,9 @@ export async function getStaticPaths() {
 const { page } = Astro.props;
 const { Content } = await render(page.entry);
 const { layout, headline, cards = [], cta } = page.entry.data;
+const pages = await loadPages();
+const children = layout === 'index' ? childrenOf(pages, page) : [];
+const isRecap = parentOf(pages, page)?.entry.data.layout === 'index';
 ---
 
 <Base page={page}>
@@ -56,6 +61,8 @@ const { layout, headline, cards = [], cta } = page.entry.data;
         <Prose>
           <Content />
         </Prose>
+        {layout === 'index' && <PageList items={children} />}
+        {isRecap && <RecapNav page={page} />}
       </Section>
     )
   }

@@ -9,6 +9,9 @@ type Strings = {
   siteName: string;
   theme: string;
   themes: Record<Theme, string>;
+  newer: string;
+  older: string;
+  recaps: string;
 };
 
 export const UI: Record<Lang, Strings> = {
@@ -18,6 +21,9 @@ export const UI: Record<Lang, Strings> = {
     siteName: 'EA Barcelona',
     theme: 'Theme',
     themes: { light: 'Light', dark: 'Dark', auto: 'Auto' },
+    newer: 'Newer',
+    older: 'Older',
+    recaps: 'Recap navigation',
   },
   ca: {
     skip: 'Salta al contingut',
@@ -25,6 +31,9 @@ export const UI: Record<Lang, Strings> = {
     siteName: 'EA Barcelona',
     theme: 'Tema',
     themes: { light: 'Clar', dark: 'Fosc', auto: 'Automàtic' },
+    newer: 'Més recent',
+    older: 'Anterior',
+    recaps: 'Navegació de resums',
   },
   es: {
     skip: 'Saltar al contenido',
@@ -32,5 +41,8 @@ export const UI: Record<Lang, Strings> = {
     siteName: 'EA Barcelona',
     theme: 'Tema',
     themes: { light: 'Claro', dark: 'Oscuro', auto: 'Automático' },
+    newer: 'Más reciente',
+    older: 'Anterior',
+    recaps: 'Navegación de resúmenes',
   },
 };

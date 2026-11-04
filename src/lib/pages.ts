@@ -51,6 +51,59 @@ export function alternatesFor(pages: Page[], page: Page): Partial<Record<Lang, s
   return result;
 }
 
+const MONTHS: Record<string, number> = {};
+const MONTH_NAMES = [
+  ['jan', 'january', 'gener', 'enero'],
+  ['feb', 'february', 'febrer', 'febrero'],
+  ['mar', 'march', 'març', 'marzo'],
+  ['apr', 'april', 'abril'],
+  ['may', 'maig', 'mayo'],
+  ['jun', 'june', 'juny', 'junio'],
+  ['jul', 'july', 'juliol', 'julio'],
+  ['aug', 'august', 'agost', 'agosto'],
+  ['sep', 'september', 'setembre', 'septiembre'],
+  ['oct', 'october', 'octubre'],
+  ['nov', 'november', 'novembre', 'noviembre'],
+  ['dec', 'december', 'desembre', 'diciembre'],
+];
+MONTH_NAMES.forEach((names, index) => names.forEach((name) => (MONTHS[name] = index + 1)));
+
+// Sort key from a slug such as "jan-jun-2024" (2024-06) or "events-2025" (2025, end of year).
+// The last month in the slug counts, so a range sorts by the month it ends.
+export function slugDate(path: string): number {
+  const tokens = (path.split('/').pop() ?? '').toLowerCase().split('-');
+  const year = Number(tokens.find((token) => /^\d{4}$/.test(token)) ?? 0);
+  const months = tokens.map((token) => MONTHS[token]).filter(Boolean);
+  return year * 100 + (months.length ? months[months.length - 1] : 12);
+}
+
+const parentPath = (path: string) => path.split('/').slice(0, -1).join('/');
+
+export function parentOf(pages: Page[], page: Page): Page | undefined {
+  const path = parentPath(page.path);
+  return path ? pages.find((other) => other.lang === page.lang && other.path === path) : undefined;
+}
+
+// Direct children of a page, newest first.
+export function childrenOf(pages: Page[], page: Page): Page[] {
+  return pages
+    .filter((other) => other.lang === page.lang && parentPath(other.path) === page.path)
+    .sort((a, b) => slugDate(b.path) - slugDate(a.path));
+}
+
+// The first "# " heading of the Markdown body, or the frontmatter title.
+export function headingOf(page: Page): string {
+  return (page.entry.body ?? '').match(/^# (.+)$/m)?.[1].trim() ?? page.entry.data.title;
+}
+
+// The first image of the page, or of its newest child when the page has no image itself.
+export function thumbnailOf(pages: Page[], page: Page): string | undefined {
+  const own = (page.entry.body ?? '').match(/!\[[^\]]*\]\(([^)\s]+)\)/)?.[1];
+  if (own) return own;
+  const [first] = childrenOf(pages, page);
+  return first ? thumbnailOf(pages, first) : undefined;
+}
+
 export function describe(page: Page): string {
   if (page.entry.data.description) return page.entry.data.description;
   const text = (page.entry.body ?? '')
