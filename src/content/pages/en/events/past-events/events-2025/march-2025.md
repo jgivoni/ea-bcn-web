@@ -1,5 +1,6 @@
 ---
 title: "March 2025"
+key: "past-2025-03"
 ---
 
 # March: Brains, bots and book clubs 💡

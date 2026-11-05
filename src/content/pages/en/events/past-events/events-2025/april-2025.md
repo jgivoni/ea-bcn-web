@@ -1,5 +1,6 @@
 ---
 title: "April 2025"
+key: "past-2025-04"
 ---
 
 # April: Spring is here! 🌸

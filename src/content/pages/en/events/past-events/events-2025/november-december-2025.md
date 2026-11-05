@@ -1,5 +1,6 @@
 ---
 title: "November & December 2025"
+key: "past-2025-11-12"
 ---
 
 # 🎉🎄November & December: An Impactful Finish to the Year

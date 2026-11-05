@@ -1,5 +1,6 @@
 ---
 title: "October 2025"
+key: "past-2025-10"
 ---
 
 # 🎲 October: From Rational Altruism to Boardgame Chaos

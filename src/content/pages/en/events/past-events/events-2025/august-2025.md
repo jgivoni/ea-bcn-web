@@ -1,5 +1,6 @@
 ---
 title: "August 2025"
+key: "past-2025-08"
 ---
 
 # 🏖 August: Summer Reads, Light Events, and a Big September Ahead

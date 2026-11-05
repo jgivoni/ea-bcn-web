@@ -1,5 +1,6 @@
 ---
 title: "Jan-Feb 2025"
+key: "past-2025-01-02"
 ---
 
 # Highlights from January & February 2025!

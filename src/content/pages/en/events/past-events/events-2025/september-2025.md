@@ -1,5 +1,6 @@
 ---
 title: "September 2025"
+key: "past-2025-09"
 ---
 
 # 🍁 September: Workshops, Fellowships & New Tools for Impact
