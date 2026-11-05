@@ -3,7 +3,7 @@ title: "Qui som"
 key: "about"
 ---
 
-# L'Altruisme Eficaç és una filosofia, un camp de recerca i una comunitat global que té com a objectiu trobar les millors maneres d'ajudar l'altri i posar-les en pràctica.
+# L'Altruisme Eficaç és una filosofia i una comunitat global que té com a objectiu trobar les millors maneres d'ajudar l'altri i posar-les en pràctica.
 
 Si ets nou al concepte d'altruisme eficaç, et recomanem que comencis per aquí:
 

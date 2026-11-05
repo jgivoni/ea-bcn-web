@@ -5,7 +5,7 @@ key: "past-2024-10"
 
 # Octubre: Charlas, tapas y minicasas🏡
 
-Octubre ha estado repleto de actividades, incluyendo charlas sobre **emprendimiento**, la **ciencia de las proteínas alternativas** y la **seguridad de la IA**, así como sesiones de **coworking** y una **visita a una minicasa**. Esperamos que disfrutes recordándolas, que te entren ganas de venir a las siguientes y que podamos mantener este gran impulso en noviembre.
+Octubre ha estado repleto de actividades, incluyendo charlas sobre **emprendimiento**, la **ciencia de las proteínas alternativas y la seguridad de la IA**, así como sesiones de **coworking** y una **visita a una minicasa**. Esperamos que disfrutes recordándolas o sintiendo _fomo_ (¡perdón!), y que podamos mantener este gran impulso en noviembre.
 
 <div class="cols">
 
@@ -55,7 +55,7 @@ El segundo evento organizado por el nuevo grupo de estudiantes **AI Safety Barce
 
 ### Tapa Talks con ESAlogika
 
-EA Barcelona colaboró con la [Environmental Social Association de Barcelona](https://esalogika.com/) (ESAlogika) para su **taller TapaTalks sobre proteínas alternativas**, con la participación de **Ricard Soler, Anya Reshetnyak** y, como invitado especial, [Marc Coloma](https://www.linkedin.com/in/marccoloma/), cofundador de [Heura](https://heurafoods.com/), una de las empresas de carnes vegetales de más rápido crecimiento de España. ¡Y pudimos probar su jamón York! 😋 Si quieres saber más sobre ESAlogika y su serie TapaTalks, puedes **unirte a su grupo Meetup** [aquí](https://www.meetup.com/barcelona-community-meetup-group/?eventOrigin=event_home_page).
+EA Barcelona colaboró con la [Environmental Social Association of Barcelona](https://esalogika.com/) (ESAlogika) para su **taller TapaTalks sobre proteínas alternativas**, con la participación de **Ricard Soler, Anya Reshetnyak** y, como invitado especial, [Marc Coloma](https://www.linkedin.com/in/marccoloma/), cofundador de [Heura](https://heurafoods.com/), una de las empresas de carnes vegetales de más rápido crecimiento de España. ¡Y pudimos probar su jamón York! 😋 Si quieres saber más sobre ESAlogika y su serie TapaTalks, puedes **unirte a su grupo Meetup** [aquí](https://www.meetup.com/barcelona-community-meetup-group/?eventOrigin=event_home_page).
 
 </div>
 
@@ -91,7 +91,7 @@ Por supuesto, disfrutamos de nuestra habitual sesión de coworking en Sopa, esta
 
 ### ¡Visita a una minicasa!
 
-A pesar de la lluvia, un grupo de personas se acercó a **La Floresta** para visitar la **minicasa** de nuestro miembro Jakob (¡30 metros cuadrados!). Disfrutamos de un **tour especial**, un **delicioso almuerzo de falafel** y jugamos a **un juego de mesa muy interesante llamado “Cuarto”**. Gracias a Jakob y su esposa Helena por hospedarnos 🙏
+A pesar de la lluvia, un grupo de nosotros nos acercamos a **La Floresta** para visitar la **minicasa** de nuestro miembro Jakob (¡30 metros cuadrados!). Disfrutamos de un **tour especial**, un **delicioso almuerzo de falafel** y jugamos a un interesante **juego de mesa llamado “Cuarto”**. Gracias a Jakob y su esposa Helena por hospedarnos 🙏
 
 </div>
 

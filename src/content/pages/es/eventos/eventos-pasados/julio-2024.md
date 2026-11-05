@@ -55,7 +55,7 @@ A continuación, os ofrecemos un breve resumen del mes de julio, con algunos jue
 
 ### Coworking
 
-Realizamos dos sesiones y esta foto fue tomada en la segunda en Sopa en Poblenou. Ya sea de investigación sobre el cambio climático, donaciones efectivas o defensa de los animales, el trabajo es simplemente más agradable cuando se está rodeado de personas con ideas afines y un buen zumo 🍊
+Realizamos dos sesiones y esta foto fue tomada en la segunda en Sopa en Poblenou. Ya sea de investigación sobre el cambio climático, donaciones efectivas o defensa de los animales, el trabajo es simplemente más agradable cuando se está rodeado de personas con ideas afines y zumo fresco 🍊
 
 </div>
 

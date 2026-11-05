@@ -6,4 +6,4 @@ layout: "index"
 
 # Eventos pasados
 
-Aquí podrás encontrar resúmenes de nuestros eventos desde 2024 hasta ahora.
+Aquí podrás encontrar resúmenes de todos nuestros eventos.

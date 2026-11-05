@@ -5,7 +5,7 @@ key: "past-2024-09"
 
 # Septiembre: Veg-curious y nuevos comienzos 🥦
 
-Septiembre ha sido un mes apasionante para EA Barcelona, con muchas plantas, proteínas y estudiantes universitarios apasionados, además de un viaje a Berlín. ¡Esperamos que nos traiga buenos recuerdos e inspire a quienes han estado desaparecidos últimamente a unirse a nosotros en un evento pronto!
+Septiembre ha sido un mes apasionante para EA Barcelona, con muchas plantas, proteínas y estudiantes universitarios apasionados, además de un viaje a Berlín. ¡Esperamos que os traiga buenos recuerdos e inspire a quienes han estado desaparecidos últimamente a unirse a nosotros en un evento pronto!
 
 <div class="cols">
 
@@ -19,7 +19,7 @@ Septiembre ha sido un mes apasionante para EA Barcelona, con muchas plantas, pro
 
 ### Veg-curious: ¡Aprende, empodérate y saborea!
 
-Este evento dinámico incluyó presentaciones de [Ricard Soler](https://www.linkedin.com/in/ricardsolerroger/) sobre su cambio hacia el altruismo efectivo y de [Anne Reshetnyak](https://www.linkedin.com/in/anne-reshetnyak/) sobre nutrición y alternativas a la carne. Luego, nuestros chefs estrella [Camilla Ariano](https://www.linkedin.com/in/camilla-ariano-6b5552163/) y [Anthony Lara](https://www.linkedin.com/in/anthonylarap/) demostraron su enfoque de la cocina basada en plantas, centrándose en liberar el poder de las proteínas vegetales y los sabores umami. Nos fuimos inspirados y llenos de ideas (¡y comida deliciosa!) 😋 Si quieres un resumen más completo, consulta [esta publicación de Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7246802144882774016).
+Este evento dinámico incluyó presentaciones de [Ricard Soler](https://www.linkedin.com/in/ricardsolerroger/) sobre su cambio hacia el altruismo eficaz y de [Anne Reshetnyak](https://www.linkedin.com/in/anne-reshetnyak/) sobre nutrición y alternativas a la carne. Luego, nuestros chefs estrella [Camilla Ariano](https://www.linkedin.com/in/camilla-ariano-6b5552163/) y [Anthony Lara](https://www.linkedin.com/in/anthonylarap/) demostraron su enfoque de la cocina basada en plantas, centrándose en liberar el poder de las proteínas vegetales y los sabores umami. Nos fuimos inspirados y llenos de ideas (¡y comida deliciosa!) 😋 Si quieres un resumen más completo, consulta [esta publicación de Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7246802144882774016).
 
 </div>
 

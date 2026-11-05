@@ -3,9 +3,9 @@ title: "Noviembre 2024"
 key: "past-2024-11"
 ---
 
-# Noviembre: EAGx, fellowship y nuevas formas de impacto 💡
+# Noviembre: EAGx, curso introductorio y nuevas formas de impacto 💡
 
-En noviembre contamos con nuestra **visualización de la conferencia EAGxVirtual**, el inicio de nuestro primer **fellowship introductorio** y el lanzamiento de un **álbum de música** muy especial. Esperamos que disfrutéis leyendo estos resúmenes y ¡esperamos veros una última vez antes de acabar el año!
+En noviembre contamos con nuestra **visualización de la conferencia EAGxVirtual**, el inicio de nuestro primer **curso introductorio** y el lanzamiento de un **álbum de música** muy especial. Esperamos que disfrutéis leyendo estos resúmenes y ¡esperamos veros una última vez antes de acabar el año!
 
 <div class="cols">
 
@@ -29,15 +29,15 @@ EA Barcelona acogió una **visualización presencial** de la [conferencia EAGxVi
 
 <div class="col">
 
-![Siete participantes del fellowship sentados alrededor de una mesita con tazas en un salón con luz cálida](/images/53acc6378e8c.jpg)
+![Siete participantes del curso sentados alrededor de una mesita con tazas en un salón con luz cálida](/images/53acc6378e8c.jpg)
 
 </div>
 
 <div class="col">
 
-### ¡EA Barcelona comienza su primer fellowship introductorio!
+### ¡EA Barcelona comienza su primer curso introductorio!
 
-¡Nuestro primer fellowship introductorio de EA ha comenzado muy bien! Hasta ahora, hemos hablado sobre **diferencias de impacto, racionalidad, salud global y bienestar animal**, y hemos tenido muchas discusiones profundas sobre cómo **maximizar nuestro impacto positivo**. ¡Tenemos muchas ganas de seguir reflexionando sobre estas ideas!
+¡Nuestro primer curso introductorio de EA ha comenzado muy bien! Hasta ahora, hemos hablado sobre **diferencias de impacto, racionalidad, salud global** y **bienestar animal**, y hemos tenido muchas discusiones profundas sobre cómo **maximizar nuestro impacto positivo**. ¡Tenemos muchas ganas de seguir reflexionando sobre estas ideas!
 
 (¿Te sabe mal habértelo perdido? ¡Recuerda que puedes [unirte a un programa virtual](https://www.effectivealtruism.org/virtual-programs/introductory-program) desde cualquier lugar!)
 
@@ -49,7 +49,7 @@ EA Barcelona acogió una **visualización presencial** de la [conferencia EAGxVi
 
 <div class="col">
 
-![Seis miembros con portátiles en una mesa junto a una pared de piedra durante el coworking en Sandwichez Provenza](/images/c50179f253df.jpg)
+![Seis miembros con portátiles en una mesa junto a una pared de piedra durante el coworking en Sandwichez Provença](/images/c50179f253df.jpg)
 
 </div>
 
@@ -57,7 +57,7 @@ EA Barcelona acogió una **visualización presencial** de la [conferencia EAGxVi
 
 ### Coworking
 
-Estábamos disfrutando de una sesión productiva en Sandwichez Provenza, cuando inesperadamente un experto en bioseguridad se unió a nosotros y tomó esta foto... ¿Alguien puede adivinar quién era?🤔
+Estábamos disfrutando de una sesión productiva en Sandwichez Provença, cuando inesperadamente un experto en bioseguridad se unió a nosotros y tomó esta foto... ¿Alguien puede adivinar quién era?🤔
 
 </div>
 
@@ -73,7 +73,7 @@ Estábamos disfrutando de una sesión productiva en Sandwichez Provenza, cuando 
 
 <div class="col">
 
-### EXTRA: Ricard Soler publica un álbum de rap en catalán sobre los numerosos problemas asociados a la explotación animal en el Día Mundial del Veganismo
+### EXTRA: Ricard Soler publica un álbum de rap en catalán sobre los numerosos problemas asociados a la ganadería en el Día Mundial del Veganismo
 
 A veces, el Altruismo Eficaz puede conducir a una visión muy limitada de las cosas, haciéndonos sentir que **si una acción no es la más eficaz, no vale la pena intentarla** 😕 Pero también es importante **mantenernos abiertos a explorar y diversificar nuestros esfuerzos.**
 
@@ -81,11 +81,11 @@ Según **Chris Anderson, jefe de TED**, hay cinco reglas para difundir la genero
 
 1. **Desbloquea la emoción real**: las emociones resuenan ampliamente.
 2. **Sé increíblemente creativo**: la imaginación llama la atención.
-3. **Persigue los objetivos con coraje**: el coraje inspira.
-4. **Comunica y colabora**: las asociaciones amplifican el impacto.
+3. **Busca el coraje en tu interior**: el coraje inspira.
+4. **Tiende la mano y colabora**: las asociaciones amplifican el impacto.
 5. **Construye un amplificador**: utiliza herramientas y plataformas para difundir tu mensaje.
 
-Creemos que **Ricard ha hecho un trabajo fantástico** plasmando estos principios en su último proyecto: “**Parets de Vidre**”, un disco de rap (incluye tres videoclips) sobre los múltiples problemas de la explotación animal. Ya puedes [escuchar Parets de Vidre en todas las plataformas de streaming](https://linktr.ee/nudrama).
+Creemos que **Ricard ha hecho un trabajo fantástico** plasmando estos principios en su último proyecto: “**Parets de Vidre**” (Paredes de cristal), un disco de rap y videoclips sobre los múltiples problemas de la ganadería. Ya puedes [escuchar Parets de Vidre en todas las plataformas de streaming](https://linktr.ee/nudrama).
 
 </div>
 

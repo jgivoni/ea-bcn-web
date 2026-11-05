@@ -19,7 +19,7 @@ En diciembre, **terminamos nuestro primer curso introductorio**, organizamos con
 
 ### Una charla sobre el poder de las donaciones efectivas
 
-EA Barcelona y [ESAlogika](https://esalogika.com/) organizaron un evento sobre **el poder de las donaciones efectivas para realizar cambios significativos**. También disfrutamos **intercambiando los artículos** que más nos gustaban y **estableciendo redes con personas que piensan en hacer cambios significativos**. Esperamos que los participantes se inspiraran para marcar una diferencia real en la vida de los demás durante estas fiestas de Navidad y ¡más allá!
+EA Barcelona y [ESAlogika](https://esalogika.com/) organizaron un evento sobre **el poder de las donaciones efectivas para realizar cambios significativos**. También disfrutamos **intercambiando artículos de segunda mano** y **haciendo networking con agentes de cambio con ideas afines**. Esperamos que los participantes se inspiraran para marcar una diferencia real en la vida de los demás, ¡durante estas fiestas de Navidad y más allá!
 
 </div>
 
@@ -37,7 +37,7 @@ EA Barcelona y [ESAlogika](https://esalogika.com/) organizaron un evento sobre *
 
 ### ¡Hemos terminado nuestro primer Curso Introductorio!
 
-Durante cinco semanas, nuestro grupo de participantes curiosos se reunieron para explorar **algunos de los retos más urgentes a los que se enfrenta la humanidad hoy en día** y **las estrategias que podemos utilizar para abordarlos**. Nos gustaría darles las gracias a todos los que participaron por ofrecer sus perspectivas tan únicas y hacer que este primer curso haya sido un éxito.
+Durante cinco semanas, nuestro grupo de participantes reflexivos y curiosos se reunió para explorar algunos de los **retos más urgentes a los que se enfrenta la humanidad hoy en día** y **las estrategias que podemos utilizar para abordarlos**. Nos gustaría darles las gracias a todos los que participaron por ofrecer sus perspectivas tan únicas y hacer que este primer curso haya sido un éxito.
 
 (¿Te sabe mal habértelo perdido? Recuerda que siempre puedes [unirte a un programa virtual](https://www.effectivealtruism.org/virtual-programs/introductory-program) desde cualquier lugar. ¡Y también tenemos previsto organizar más cursos en 2025!)
 
@@ -57,7 +57,7 @@ Durante cinco semanas, nuestro grupo de participantes curiosos se reunieron para
 
 ### Última noche de juegos de mesa del año (¡por supuesto!)
 
-Como es tradición en EA Barcelona, unos cuantos nos reunimos para probar unas **deliciosas tapas, la tarta exquisita de Guillem** 😋 y **un juego de mesa creado por Tobi llamado: "Chase Patate"** 🚴‍♀ - ¡fue muy divertido!
+Como es **tradición en EA Barcelona**, unos cuantos nos reunimos para probar unas **deliciosas tapas, el exquisito bizcocho marmolado de Guillem** 😋 y un **juego de mesa creado por Tobi llamado: "Chase Patate"** 🚴‍♀ - ¡fue muy divertido!
 
 </div>
 

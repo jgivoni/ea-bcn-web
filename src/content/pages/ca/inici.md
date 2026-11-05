@@ -2,7 +2,7 @@
 title: "Inici"
 key: "home"
 layout: "home"
-headline: "Volem resoldre els problemes més urgents del món."
+headline: "Repensant què vol dir tenir impacte."
 cards:
   - title: "Informa't"
     text: "Aprèn sobre els problemes més grans del món i les idees de l'altruisme eficaç."
@@ -21,4 +21,4 @@ cta:
   href: "/ca/qui-som"
 ---
 
-Ja sigui la pobresa extrema, la ramaderia industrial o la intel·ligència artificial desalineada, ens apassiona aprendre, actuar de manera efectiva i créixer junts durant el procés.
+Ens importa resoldre els **problemes més urgents del món**. Ja sigui la pobresa extrema, la ramaderia industrial o la intel·ligència artificial desalineada, ens apassiona **aprendre, actuar de manera efectiva i créixer junts durant el procés**.

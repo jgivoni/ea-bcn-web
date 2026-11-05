@@ -6,4 +6,4 @@ layout: "index"
 
 # Esdeveniments passats
 
-Aquí pots trobar resums dels nostres esdeveniments des del 2024 fins ara.
+Aquí pots trobar resums de tots els nostres esdeveniments.

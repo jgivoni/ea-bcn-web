@@ -5,7 +5,7 @@ key: "past-2024-10"
 
 # Octubre: Xerrades, tapes i minicases🏡
 
-El mes d'octubre ha estat ple d'activitats, com ara xerrades sobre **emprenedoria**, la **ciència de les proteïnes alternatives** i la **seguretat de la IA**, així com sessions de **coworking** i una **visita a una minicasa**. Esperem que gaudiu recordant, que us vinguin ganes de venir a les pròximes activitats, i que puguem mantenir aquesta empenta fins al novembre.
+El mes d'octubre ha estat ple d'activitats, com ara xerrades sobre **emprenedoria**, la **ciència de les proteïnes alternatives i la seguretat de la IA**, així com sessions de **coworking** i una **visita a una minicasa**. Esperem que gaudiu recordant-ho o patint una mica de _fomo_ (perdó!), i que puguem mantenir aquesta empenta fins al novembre.
 
 <div class="cols">
 
@@ -55,7 +55,7 @@ El segon acte organitzat pel nou grup d'estudiants **AI Safety Barcelona** va te
 
 ### Tapa Talks amb ESAlogika
 
-EA Barcelona va col·laborar amb la [Environmental Social Association de Barcelona](https://esalogika.com/) (ESAlogika) per al seu **taller TapaTalks sobre proteïnes alternatives**, amb **Ricard Soler, Anya Reshetnyak** i el convidat especial, [Marc Coloma](https://www.linkedin.com/in/marccoloma/), cofundador d'[Heura](https://heurafoods.com/), una de les empreses de carns vegetals de més ràpid creixement a Espanya. I vam poder tastar el seu pernil dolç! 😋 Si voleu obtenir més informació sobre ESAlogika i la seva sèrie TapaTalks, podeu **unir-vos al seu grup de Meetup** [aquí](https://www.meetup.com/barcelona-community-meetup-group/?eventOrigin=event_home_page).
+EA Barcelona va col·laborar amb la [Environmental Social Association of Barcelona](https://esalogika.com/) (ESAlogika) per al seu **taller TapaTalks sobre proteïnes alternatives**, amb **Ricard Soler, Anya Reshetnyak** i el convidat especial, [Marc Coloma](https://www.linkedin.com/in/marccoloma/), cofundador d'[Heura](https://heurafoods.com/), una de les empreses de carns vegetals de més ràpid creixement a Espanya. I vam poder tastar el seu nou pernil dolç! 😋 Si voleu obtenir més informació sobre ESAlogika i la seva sèrie TapaTalks, podeu **unir-vos al seu grup de Meetup** [aquí](https://www.meetup.com/barcelona-community-meetup-group/?eventOrigin=event_home_page).
 
 </div>
 

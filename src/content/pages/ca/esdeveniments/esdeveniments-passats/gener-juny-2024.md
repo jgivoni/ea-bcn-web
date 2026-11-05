@@ -13,7 +13,7 @@ T'expliquem alguns dels millors moments del 2024 fins ara:
 
 <div class="col">
 
-![Quatre assistents somrients amb acreditacions a Londres; una fletxa groga assenyala en Ricard, amb una samarreta d'EAG London 2024](/images/7e8364d54da0.jpg)
+![Quatre assistents somrients amb acreditacions a l'aire lliure a Londres; una fletxa groga assenyala en Ricard, amb una samarreta d'EAG London 2024](/images/7e8364d54da0.jpg)
 
 </div>
 
@@ -21,7 +21,7 @@ T'expliquem alguns dels millors moments del 2024 fins ara:
 
 ### En Ricard s'uneix a l'equip de community building!
 
-Estem molt contents d'anunciar que el traductor multilingüe i activista dels animals, [Ricard Soler](https://www.linkedin.com/in/ricardsolerroger/), s'ha unit a l'equip de community building juntament amb la Mel Brennan. En Ricard porta ara el seu coneixement local i la seva il·lusió contagiosa pels projectes que milloren el món a totes les nostres activitats.
+Estem molt contents d'anunciar que el traductor multilingüe i activista dels animals, [Ricard Soler](https://www.linkedin.com/in/ricardsolerroger/), s'ha unit a l'equip de community building juntament amb la [Mel Brennan](https://www.linkedin.com/in/melanie-anne-brennan/). En Ricard porta ara el seu coneixement local i la seva il·lusió contagiosa pels projectes que milloren el món a totes les nostres activitats.
 
 </div>
 
@@ -59,7 +59,7 @@ EA Barcelona va col·laborar amb [Norrsken House](https://site.norrsken.org/barc
 
 ### Project for Awesome
 
-Vam participar a l'esdeveniment de recaptació de fons [Project for Awesome](https://projectforawesome.com/) per recaptar diners amb finalitats benèfiques, i [Give Directly](https://www.givedirectly.org/) i [Against Malaria Foundation](https://www.againstmalaria.com/) va aconseguir rebre més de 37.000 dòlars cadascun! Pots veure els vídeos i subscriure't al nostre canal de Youtube d'EA Barcelona [aquí](https://www.youtube.com/@eabarcelona).
+Vam participar a l'esdeveniment de recaptació de fons [Project for Awesome](https://projectforawesome.com/) per recaptar diners amb finalitats benèfiques, i [Give Directly](https://www.givedirectly.org/) i [Against Malaria Foundation](https://www.againstmalaria.com/) van aconseguir rebre més de 37.000 dòlars cadascun! Pots veure els vídeos i subscriure't al nostre canal de Youtube d'EA Barcelona [aquí](https://www.youtube.com/@eabarcelona).
 
 </div>
 
@@ -99,7 +99,7 @@ Vam concloure el nostre club de lectura de 5 setmanes per a [The Scout Mindset d
 
 ### Els riscos nuclears en profunditat
 
-En [Pablo Rosado](https://pablorosado.com/) ens va guiar a través d'una discussió estructurada sobre la història de les bombes nuclears, el seu potencial destructiu i les maneres en què els membres de la comunitat d'altruisme eficaç intenten mitigar aquest risc. Podeu veure el següent vídeo de Youtube d'en Pablo sobre aquest tema [aquí](https://www.youtube.com/watch?v=yEOVvGqfjJ0).
+En [Pablo Rosado](https://pablorosado.com/) ens va guiar a través d'una discussió estructurada sobre la història de les bombes nuclears, el seu potencial destructiu i les maneres en què els membres de la comunitat d'altruisme eficaç intenten mitigar aquest risc. Podeu veure el vídeo posterior d'en Pablo a Youtube sobre aquest tema [aquí](https://www.youtube.com/watch?v=yEOVvGqfjJ0).
 
 </div>
 
@@ -135,7 +135,7 @@ EA Barcelona va acollir la Trobada Anual de Racionalitat d'[Astral Codex Ten](ht
 
 <div class="col">
 
-### Xerrades sobre seguretat de l'IA
+### Xerrades sobre seguretat de la IA
 
 La comunitat emergent d'AI Safety Barcelona va acollir el seu esdeveniment de presentació a la Universitat de Barcelona amb dos ponents principals sobre els avenços recents en seguretat de la IA. Pots veure les xerrades [aquí](https://www.youtube.com/watch?v=8noPGzogpk4) i estar pendent de més esdeveniments d'AIS aviat!
 
@@ -155,7 +155,7 @@ La comunitat emergent d'AI Safety Barcelona va acollir el seu esdeveniment de pr
 
 ### Giving game
 
-En Guillem Lajara, fundador de [Karoteno](https://karoteno.org/), va organitzar un “giving game” al centre cívic del Prat. Vam aprendre a comparar l'impacte i la cost-efectivitat de tres organitzacions benèfiques diferents i junts vam decidir com dividir una suma de diners entre elles.
+En Guillem Lajara, CEO de [Karoteno](https://karoteno.org/), va organitzar un “giving game” al centre cívic del Prat. Vam aprendre a comparar l'impacte i la cost-efectivitat de tres organitzacions benèfiques diferents i junts vam decidir com dividir una suma de diners entre elles.
 
 </div>
 
@@ -167,7 +167,7 @@ En Guillem Lajara, fundador de [Karoteno](https://karoteno.org/), va organitzar 
 
 <div class="col">
 
-![Quatre membres d'EA Barcelona amb acreditacions de la conferència al vestíbul de l'EAG de Londres](/images/08b244c87a6f.jpg)
+![Quatre membres d'EA Barcelona amb acreditacions de la conferència drets junts al vestíbul de l'EAG de Londres](/images/08b244c87a6f.jpg)
 
 </div>
 

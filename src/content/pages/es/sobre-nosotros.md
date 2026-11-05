@@ -3,7 +3,7 @@ title: "Sobre nosotros"
 key: "about"
 ---
 
-# El altruismo eficaz es una filosofía, un campo de investigación y una comunidad global que tiene como objetivo encontrar las mejores formas de ayudar a los demás y ponerlas en práctica.
+# El altruismo eficaz es una filosofía y una comunidad global que tiene como objetivo encontrar las mejores formas de ayudar a los demás y ponerlas en práctica.
 
 Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences por aquí:
 

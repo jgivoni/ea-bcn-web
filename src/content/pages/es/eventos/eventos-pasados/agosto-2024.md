@@ -55,7 +55,7 @@ Llevamos un tiempo utilizando Meetup como nuestra plataforma principal de evento
 
 ### La cruda verdad detrás de la carne
 
-[Pablo Rosado](https://pablorosado.com/es/), miembro de la comunidad y youtuber conocido por el nombre de su canal “[_Altrufísica_](https://www.youtube.com/@altrufisica)”, nos pone la piel de gallina (¡en libertad!) profundizando en los muchos y graves problemas que causa la industria de la ganadería industrial. Si bien el video no es apto para débiles de corazón, es increíblemente informativo, coherente y, a menudo, original y bastante conmovedor. Puedes verlo [aquí](https://www.youtube.com/watch?v=3DKWdoIzQvE) (subtítulos en inglés disponibles).
+[Pablo Rosado](https://pablorosado.com/es/), miembro de la comunidad y youtuber conocido por el nombre de su canal “[_Altrufísica_](https://www.youtube.com/@altrufisica)”, coge el toro por los cuernos (¡sin comérselo!) y profundiza en los muchos y graves problemas que causa la industria de la ganadería industrial. Si bien el video no es apto para débiles de corazón, es increíblemente informativo, coherente y, a menudo, original y bastante conmovedor. Puedes verlo [aquí](https://www.youtube.com/watch?v=3DKWdoIzQvE) (subtítulos en inglés disponibles).
 
 </div>
 
@@ -73,7 +73,7 @@ Llevamos un tiempo utilizando Meetup como nuestra plataforma principal de evento
 
 ### Coworking
 
-¡Aquí estamos de nuevo en Sopa! Trabajamos en pronosticación, defensa de los animales, educación financiera y desarrollo comunitario. ¿Puedes hacer coincidir la cara con la disciplina? 🤔
+¡Aquí estamos de nuevo en Sopa! Trabajamos en pronósticos, defensa de los animales, educación financiera y desarrollo comunitario. ¿Puedes hacer coincidir la cara con la disciplina? 🤔
 
 </div>
 
@@ -83,7 +83,7 @@ Llevamos un tiempo utilizando Meetup como nuestra plataforma principal de evento
 
 <div class="col">
 
-![Ocho personas sonríen en un selfi de grupo sobre mantas de pícnic junto a la piscina del Parc de la Creueta del Coll](/images/cc2645d12726.jpg)
+![Ocho personas sonríen en un selfi de grupo sobre mantas de pícnic junto a la piscina al aire libre del Parc de la Creueta del Coll](/images/cc2645d12726.jpg)
 
 </div>
 

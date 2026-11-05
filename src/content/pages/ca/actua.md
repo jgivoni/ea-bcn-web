@@ -13,7 +13,7 @@ Creiem que pots tenir el màxim impacte aprofitant amb cura la teva carrera, els
 
 ![Un ponent en una xerrada assenyala una diapositiva: Què podem fer globalment per ajudar? Cal reduir l'arsenal nuclear.](/images/e4ed7e10f7b7.jpg)
 
-### Amb la teva carrera
+### Fes el bé amb la teva carrera
 
 [https://80000hours.org/](https://80000hours.org/)
 
@@ -23,7 +23,7 @@ Creiem que pots tenir el màxim impacte aprofitant amb cura la teva carrera, els
 
 ![Set membres somrients, dos d'ells sostenint un xec de donació](/images/e91d035e712f.jpg)
 
-### Amb les teves donacions
+### Fes el bé amb les teves donacions
 
 [https://www.givingwhatwecan.org/](https://www.givingwhatwecan.org/)
 
@@ -33,7 +33,7 @@ Creiem que pots tenir el màxim impacte aprofitant amb cura la teva carrera, els
 
 ![Una voluntària amb un vestit groc al costat d'un gran plafó amb el dibuix d'una forquilla](/images/93d79ccb0ba0.jpg)
 
-### A través del voluntariat
+### Fes el bé a través del voluntariat
 
 [https://80000hours.org/2012/10/how-to-be-a-high-impact-volunteer/](https://80000hours.org/2012/10/how-to-be-a-high-impact-volunteer/)
 

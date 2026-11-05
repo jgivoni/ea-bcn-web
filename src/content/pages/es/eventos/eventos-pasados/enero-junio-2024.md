@@ -13,15 +13,15 @@ Te contamos algunos de los mejores momentos de 2024 hasta ahora:
 
 <div class="col">
 
-![Cuatro asistentes sonrientes con acreditaciones en Londres; una flecha amarilla señala a Ricard, con una camiseta de EAG London 2024](/images/f747f24f8aed.jpg)
+![Cuatro asistentes sonrientes con acreditaciones al aire libre en Londres; una flecha amarilla señala a Ricard, con una camiseta de EAG London 2024](/images/f747f24f8aed.jpg)
 
 </div>
 
 <div class="col">
 
-### ¡Ricard se une al equipo de community building!
+### ¡Ricard se une al equipo de desarrollo comunitario!
 
-Estamos muy contentos de anunciar que el traductor multilingüe y activista por los derechos de los animales, [Ricard Soler](https://www.linkedin.com/in/ricardsolerroger/), se ha unido al equipo de desarrollo comunitario junto con Mel Brennan. Ricard ahora aporta su conocimiento local y su entusiasmo contagioso por los proyectos que mejoran el mundo a todas nuestras actividades.
+Estamos muy contentos de anunciar que el traductor multilingüe y activista por los derechos de los animales, [Ricard Soler](https://www.linkedin.com/in/ricardsolerroger/), se ha unido al equipo de desarrollo comunitario junto con [Mel Brennan](https://www.linkedin.com/in/melanie-anne-brennan/). Ricard ahora aporta su conocimiento local y su entusiasmo contagioso por los proyectos que mejoran el mundo a todas nuestras actividades.
 
 </div>
 
@@ -59,7 +59,7 @@ EA Barcelona colaboró con [Norrsken House](https://site.norrsken.org/barcelona)
 
 ### Project for Awesome
 
-Participamos en el evento de recaudación de fondos [Project for Awesome](https://projectforawesome.com/) para recaudar dinero para obras de caridad, y [Give Directly](https://www.givedirectly.org/) y [Against Malaria Foundation](https://www.againstmalaria.com/) lograron recaudar más de 37,000$ cada una. Puedes ver los vídeos y suscribirte a nuestro canal de Youtube de EA Barcelona [aquí](https://www.youtube.com/@eabarcelona).
+Participamos en el evento de recaudación de fondos [Project for Awesome](https://projectforawesome.com/) para recaudar dinero para obras de caridad, y [Give Directly](https://www.givedirectly.org/) y [Against Malaria Foundation](https://www.againstmalaria.com/) lograron recaudar más de 37.000 $ cada una. Puedes ver los vídeos y suscribirte a nuestro canal de Youtube de EA Barcelona [aquí](https://www.youtube.com/@eabarcelona).
 
 </div>
 
@@ -99,7 +99,7 @@ Concluimos nuestro club de lectura de 5 semanas de [The Scout Mindset de Julia G
 
 ### Análisis en profundidad de los riesgos nucleares
 
-[Pablo Rosado](https://pablorosado.com/) nos guió a través de una discusión estructurada sobre la historia de las bombas nucleares, su potencial destructivo y las formas en que los miembros de la comunidad del altruismo eficaz están tratando de mitigar este riesgo. Puedes ver el siguiente vídeo de Pablo en Youtube sobre este tema [aquí](https://www.youtube.com/watch?v=yEOVvGqfjJ0).
+[Pablo Rosado](https://pablorosado.com/) nos guió a través de una discusión estructurada sobre la historia de las bombas nucleares, su potencial destructivo y las formas en que los miembros de la comunidad del altruismo eficaz están tratando de mitigar este riesgo. Puedes ver el vídeo posterior de Pablo en Youtube sobre este tema [aquí](https://www.youtube.com/watch?v=yEOVvGqfjJ0).
 
 </div>
 
@@ -167,7 +167,7 @@ Guillem Lajara, director general de [Karoteno](https://karoteno.org/), organizó
 
 <div class="col">
 
-![Cuatro miembros de EA Barcelona con acreditaciones de la conferencia en el vestíbulo de la EAG de Londres](/images/f7c11493111b.jpg)
+![Cuatro miembros de EA Barcelona con acreditaciones de la conferencia, de pie juntos en el vestíbulo de la EAG de Londres](/images/f7c11493111b.jpg)
 
 </div>
 

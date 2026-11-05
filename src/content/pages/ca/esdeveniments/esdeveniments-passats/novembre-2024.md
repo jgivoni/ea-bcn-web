@@ -3,9 +3,9 @@ title: "Novembre 2024"
 key: "past-2024-11"
 ---
 
-# Novembre: EAGx, fellowship i noves formes d'impacte 💡
+# Novembre: EAGx, curs introductori i noves formes d'impacte 💡
 
-El mes de novembre va comptar amb la nostra **visualització de la conferència EAGxVirtual**, l'inici del nostre primer **fellowship introductori** i el llançament d'un **àlbum de música** molt especial. Esperem que gaudiu llegint aquests resums i esperem veure-us un últim cop abans d'acabar l'any!
+El mes de novembre va comptar amb la nostra **visualització de la conferència EAGxVirtual**, l'inici del nostre primer **curs introductori** i el llançament d'un **àlbum de música** molt especial. Esperem que gaudiu llegint aquests resums i esperem veure-us un últim cop abans d'acabar l'any!
 
 <div class="cols">
 
@@ -29,15 +29,15 @@ EA Barcelona va acollir una **visualització presencial** de la [conferència EA
 
 <div class="col">
 
-![Set participants del fellowship asseguts al voltant d'una tauleta amb tasses en una sala d'estar amb llum càlida](/images/1e7ab5fc7184.jpg)
+![Set participants del curs asseguts al voltant d'una tauleta amb tasses en una sala d'estar amb llum càlida](/images/1e7ab5fc7184.jpg)
 
 </div>
 
 <div class="col">
 
-### EA Barcelona comença el seu primer fellowship introductori!
+### EA Barcelona comença el seu primer curs introductori!
 
-El nostre primer fellowship introductori d'EA ha començat molt bé! Fins ara, hem parlat sobre **diferències d'impacte, racionalitat, salut global i benestar animal**, i hem tingut moltes discussions profundes sobre com podem **maximitzar el nostre impacte positiu**. Tenim moltes ganes de continuar reflexionant sobre aquestes idees!
+El nostre primer curs introductori d'EA ha començat molt bé! Fins ara, hem parlat sobre **diferències d'impacte, racionalitat, salut global** i **benestar animal**, i hem tingut moltes discussions profundes sobre com podem **maximitzar el nostre impacte positiu**. Tenim moltes ganes de continuar reflexionant sobre aquestes idees!
 
 (Et sap greu haver-t'ho perdut? Recorda que pots [unir-te a un programa virtual](https://www.effectivealtruism.org/virtual-programs/introductory-program) des de qualsevol lloc!)
 
@@ -79,13 +79,13 @@ A vegades, l'Altruisme Eficaç pot conduir a una visió molt limitada de les cos
 
 Segons **Chris Anderson, cap de TED**, hi ha cinc regles per difondre la generositat en línia:
 
-1. **Desbloqueja l'emoció real:** les emocions ressonen àmpliament.
-2. **Sigues increïblement creatiu:** la imaginació crida l'atenció.
-3. **Persegueix els objectius amb coratge**: el coratge inspira.
+1. **Desbloqueja l'emoció real**: les emocions ressonen àmpliament.
+2. **Sigues increïblement creatiu**: la imaginació crida l'atenció.
+3. **Busca el coratge al teu interior**: el coratge inspira.
 4. **Comunica i col·labora**: les associacions amplifiquen l'impacte.
 5. **Construeix un amplificador**: utilitza eines i plataformes per difondre el teu missatge.
 
-Creiem que **en Ricard ha fet una feina fantàstica** plasmant aquests principis en el seu darrer projecte: “**Parets de Vidre**”, un disc de rap (inclou tres videoclips) sobre els múltiples problemes de l'explotació animal. Ja pots [escoltar Parets de Vidre a totes les plataformes de streaming](https://linktr.ee/nudrama).
+Creiem que **en Ricard ha fet una feina fantàstica** plasmant aquests principis en el seu darrer projecte: “**Parets de Vidre**”, un disc de rap i videoclips sobre els múltiples problemes de l'explotació animal. Ja pots [escoltar Parets de Vidre a totes les plataformes de streaming](https://linktr.ee/nudrama).
 
 </div>
 

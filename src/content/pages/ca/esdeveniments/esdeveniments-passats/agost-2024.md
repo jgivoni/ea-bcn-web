@@ -53,9 +53,9 @@ Fa temps que fem servir Meetup com a principal plataforma d'esdeveniments, però
 
 <div class="col">
 
-### La cruda verdad detrás de la carne
+### La cruda verdad detrás de la carne (La crua veritat darrere de la indústria de la carn)
 
-En [Pablo Rosado](https://pablorosado.com/es/), membre de la comunitat i youtuber conegut amb el seu nom de canal “[_Altrufísica_](https://www.youtube.com/@altrufisica)”, ens posa la pell de gallina (en llibertat!) i aprofundeix en la llarga llista de problemes greus que provoca la indústria de la ramaderia industrial. Tot i que el vídeo no és per a la gent més sensible, és increïblement informatiu, coherent i sovint original i força commovedor. Pots veure'l [aquí](https://www.youtube.com/watch?v=3DKWdoIzQvE) (subtítols en anglès disponibles).
+En [Pablo Rosado](https://pablorosado.com/es/), membre de la comunitat i youtuber conegut amb el seu nom de canal “[_Altrufísica_](https://www.youtube.com/@altrufisica)”, agafa el toro per les banyes (no el pollastre!) i aprofundeix en la llarga llista de problemes greus que provoca la indústria de la ramaderia industrial. Tot i que el vídeo no és per a la gent més sensible, és increïblement informatiu, coherent i sovint original i força commovedor. Pots veure'l [aquí](https://www.youtube.com/watch?v=3DKWdoIzQvE) (subtítols en anglès disponibles).
 
 </div>
 
