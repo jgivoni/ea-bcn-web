@@ -11,7 +11,7 @@ September has been an exciting month for EA Barcelona, featuring plenty of plant
 
 <div class="col">
 
-![](/images/55eea6649f4e.jpg)
+![A host offers a food sample to attendees seated at a table in a leafy garden](/images/55eea6649f4e.jpg)
 
 </div>
 
@@ -29,7 +29,7 @@ This dynamic event included presentations by [Ricard Soler](https://www.linkedin
 
 <div class="col">
 
-![](/images/7a7e37d3b82a.jpg)
+![Collage of the Veg-curious event: speakers, a seated audience, attendees tasting, and plant-based dishes](/images/7a7e37d3b82a.jpg)
 
 </div>
 
@@ -47,7 +47,7 @@ Thank you so much to everyone who participated in this wonderful event, which to
 
 <div class="col">
 
-![](/images/d0535a07cc4b.jpg)
+![A smiling speaker talks in front of a projected slide at the Altruisme Efectiu UAB event](/images/d0535a07cc4b.jpg)
 
 </div>
 
@@ -65,7 +65,7 @@ Thank you so much to everyone who participated in this wonderful event, which to
 
 <div class="col">
 
-![](/images/bd7883c3f193.jpg)
+![Five smiling attendees with conference lanyards sit around a small table at EAGx Berlin](/images/bd7883c3f193.jpg)
 
 </div>
 

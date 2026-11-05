@@ -11,7 +11,7 @@ A continuació trobaràs un breu resum del mes de juliol, amb alguns jocs de rac
 
 <div class="col">
 
-![](/images/45b58612e39e.jpg)
+![L'Anya Reshetnyak parla davant d'una diapositiva amb el text "Vote with your fork. Eat more alternative proteins" i menjar en tres forquilles](/images/45b58612e39e.jpg)
 
 </div>
 
@@ -29,7 +29,7 @@ L'[Anya Reshetnyak](https://www.linkedin.com/in/anne-reshetnyak/) ens va oferir 
 
 <div class="col">
 
-![](/images/d13fc6571998.jpg)
+![Participants de la trobada asseguts en cercle sobre mantes de pícnic a la gespa d'un parc assolellat](/images/d13fc6571998.jpg)
 
 </div>
 
@@ -47,7 +47,7 @@ En [Tobi Baur](https://www.linkedin.com/in/tobibaur/) va organitzar la nostra se
 
 <div class="col">
 
-![](/images/11b29e2aafe7.jpg)
+![Sis persones somriuen en una taula de cafeteria amb ordinadors, cafè i suc de taronja durant una sessió de coworking](/images/11b29e2aafe7.jpg)
 
 </div>
 

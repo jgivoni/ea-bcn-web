@@ -11,7 +11,7 @@ Octubre ha estado repleto de actividades, incluyendo charlas sobre **emprendimie
 
 <div class="col">
 
-![](/images/c154dd05f8b0.jpg)
+![Asistentes charlando durante el networking después de la charla sobre emprendimiento en MOB Bailèn](/images/c154dd05f8b0.jpg)
 
 </div>
 
@@ -29,7 +29,7 @@ Los emprendedores [Pablo Melchor](https://www.linkedin.com/in/pmelchor/) de [Ayu
 
 <div class="col">
 
-![](/images/ae8567d7a5cd.jpg)
+![Seis personas posando juntas delante de una pizarra en el evento de AI Safety Barcelona en la Universitat Pompeu Fabra](/images/ae8567d7a5cd.jpg)
 
 </div>
 
@@ -47,7 +47,7 @@ El segundo evento organizado por el nuevo grupo de estudiantes **AI Safety Barce
 
 <div class="col">
 
-![](/images/0ff0962da13e.jpg)
+![Tres ponentes en el escenario delante de una diapositiva: "Part 2 - Panel discussion", con Marc Coloma de Heura y Anya Reshetnyak](/images/0ff0962da13e.jpg)
 
 </div>
 
@@ -65,7 +65,7 @@ EA Barcelona colaboró con la [Environmental Social Association de Barcelona](ht
 
 <div class="col">
 
-![](/images/c39d4fbdaf94.jpg)
+![Siete miembros sonriendo en una larga mesa de madera con portátiles durante el coworking en el café Sopa](/images/c39d4fbdaf94.jpg)
 
 </div>
 
@@ -83,7 +83,7 @@ Por supuesto, disfrutamos de nuestra habitual sesión de coworking en Sopa, esta
 
 <div class="col">
 
-![](/images/b5fd5d07865f.jpg)
+![Seis visitantes posando entre árboles verdes en un día nublado durante la visita a la minicasa en La Floresta](/images/b5fd5d07865f.jpg)
 
 </div>
 

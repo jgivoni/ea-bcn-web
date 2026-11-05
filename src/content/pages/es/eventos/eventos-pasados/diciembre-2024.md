@@ -11,7 +11,7 @@ En diciembre, **terminamos nuestro primer curso introductorio**, organizamos con
 
 <div class="col">
 
-![](/images/1a4fc9b53d6c.jpg)
+![Dos ponentes en taburetes junto a una pantalla de proyección, frente al público en la charla sobre donaciones efectivas](/images/1a4fc9b53d6c.jpg)
 
 </div>
 
@@ -29,7 +29,7 @@ EA Barcelona y [ESAlogika](https://esalogika.com/) organizaron un evento sobre *
 
 <div class="col">
 
-![](/images/441e2f663bed.jpg)
+![Participantes del curso en un salón escuchando a un miembro que habla durante una sesión](/images/441e2f663bed.jpg)
 
 </div>
 
@@ -49,7 +49,7 @@ Durante cinco semanas, nuestro grupo de participantes curiosos se reunieron para
 
 <div class="col">
 
-![](/images/7f2a824d97a5.jpg)
+![Cinco jugadores alrededor de una mesita con cartas y piezas mientras una persona explica el juego de mesa "Chase Patate"](/images/7f2a824d97a5.jpg)
 
 </div>
 

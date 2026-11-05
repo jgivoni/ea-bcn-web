@@ -10,7 +10,7 @@ EA Barcelona is excited to wrap up an incredible 2025! Over the past two months,
 
 <div class="col">
 
-![](/images/c5c1d99903bb.png)
+![Karoteno collage with the slogan Una nueva forma de donar, the donation app, a zambomba party and a gift basket](/images/c5c1d99903bb.png)
 
 </div>
 
@@ -30,7 +30,7 @@ Thanks to the generosity of many contributors, **over €6,000** was raised and 
 
 <div class="col">
 
-![](/images/bd5b1a81bda3.jpg)
+![Six book club participants in a video call hold up copies of Altruismo racional by Pablo Melchor](/images/bd5b1a81bda3.jpg)
 
 </div>
 
@@ -50,7 +50,7 @@ Throughout November-December, EA Barcelona hosted a book club on [Altruismo Raci
 
 <div class="col">
 
-![](/images/b1e8b35f0375.jpg)
+![Workshop attendees watch a speaker on a video call on a large screen](/images/b1e8b35f0375.jpg)
 
 </div>
 
@@ -70,7 +70,7 @@ Thanks to everyone who joined us, and we’re excited to plan the next workshop 
 
 <div class="col">
 
-![](/images/392e75075b63.jpg)
+![Selfie of attendees in a classroom at the EA Connect viewing, with a talk on the screen behind them](/images/392e75075b63.jpg)
 
 </div>
 
@@ -90,7 +90,7 @@ It was great to see new connections forming - a big **thank you** to everyone wh
 
 <div class="col">
 
-![](/images/354f6cb0db82.jpg)
+![Five community members smile for a selfie at a café table with laptops and coffee](/images/354f6cb0db82.jpg)
 
 </div>
 
@@ -110,7 +110,7 @@ We wrapped up the year with our final coworking session at **Sopa**. We exchange
 
 <div class="col">
 
-![](/images/dbd20377c058.jpg)
+![A large group in festive sweaters poses for a selfie at the end-of-year social](/images/dbd20377c058.jpg)
 
 </div>
 

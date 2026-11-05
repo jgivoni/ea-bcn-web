@@ -37,7 +37,7 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 <div class="col">
 
-![](/images/8154f6ed8acf.png)
+![Cover of The Scout Mindset by Julia Galef: Why Some People See Things Clearly and Others Don't](/images/8154f6ed8acf.png)
 
 </div>
 
@@ -56,7 +56,7 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 <div class="col">
 
-![](/images/ffcab0ce3008.jpg)
+![The 80,000 Hours Podcast logo](/images/ffcab0ce3008.jpg)
 
 </div>
 
@@ -76,7 +76,7 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 <div class="col">
 
-![](/images/075ea3d31ec4.png)
+![Effective altruism logo, a teal lightbulb with a heart inside](/images/075ea3d31ec4.png)
 
 </div>
 
@@ -92,25 +92,25 @@ Our aim is to provide opportunities to learn about the world’s most urgent pro
 
 <div class="col">
 
-![](/images/649e6527c969.jpg)
+![About 15 smiling attendees, and a dog, gathered around a sofa at an evening EA Barcelona meetup](/images/649e6527c969.jpg)
 
 </div>
 
 <div class="col">
 
-![](/images/e265a1a6745e.jpg)
+![Nine members standing in front of the Casa Sagnier youth centre in Barcelona](/images/e265a1a6745e.jpg)
 
 </div>
 
 <div class="col">
 
-![](/images/a751d13d3343.jpg)
+![Four members with laptops and coffee at a café table during a coworking session](/images/a751d13d3343.jpg)
 
 </div>
 
 <div class="col">
 
-![](/images/956435f919ee.jpg)
+![Audience on white chairs at a talk, with two speakers on stage and a remote speaker on two screens](/images/956435f919ee.jpg)
 
 </div>
 

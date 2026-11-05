@@ -12,7 +12,7 @@ EA Barcelona has begun 2025 with a clear focus on improving animal welfare. In J
 
 <div class="col">
 
-![](/images/f8a59d33d0d5.jpg)
+![Six people wearing event lanyards pose together in front of a screen with the animal advocacy panel slides](/images/f8a59d33d0d5.jpg)
 
 </div>
 
@@ -32,7 +32,7 @@ We joined forces with the [Centre for Animal Ethics](https://www.upf.edu/web/cae
 
 <div class="col">
 
-![](/images/0115c285081d.jpg)
+![Video still of a person speaking to the camera, with the ACTRA logo and a Project for Awesome banner](/images/0115c285081d.jpg)
 
 </div>
 
@@ -50,7 +50,7 @@ Six of us got behind the camera to film videos for [Project for Awesome](https:/
 
 <div class="col">
 
-![](/images/c8be306fe4e4.jpg)
+![Lukas Paul Robertson presents in front of a slide titled Wild Animal Welfare ? Important? with a photo of dolphins](/images/c8be306fe4e4.jpg)
 
 </div>
 
@@ -68,7 +68,7 @@ Six of us got behind the camera to film videos for [Project for Awesome](https:/
 
 <div class="col">
 
-![](/images/0a58ab0cd797.jpg)
+![Three community members smile for a selfie at a café table with a laptop, in front of a stone wall](/images/0a58ab0cd797.jpg)
 
 </div>
 

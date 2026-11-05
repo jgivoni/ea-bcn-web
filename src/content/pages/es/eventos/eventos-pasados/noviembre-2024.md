@@ -11,7 +11,7 @@ En noviembre contamos con nuestra **visualización de la conferencia EAGxVirtual
 
 <div class="col">
 
-![](/images/e43b029f57c7.jpg)
+![Asistentes con etiquetas de nombre sentados en la moqueta verde y en bancos, viendo la conferencia EAGxVirtual 2024](/images/e43b029f57c7.jpg)
 
 </div>
 
@@ -29,7 +29,7 @@ EA Barcelona acogió una **visualización presencial** de la [conferencia EAGxVi
 
 <div class="col">
 
-![](/images/53acc6378e8c.jpg)
+![Siete participantes del fellowship sentados alrededor de una mesita con tazas en un salón con luz cálida](/images/53acc6378e8c.jpg)
 
 </div>
 
@@ -49,7 +49,7 @@ EA Barcelona acogió una **visualización presencial** de la [conferencia EAGxVi
 
 <div class="col">
 
-![](/images/c50179f253df.jpg)
+![Seis miembros con portátiles en una mesa junto a una pared de piedra durante el coworking en Sandwichez Provenza](/images/c50179f253df.jpg)
 
 </div>
 
@@ -67,7 +67,7 @@ Estábamos disfrutando de una sesión productiva en Sandwichez Provenza, cuando 
 
 <div class="col">
 
-![](/images/74b42a7aad24.jpg)
+![Portada del álbum Parets de Vidre de Nu Drama: un gran ojo rodeado de dibujos de animales de granja, redes de pesca y escenas de matadero](/images/74b42a7aad24.jpg)
 
 </div>
 

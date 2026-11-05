@@ -37,7 +37,7 @@ Si ets nou al concepte d'altruisme eficaç, et recomanem que comencis per aquí:
 
 <div class="col">
 
-![](/images/e1c2121e1719.png)
+![Portada del llibre The Scout Mindset de Julia Galef: Why Some People See Things Clearly and Others Don't](/images/e1c2121e1719.png)
 
 </div>
 
@@ -56,7 +56,7 @@ Si ets nou al concepte d'altruisme eficaç, et recomanem que comencis per aquí:
 
 <div class="col">
 
-![](/images/794272a6131f.jpg)
+![Logotip de The 80,000 Hours Podcast](/images/794272a6131f.jpg)
 
 </div>
 
@@ -76,7 +76,7 @@ Si ets nou al concepte d'altruisme eficaç, et recomanem que comencis per aquí:
 
 <div class="col">
 
-![](/images/f19646abdbfb.png)
+![Logotip de l'altruisme eficaç, una bombeta turquesa amb un cor a dins](/images/f19646abdbfb.png)
 
 </div>
 
@@ -92,25 +92,25 @@ El nostre objectiu és oferir oportunitats per conèixer els problemes més urge
 
 <div class="col">
 
-![](/images/9b20088de94d.jpg)
+![Uns quinze assistents somrients, i un gos, al voltant d'un sofà en una trobada al vespre d'EA Barcelona](/images/9b20088de94d.jpg)
 
 </div>
 
 <div class="col">
 
-![](/images/58642fa4e1c5.jpg)
+![Nou membres drets davant de l'espai jove Casa Sagnier de Barcelona](/images/58642fa4e1c5.jpg)
 
 </div>
 
 <div class="col">
 
-![](/images/eddef9a8cb83.jpg)
+![Quatre membres amb portàtils i cafè a la taula d'una cafeteria durant una sessió de coworking](/images/eddef9a8cb83.jpg)
 
 </div>
 
 <div class="col">
 
-![](/images/7970e8602ad9.jpg)
+![Públic en cadires blanques en una xerrada, amb dos ponents a l'escenari i un ponent remot en dues pantalles](/images/7970e8602ad9.jpg)
 
 </div>
 

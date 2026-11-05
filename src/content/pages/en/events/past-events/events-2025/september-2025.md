@@ -10,7 +10,7 @@ September was an **incredible month** for our community! From **kicking off our 
 
 <div class="col">
 
-![](/images/8b623190d741.png)
+![Video still of Pablo Rosado crouching in straw and petting a resting pig in a barn](/images/8b623190d741.png)
 
 </div>
 
@@ -44,7 +44,7 @@ If this video makes you think differently, here are **three easy ways** to help 
 
 <div class="col">
 
-![](/images/b05627a5cd50.jpg)
+![Mel Brennan smiles and lowers her sunglasses outdoors](/images/b05627a5cd50.jpg)
 
 </div>
 
@@ -64,9 +64,9 @@ You can read her full story [here](https://www.effectivealtruism.org/stories/mel
 
 <div class="col">
 
-![](/images/e111ae55d676.jpg)
+![Fellowship participants with laptops at a long table; the screen reads Close & what's next](/images/e111ae55d676.jpg)
 
-![](/images/eed88ea5a9a2.jpg)
+![Fellowship participants discuss a slide: To start, what's the size of the problem? Size = Likelihood × Impact](/images/eed88ea5a9a2.jpg)
 
 </div>
 
@@ -86,7 +86,7 @@ Sad you missed out this time? You can **express your interest in the next iterat
 
 <div class="col">
 
-![](/images/7db06395ea0d.jpg)
+![Workshop attendees sit on chairs in a large room and smile at the camera](/images/7db06395ea0d.jpg)
 
 </div>
 
@@ -106,9 +106,9 @@ A huge **thank you** to everyone who attended! We’re organising a **follow-up 
 
 <div class="col">
 
-![](/images/116edd51e16b.jpg)
+![Five community members smile at a café table with laptops, surrounded by large plants](/images/116edd51e16b.jpg)
 
-![](/images/00a8f3eabe0d.jpg)
+![Four community members work on laptops at a green table in a café with orange window frames](/images/00a8f3eabe0d.jpg)
 
 </div>
 
@@ -134,7 +134,7 @@ Whether you're looking to network, build, or grow, our coworking sessions are fo
 
 <div class="col">
 
-![](/images/ae41511cd944.jpg)
+![Group of attendees in front of a plant wall with the 42 Barcelona and Fundación Telefónica logos](/images/ae41511cd944.jpg)
 
 </div>
 
@@ -154,9 +154,9 @@ The event even featured live **jailbreaking demos**, giving attendees a hands-on
 
 <div class="col">
 
-![](/images/0c6516b68bae.jpg)
+![Four people play spikeball on the grass in a sunny park](/images/0c6516b68bae.jpg)
 
-![](/images/3ce7efd46b7e.jpg)
+![Picnic group sits in a circle on blankets in the park while two people play guitar and ukulele](/images/3ce7efd46b7e.jpg)
 
 </div>
 

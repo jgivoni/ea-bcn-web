@@ -11,7 +11,7 @@ In December, we **finished our first introductory fellowship**, co-hosted a **ta
 
 <div class="col">
 
-![](/images/41477406143a.jpg)
+![Two speakers on stools beside a projection screen, facing the audience at the effective giving talk](/images/41477406143a.jpg)
 
 </div>
 
@@ -29,7 +29,7 @@ EA Barcelona and [ESAlogika](https://esalogika.com/) organized an event on **the
 
 <div class="col">
 
-![](/images/eaef09afc87b.jpg)
+![Fellowship participants in a living room listening to one member speak during a session](/images/eaef09afc87b.jpg)
 
 </div>
 
@@ -49,7 +49,7 @@ For five weeks, our group of thoughtful, curious participants came together to e
 
 <div class="col">
 
-![](/images/160e9e42a13c.jpg)
+![Five players around a coffee table with cards and pieces as one person explains the board game "Chase Patate"](/images/160e9e42a13c.jpg)
 
 </div>
 

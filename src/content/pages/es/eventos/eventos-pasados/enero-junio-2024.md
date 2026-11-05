@@ -13,7 +13,7 @@ Te contamos algunos de los mejores momentos de 2024 hasta ahora:
 
 <div class="col">
 
-![](/images/f747f24f8aed.jpg)
+![Cuatro asistentes sonrientes con acreditaciones en Londres; una flecha amarilla señala a Ricard, con una camiseta de EAG London 2024](/images/f747f24f8aed.jpg)
 
 </div>
 
@@ -33,7 +33,7 @@ Estamos muy contentos de anunciar que el traductor multilingüe y activista por 
 
 <div class="col">
 
-![](/images/232b63cd53dd.jpg)
+![Bruce Friedrich habla en un escenario iluminado bajo un rótulo luminoso de Norrsken, ante el público sentado](/images/232b63cd53dd.jpg)
 
 </div>
 
@@ -51,7 +51,7 @@ EA Barcelona colaboró con [Norrsken House](https://site.norrsken.org/barcelona)
 
 <div class="col">
 
-![](/images/3389959843fe.png)
+![Logotipos de Project for Awesome '24 y GiveDirectly junto a una mujer que habla a cámara en un vídeo de recaudación de fondos](/images/3389959843fe.png)
 
 </div>
 
@@ -71,7 +71,7 @@ Participamos en el evento de recaudación de fondos [Project for Awesome](https:
 
 <div class="col">
 
-![](/images/5bf3161daa69.png)
+![Portada del libro The Scout Mindset de Julia Galef: Why Some People See Things Clearly and Others Don't](/images/5bf3161daa69.png)
 
 </div>
 
@@ -91,7 +91,7 @@ Concluimos nuestro club de lectura de 5 semanas de [The Scout Mindset de Julia G
 
 <div class="col">
 
-![](/images/3732c8f7613d.jpg)
+![Ocho participantes de la sesión sobre riesgos nucleares posan juntos con acreditaciones en un bar](/images/3732c8f7613d.jpg)
 
 </div>
 
@@ -111,7 +111,7 @@ Concluimos nuestro club de lectura de 5 semanas de [The Scout Mindset de Julia G
 
 <div class="col">
 
-![](/images/6e0326ce310b.jpg)
+![Asistentes al encuentro de racionalidad con etiquetas de nombre posan en el césped del Parc de la Ciutadella en un día soleado](/images/6e0326ce310b.jpg)
 
 </div>
 
@@ -129,7 +129,7 @@ EA Barcelona organizó el Encuentro de Racionalidad Anual de [Astral Codex Ten](
 
 <div class="col">
 
-![](/images/08202f204f2e.jpg)
+![Estudiantes en un aula universitaria frente a una diapositiva que dice: LLMs are not necessarily aligned with human interests and values](/images/08202f204f2e.jpg)
 
 </div>
 
@@ -147,7 +147,7 @@ La comunidad emergente AI Safety Barcelona celebró su evento de lanzamiento en 
 
 <div class="col">
 
-![](/images/2b8d5f29b87e.jpg)
+![Participantes del giving game posan con cheques grandes de Giving Game para organizaciones benéficas como Against Malaria y GiveDirectly](/images/2b8d5f29b87e.jpg)
 
 </div>
 
@@ -167,7 +167,7 @@ Guillem Lajara, director general de [Karoteno](https://karoteno.org/), organizó
 
 <div class="col">
 
-![](/images/f7c11493111b.jpg)
+![Cuatro miembros de EA Barcelona con acreditaciones de la conferencia en el vestíbulo de la EAG de Londres](/images/f7c11493111b.jpg)
 
 </div>
 
@@ -185,7 +185,7 @@ Cuatro de nosotros nos dirigimos a Londres para la [conferencia global anual de 
 
 <div class="col">
 
-![](/images/7a6b4bcfe3d8.jpg)
+![Tobi Baur presenta una diapositiva titulada Consequences a los participantes sentados alrededor de una mesa](/images/7a6b4bcfe3d8.jpg)
 
 </div>
 
@@ -203,7 +203,7 @@ Cuatro de nosotros nos dirigimos a Londres para la [conferencia global anual de 
 
 <div class="col">
 
-![](/images/9dddc33c990c.jpg)
+![Cuatro miembros de la comunidad sonrientes en una mesa de cafetería con portátiles y cafés durante una sesión de coworking](/images/9dddc33c990c.jpg)
 
 </div>
 

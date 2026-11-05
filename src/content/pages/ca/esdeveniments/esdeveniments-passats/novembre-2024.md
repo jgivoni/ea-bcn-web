@@ -11,7 +11,7 @@ El mes de novembre va comptar amb la nostra **visualització de la conferència 
 
 <div class="col">
 
-![](/images/ec2e55771b45.jpg)
+![Assistents amb etiquetes de nom asseguts a la moqueta verda i en bancs, mirant la conferència EAGxVirtual 2024](/images/ec2e55771b45.jpg)
 
 </div>
 
@@ -29,7 +29,7 @@ EA Barcelona va acollir una **visualització presencial** de la [conferència EA
 
 <div class="col">
 
-![](/images/1e7ab5fc7184.jpg)
+![Set participants del fellowship asseguts al voltant d'una tauleta amb tasses en una sala d'estar amb llum càlida](/images/1e7ab5fc7184.jpg)
 
 </div>
 
@@ -49,7 +49,7 @@ El nostre primer fellowship introductori d'EA ha començat molt bé! Fins ara, h
 
 <div class="col">
 
-![](/images/c52818d7a78c.jpg)
+![Sis membres amb ordinadors portàtils a una taula al costat d'una paret de pedra durant el coworking a Sandwichez Provença](/images/c52818d7a78c.jpg)
 
 </div>
 
@@ -67,7 +67,7 @@ Estàvem gaudint d'una sessió productiva a Sandwichez Provença, quan inesperad
 
 <div class="col">
 
-![](/images/85418b25c6ff.jpg)
+![Portada de l'àlbum Parets de Vidre de Nu Drama: un gran ull envoltat de dibuixos d'animals de granja, xarxes de pesca i escenes d'escorxador](/images/85418b25c6ff.jpg)
 
 </div>
 

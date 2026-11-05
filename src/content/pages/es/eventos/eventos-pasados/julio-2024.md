@@ -11,7 +11,7 @@ A continuación, os ofrecemos un breve resumen del mes de julio, con algunos jue
 
 <div class="col">
 
-![](/images/89e72413837a.jpg)
+![Anya Reshetnyak habla delante de una diapositiva con el texto "Vote with your fork. Eat more alternative proteins" y comida en tres tenedores](/images/89e72413837a.jpg)
 
 </div>
 
@@ -29,7 +29,7 @@ A continuación, os ofrecemos un breve resumen del mes de julio, con algunos jue
 
 <div class="col">
 
-![](/images/31aafeb91881.jpg)
+![Asistentes al encuentro sentados en círculo sobre mantas de pícnic en el césped de un parque soleado](/images/31aafeb91881.jpg)
 
 </div>
 
@@ -47,7 +47,7 @@ A continuación, os ofrecemos un breve resumen del mes de julio, con algunos jue
 
 <div class="col">
 
-![](/images/5d4b5677bca7.jpg)
+![Seis personas sonríen en una mesa de cafetería con portátiles, café y zumo de naranja durante una sesión de coworking](/images/5d4b5677bca7.jpg)
 
 </div>
 

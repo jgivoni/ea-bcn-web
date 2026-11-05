@@ -29,7 +29,7 @@ Això és una cosa que fa temps que està en procés i que finalment s'ha public
 
 <div class="col">
 
-![](/images/322bcee0cc82.png)
+![Logotip de Meetup amb una fletxa que apunta al logotip de Luma](/images/322bcee0cc82.png)
 
 </div>
 
@@ -65,7 +65,7 @@ En [Pablo Rosado](https://pablorosado.com/es/), membre de la comunitat i youtube
 
 <div class="col">
 
-![](/images/edf33cf29a8c.jpg)
+![Quatre persones somriuen en una taula llarga de cafeteria amb ordinadors i cafè durant una sessió de coworking](/images/edf33cf29a8c.jpg)
 
 </div>
 
@@ -83,7 +83,7 @@ Tornem a ser a Sopa! Treballant en previsió (forecasting), defensa dels animals
 
 <div class="col">
 
-![](/images/d042e675a6e2.jpg)
+![Vuit persones somriuen en una selfie de grup sobre mantes de pícnic al costat de la piscina del Parc de la Creueta del Coll](/images/d042e675a6e2.jpg)
 
 </div>
 

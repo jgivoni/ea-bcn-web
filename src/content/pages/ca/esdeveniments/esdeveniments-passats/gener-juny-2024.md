@@ -13,7 +13,7 @@ T'expliquem alguns dels millors moments del 2024 fins ara:
 
 <div class="col">
 
-![](/images/7e8364d54da0.jpg)
+![Quatre assistents somrients amb acreditacions a Londres; una fletxa groga assenyala en Ricard, amb una samarreta d'EAG London 2024](/images/7e8364d54da0.jpg)
 
 </div>
 
@@ -33,7 +33,7 @@ Estem molt contents d'anunciar que el traductor multilingüe i activista dels an
 
 <div class="col">
 
-![](/images/20f79e18996e.jpg)
+![Bruce Friedrich parla en un escenari il·luminat sota un rètol lluminós de Norrsken, davant del públic assegut](/images/20f79e18996e.jpg)
 
 </div>
 
@@ -51,7 +51,7 @@ EA Barcelona va col·laborar amb [Norrsken House](https://site.norrsken.org/barc
 
 <div class="col">
 
-![](/images/46a544f84c5b.png)
+![Logotips de Project for Awesome '24 i GiveDirectly al costat d'una dona que parla a càmera en un vídeo de recaptació de fons](/images/46a544f84c5b.png)
 
 </div>
 
@@ -71,7 +71,7 @@ Vam participar a l'esdeveniment de recaptació de fons [Project for Awesome](htt
 
 <div class="col">
 
-![](/images/5bd4b7689bae.png)
+![Coberta del llibre The Scout Mindset de Julia Galef: Why Some People See Things Clearly and Others Don't](/images/5bd4b7689bae.png)
 
 </div>
 
@@ -91,7 +91,7 @@ Vam concloure el nostre club de lectura de 5 setmanes per a [The Scout Mindset d
 
 <div class="col">
 
-![](/images/fae12d415d1b.jpg)
+![Vuit participants de la sessió sobre riscos nuclears posen junts amb acreditacions en un bar](/images/fae12d415d1b.jpg)
 
 </div>
 
@@ -111,7 +111,7 @@ En [Pablo Rosado](https://pablorosado.com/) ens va guiar a través d'una discuss
 
 <div class="col">
 
-![](/images/94ee1021c563.jpg)
+![Assistents a la trobada de racionalitat amb etiquetes amb el nom posen a la gespa del Parc de la Ciutadella en un dia assolellat](/images/94ee1021c563.jpg)
 
 </div>
 
@@ -129,7 +129,7 @@ EA Barcelona va acollir la Trobada Anual de Racionalitat d'[Astral Codex Ten](ht
 
 <div class="col">
 
-![](/images/28ea5a65e70a.jpg)
+![Estudiants en una aula universitària davant d'una diapositiva que diu: LLMs are not necessarily aligned with human interests and values](/images/28ea5a65e70a.jpg)
 
 </div>
 
@@ -147,7 +147,7 @@ La comunitat emergent d'AI Safety Barcelona va acollir el seu esdeveniment de pr
 
 <div class="col">
 
-![](/images/34ad67a94a45.jpg)
+![Participants del giving game posen amb xecs grans de Giving Game per a organitzacions benèfiques com Against Malaria i GiveDirectly](/images/34ad67a94a45.jpg)
 
 </div>
 
@@ -167,7 +167,7 @@ En Guillem Lajara, fundador de [Karoteno](https://karoteno.org/), va organitzar 
 
 <div class="col">
 
-![](/images/08b244c87a6f.jpg)
+![Quatre membres d'EA Barcelona amb acreditacions de la conferència al vestíbul de l'EAG de Londres](/images/08b244c87a6f.jpg)
 
 </div>
 
@@ -185,7 +185,7 @@ Quatre de nosaltres vam marxar a Londres per a la [conferència global anual d'E
 
 <div class="col">
 
-![](/images/133f03944f01.jpg)
+![En Tobi Baur presenta una diapositiva titulada Consequences als participants asseguts al voltant d'una taula](/images/133f03944f01.jpg)
 
 </div>
 
@@ -203,7 +203,7 @@ Quatre de nosaltres vam marxar a Londres per a la [conferència global anual d'E
 
 <div class="col">
 
-![](/images/38b940ad48c0.jpg)
+![Quatre membres de la comunitat somrients en una taula de cafeteria amb portàtils i cafès durant una sessió de coworking](/images/38b940ad48c0.jpg)
 
 </div>
 

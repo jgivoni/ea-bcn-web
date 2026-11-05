@@ -11,7 +11,7 @@ We believe you can have the biggest impact by carefully leveraging your career, 
 
 <div class="col">
 
-![](/images/77de1378a110.jpg)
+![Speaker at a talk points to a slide: What can we globally do to help? We need to reduce the nuclear arsenal.](/images/77de1378a110.jpg)
 
 ### Do good with your career
 
@@ -21,7 +21,7 @@ We believe you can have the biggest impact by carefully leveraging your career, 
 
 <div class="col">
 
-![](/images/5109482bde28.jpg)
+![Seven smiling members, two of them holding up a donation cheque](/images/5109482bde28.jpg)
 
 ### Do good with your donations
 
@@ -31,7 +31,7 @@ We believe you can have the biggest impact by carefully leveraging your career, 
 
 <div class="col">
 
-![](/images/9547e19691de.jpg)
+![Volunteer in a yellow dress next to a large panel with a drawing of a fork](/images/9547e19691de.jpg)
 
 ### Do good as a volunteer
 

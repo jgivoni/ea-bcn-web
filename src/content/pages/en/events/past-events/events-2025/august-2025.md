@@ -10,7 +10,7 @@ August was a month of **reflection and connection** for us. We enjoyed some **co
 
 <div class="col">
 
-![](/images/f86e9f286f18.jpg)
+![Martin Lange holds a KIT award certificate in front of a banner with the year 2025](/images/f86e9f286f18.jpg)
 
 </div>
 
@@ -34,9 +34,9 @@ In his own words, Martin highlighted that this cause is often **one of the most 
 
 <div class="col">
 
-![](/images/88786211bc94.jpg)
+![Five community members smile for a selfie around a café table with laptops and drinks](/images/88786211bc94.jpg)
 
-![](/images/1551cf6b588b.jpg)
+![Four community members smile at a café table with laptops](/images/1551cf6b588b.jpg)
 
 </div>
 

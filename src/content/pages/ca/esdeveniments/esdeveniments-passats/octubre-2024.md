@@ -11,7 +11,7 @@ El mes d'octubre ha estat ple d'activitats, com ara xerrades sobre **emprenedori
 
 <div class="col">
 
-![](/images/1e5c9cdf1de6.jpg)
+![Assistents xerrant durant el networking després de la xerrada sobre emprenedoria a MOB Bailèn](/images/1e5c9cdf1de6.jpg)
 
 </div>
 
@@ -29,7 +29,7 @@ Els emprenedors [Pablo Melchor](https://www.linkedin.com/in/pmelchor/) d'[Ayuda 
 
 <div class="col">
 
-![](/images/4eafa1e7ff9b.jpg)
+![Sis persones posant juntes davant d'una pissarra a l'acte d'AI Safety Barcelona a la Universitat Pompeu Fabra](/images/4eafa1e7ff9b.jpg)
 
 </div>
 
@@ -47,7 +47,7 @@ El segon acte organitzat pel nou grup d'estudiants **AI Safety Barcelona** va te
 
 <div class="col">
 
-![](/images/599cb9922701.jpg)
+![Tres ponents a l'escenari davant d'una diapositiva: "Part 2 - Panel discussion", amb Marc Coloma d'Heura i Anya Reshetnyak](/images/599cb9922701.jpg)
 
 </div>
 
@@ -65,7 +65,7 @@ EA Barcelona va col·laborar amb la [Environmental Social Association de Barcelo
 
 <div class="col">
 
-![](/images/cb8ef22824f7.jpg)
+![Set membres somrient a una llarga taula de fusta amb ordinadors portàtils durant el coworking al cafè Sopa](/images/cb8ef22824f7.jpg)
 
 </div>
 
@@ -83,7 +83,7 @@ Per descomptat, vam gaudir de la nostra sessió habitual de coworking a Sopa, aq
 
 <div class="col">
 
-![](/images/9ed085b4113e.jpg)
+![Sis visitants posant entre arbres verds en un dia ennuvolat durant la visita a la minicasa de La Floresta](/images/9ed085b4113e.jpg)
 
 </div>
 

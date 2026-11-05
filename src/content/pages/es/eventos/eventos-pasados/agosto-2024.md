@@ -29,7 +29,7 @@ Es algo que se ha estado gestando durante un tiempo y que finalmente se ha publi
 
 <div class="col">
 
-![](/images/3583aa717aa9.png)
+![Logotipo de Meetup con una flecha que apunta al logotipo de Luma](/images/3583aa717aa9.png)
 
 </div>
 
@@ -65,7 +65,7 @@ Llevamos un tiempo utilizando Meetup como nuestra plataforma principal de evento
 
 <div class="col">
 
-![](/images/54402d4ec165.jpg)
+![Cuatro personas sonríen en una mesa larga de cafetería con portátiles y café durante una sesión de coworking](/images/54402d4ec165.jpg)
 
 </div>
 
@@ -83,7 +83,7 @@ Llevamos un tiempo utilizando Meetup como nuestra plataforma principal de evento
 
 <div class="col">
 
-![](/images/cc2645d12726.jpg)
+![Ocho personas sonríen en un selfi de grupo sobre mantas de pícnic junto a la piscina del Parc de la Creueta del Coll](/images/cc2645d12726.jpg)
 
 </div>
 

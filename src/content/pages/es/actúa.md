@@ -11,7 +11,7 @@ Creemos que puedes tener el mayor impacto si aprovechas al máximo tu carrera, t
 
 <div class="col">
 
-![](/images/271400f14f87.jpg)
+![Un ponente en una charla señala una diapositiva: ¿Qué podemos hacer globalmente para ayudar? Hay que reducir el arsenal nuclear.](/images/271400f14f87.jpg)
 
 ### Con tu carrera
 
@@ -21,7 +21,7 @@ Creemos que puedes tener el mayor impacto si aprovechas al máximo tu carrera, t
 
 <div class="col">
 
-![](/images/ebca75112dd7.jpg)
+![Siete miembros sonrientes, dos de ellos sosteniendo un cheque de donación](/images/ebca75112dd7.jpg)
 
 ### Con tus donaciones
 
@@ -31,7 +31,7 @@ Creemos que puedes tener el mayor impacto si aprovechas al máximo tu carrera, t
 
 <div class="col">
 
-![](/images/3458c393425f.jpg)
+![Una voluntaria con un vestido amarillo junto a un gran panel con el dibujo de un tenedor](/images/3458c393425f.jpg)
 
 ### Con el voluntariado
 

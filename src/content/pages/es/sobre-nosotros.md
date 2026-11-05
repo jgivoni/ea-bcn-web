@@ -37,7 +37,7 @@ Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences 
 
 <div class="col">
 
-![](/images/28ecc6e595de.png)
+![Portada del libro The Scout Mindset de Julia Galef: Why Some People See Things Clearly and Others Don't](/images/28ecc6e595de.png)
 
 </div>
 
@@ -56,7 +56,7 @@ Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences 
 
 <div class="col">
 
-![](/images/b327a04dfb84.jpg)
+![Logotipo de The 80,000 Hours Podcast](/images/b327a04dfb84.jpg)
 
 </div>
 
@@ -76,7 +76,7 @@ Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences 
 
 <div class="col">
 
-![](/images/a048a6fd10ba.png)
+![Logotipo del altruismo eficaz, una bombilla turquesa con un corazón dentro](/images/a048a6fd10ba.png)
 
 </div>
 
@@ -92,25 +92,25 @@ Nuestro objetivo es ofrecer oportunidades para conocer los problemas más urgent
 
 <div class="col">
 
-![](/images/4117389de325.jpg)
+![Unos quince asistentes sonrientes, y un perro, alrededor de un sofá en un encuentro nocturno de EA Barcelona](/images/4117389de325.jpg)
 
 </div>
 
 <div class="col">
 
-![](/images/ba58965dcc1e.jpg)
+![Nueve miembros de pie frente al espacio joven Casa Sagnier de Barcelona](/images/ba58965dcc1e.jpg)
 
 </div>
 
 <div class="col">
 
-![](/images/7dce49e8b541.jpg)
+![Cuatro miembros con portátiles y café en la mesa de una cafetería durante una sesión de coworking](/images/7dce49e8b541.jpg)
 
 </div>
 
 <div class="col">
 
-![](/images/884645afb822.jpg)
+![Público en sillas blancas en una charla, con dos ponentes en el escenario y un ponente remoto en dos pantallas](/images/884645afb822.jpg)
 
 </div>
 

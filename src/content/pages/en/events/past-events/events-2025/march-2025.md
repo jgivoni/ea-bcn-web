@@ -12,7 +12,7 @@ EA Barcelona has _marched into March_ by co-hosting a **guest lecture on AI Gove
 
 <div class="col">
 
-![](/images/b8cb9b53877a.jpg)
+![Two photos of Anthony Lara, one speaking at an event and one smiling on a boat](/images/b8cb9b53877a.jpg)
 
 </div>
 
@@ -32,7 +32,7 @@ Now let’s look at the highlights from March!
 
 <div class="col">
 
-![](/images/7e6268b58301.jpg)
+![Tristan Williams sits on a desk and talks to attendees in a university classroom with a projector screen](/images/7e6268b58301.jpg)
 
 </div>
 
@@ -50,7 +50,7 @@ Now let’s look at the highlights from March!
 
 <div class="col">
 
-![](/images/224bdc244016.jpg)
+![Six book club participants in an online video call](/images/224bdc244016.jpg)
 
 </div>
 
@@ -68,7 +68,7 @@ We are now halfway through [_Thinking in Bets: Making Smarter Decisions When You
 
 <div class="col">
 
-![](/images/f6ee4c54e4e2.jpg)
+![Four community members smile at a café table with laptops, surrounded by large plants](/images/f6ee4c54e4e2.jpg)
 
 </div>
 

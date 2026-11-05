@@ -12,7 +12,7 @@ Ready for the recap? Let’s go!
 
 <div class="col">
 
-![](/images/e270bf68aef1.jpg)
+![Ana Luna Hernández smiles on a sunny balcony with city buildings behind her](/images/e270bf68aef1.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ Ready for the recap? Let’s go!
 
 <div class="col">
 
-![](/images/856f5ba32083.jpg)
+![Collage of attendees chatting and smiling on the grass in Ciutadella Park](/images/856f5ba32083.jpg)
 
 </div>
 
@@ -48,7 +48,7 @@ We had a **delightful Saturday afternoon in Ciutadella Park** with **14 attendee
 
 <div class="col">
 
-![](/images/312ac0f48e59.jpg)
+![Seven community members smile at a long wooden table during a coworking session in a café](/images/312ac0f48e59.jpg)
 
 </div>
 

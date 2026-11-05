@@ -29,7 +29,7 @@ This is something that’s been in the pipeline for a while and has now finally 
 
 <div class="col">
 
-![](/images/7d09483dbfaa.png)
+![Meetup logo with an arrow pointing to the Luma logo](/images/7d09483dbfaa.png)
 
 </div>
 
@@ -65,7 +65,7 @@ We have been using Meetup as our main events platform for a while now, but given
 
 <div class="col">
 
-![](/images/5b40dd8bfd2b.jpg)
+![Four people smile at a long café table with laptops and coffee during a coworking session](/images/5b40dd8bfd2b.jpg)
 
 </div>
 
@@ -83,7 +83,7 @@ Here we are back at Sopa again! Working on forecasting, animal advocacy, financi
 
 <div class="col">
 
-![](/images/70958d134379.jpg)
+![Eight people smile for a group selfie on picnic blankets next to the outdoor pool at Parc de la Creueta del Coll](/images/70958d134379.jpg)
 
 </div>
 

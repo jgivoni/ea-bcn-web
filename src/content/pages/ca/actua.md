@@ -11,7 +11,7 @@ Creiem que pots tenir el màxim impacte aprofitant amb cura la teva carrera, els
 
 <div class="col">
 
-![](/images/e4ed7e10f7b7.jpg)
+![Un ponent en una xerrada assenyala una diapositiva: Què podem fer globalment per ajudar? Cal reduir l'arsenal nuclear.](/images/e4ed7e10f7b7.jpg)
 
 ### Amb la teva carrera
 
@@ -21,7 +21,7 @@ Creiem que pots tenir el màxim impacte aprofitant amb cura la teva carrera, els
 
 <div class="col">
 
-![](/images/e91d035e712f.jpg)
+![Set membres somrients, dos d'ells sostenint un xec de donació](/images/e91d035e712f.jpg)
 
 ### Amb les teves donacions
 
@@ -31,7 +31,7 @@ Creiem que pots tenir el màxim impacte aprofitant amb cura la teva carrera, els
 
 <div class="col">
 
-![](/images/93d79ccb0ba0.jpg)
+![Una voluntària amb un vestit groc al costat d'un gran plafó amb el dibuix d'una forquilla](/images/93d79ccb0ba0.jpg)
 
 ### A través del voluntariat
 
