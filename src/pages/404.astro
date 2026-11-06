@@ -1,0 +1,25 @@
+---
+import Prose from '../components/Prose.astro';
+import Section from '../components/Section.astro';
+import Base from '../layouts/Base.astro';
+import { HOME_SLUGS, LANGS, urlFor } from '../lib/pages';
+import { UI } from '../lib/ui';
+
+// One page serves every missing URL, so it speaks all three languages.
+---
+
+<Base lang="en" title={UI.en.notFoundTitle}>
+  <Section>
+    <Prose>
+      <h1>{UI.en.notFoundTitle}</h1>
+      {
+        LANGS.map((lang) => (
+          <p lang={lang}>
+            {lang !== 'en' && <strong>{UI[lang].notFoundTitle}. </strong>}
+            {UI[lang].notFoundText} <a href={urlFor(lang, HOME_SLUGS[lang])}>{UI[lang].notFoundHome}</a>
+          </p>
+        ))
+      }
+    </Prose>
+  </Section>
+</Base>
