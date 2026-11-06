@@ -63,6 +63,9 @@ const switcher = LANGS.map((other) => ({
       }
     </script>
     <title>{title}</title>
+    <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="icon" href="/icon-192.png" sizes="192x192" type="image/png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     {description && <meta name="description" content={description} />}
     {canonical ? <link rel="canonical" href={canonical} /> : <meta name="robots" content="noindex" />}
     {Object.entries(alternates).map(([lang, url]) => <link rel="alternate" hreflang={lang} href={absolute(url)} />)}
@@ -82,7 +85,8 @@ const switcher = LANGS.map((other) => ({
   <body>
     <a class="skip" href="#content">{ui.skip}</a>
     <SiteHeader lang={lang} homeHref={urlFor(lang, HOME_SLUGS[lang])} nav={nav} switcher={switcher} />
-    <main id="content">
+    <!-- Only content pages are in the search index (data-pagefind-body). -->
+    <main id="content" data-pagefind-body={page ? '' : undefined}>
       <Hero image={photo('hero')} alt="Park Güell, Barcelona" />
       <slot />
     </main>

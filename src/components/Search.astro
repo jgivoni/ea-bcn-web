@@ -1,0 +1,202 @@
+---
+// Site search. Pagefind indexes the built pages (`pagefind --site dist` after `astro build`) and runs in the browser.
+// It searches only the pages in the language of the current page. The index exists only in a build, not in `astro dev`.
+import type { Lang } from '../lib/pages';
+import { UI } from '../lib/ui';
+import ToolButton from './ToolButton.astro';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const ui = UI[lang];
+---
+
+<ToolButton class="search-open" label={ui.search}>
+  <svg viewBox="0 0 24 24" aria-hidden="true">
+    <circle cx="11" cy="11" r="7"></circle>
+    <path d="m20 20-4-4"></path>
+  </svg>
+</ToolButton>
+
+<dialog class="search" aria-label={ui.search} data-no-results={ui.searchNoResults} data-unavailable={ui.searchUnavailable}>
+  <form method="dialog" class="search-bar">
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <circle cx="11" cy="11" r="7"></circle>
+      <path d="m20 20-4-4"></path>
+    </svg>
+    <input type="search" name="q" placeholder={ui.searchPlaceholder} aria-label={ui.searchPlaceholder} autocomplete="off" />
+    <button class="search-close" value="close">{ui.close}</button>
+  </form>
+  <p class="search-status" role="status"></p>
+  <ol class="search-results"></ol>
+</dialog>
+
+<script>
+  type Result = { url: string; excerpt: string; meta: { title?: string } };
+  type Pagefind = {
+    debouncedSearch: (query: string, options?: object, ms?: number) => Promise<{ results: { data: () => Promise<Result> }[] } | null>;
+  };
+
+  const dialog = document.querySelector<HTMLDialogElement>('dialog.search');
+  // The button can sit in the folded phone menu; the dialog must not inherit that menu's hidden state.
+  if (dialog) document.body.append(dialog);
+  const input = dialog?.querySelector<HTMLInputElement>('input');
+  const list = dialog?.querySelector<HTMLOListElement>('.search-results');
+  const status = dialog?.querySelector<HTMLParagraphElement>('.search-status');
+  let pagefind: Promise<Pagefind | null> | undefined;
+
+  // Built pages end in .html; links use the clean address.
+  const clean = (url: string) => url.replace(/\/index\.html$/, '/').replace(/\.html$/, '') || '/';
+
+  function load() {
+    const path = '/pagefind/pagefind.js';
+    pagefind ??= import(/* @vite-ignore */ path).catch(() => null);
+    return pagefind;
+  }
+
+  async function run(query: string) {
+    if (!list || !status || !dialog) return;
+    const api = await load();
+    if (!api) {
+      status.textContent = dialog.dataset.unavailable ?? '';
+      return;
+    }
+    const search = await api.debouncedSearch(query, {}, 150);
+    if (search === null) return; // a newer query replaced this one
+    const results = await Promise.all(search.results.slice(0, 8).map((r) => r.data()));
+    list.replaceChildren(
+      ...results.map((result) => {
+        const item = document.createElement('li');
+        const link = document.createElement('a');
+        link.href = clean(result.url);
+        link.textContent = result.meta.title ?? clean(result.url);
+        const excerpt = document.createElement('p');
+        excerpt.innerHTML = result.excerpt; // Pagefind's excerpt of our own pages, with <mark> around the matches
+        item.append(link, excerpt);
+        return item;
+      }),
+    );
+    status.textContent = query.trim() && results.length === 0 ? (dialog.dataset.noResults ?? '') : '';
+  }
+
+  document.querySelector('.search-open')?.addEventListener('click', () => {
+    dialog?.showModal();
+    input?.select();
+    void load();
+  });
+  input?.addEventListener('input', () => void run(input.value));
+  // A click on the backdrop closes the dialog.
+  dialog?.addEventListener('click', (event) => {
+    if (event.target === dialog) dialog.close();
+  });
+</script>
+
+<style>
+  .search {
+    width: min(40rem, calc(100vw - 2 * var(--gutter-header)));
+    max-height: min(36rem, 80dvh);
+    margin: 10vh auto auto;
+    padding: 0;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg);
+    color: var(--color-text);
+    box-shadow: var(--shadow-card-hover);
+  }
+
+  .search::backdrop {
+    background: rgb(0 0 0 / 0.4);
+  }
+
+  .search-bar {
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-3) var(--space-4);
+    border-bottom: 1px solid var(--color-border);
+    background: var(--color-bg);
+  }
+
+  .search-bar svg {
+    flex-shrink: 0;
+    width: 1.15rem;
+    height: 1.15rem;
+    fill: none;
+    stroke: var(--color-text-muted);
+    stroke-width: 2;
+    stroke-linecap: round;
+  }
+
+  input {
+    flex: 1;
+    min-width: 0;
+    padding: var(--space-2) 0;
+    border: 0;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    outline: none;
+  }
+
+  .search-close {
+    padding: var(--space-1) var(--space-2);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    background: transparent;
+    color: var(--color-text-muted);
+    font: inherit;
+    font-size: var(--text-xs);
+    cursor: pointer;
+  }
+
+  .search-status:empty {
+    display: none;
+  }
+
+  .search-status {
+    margin: 0;
+    padding: var(--space-4);
+    color: var(--color-text-muted);
+  }
+
+  .search-results {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .search-results:empty {
+    display: none;
+  }
+
+  /* Results are created by the script, so their selectors are global (inside .search-results only). */
+  .search-results :global(li) {
+    padding: var(--space-3) var(--space-4);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .search-results :global(a) {
+    color: var(--color-primary-strong);
+    font-weight: var(--weight-semibold);
+    text-decoration: none;
+  }
+
+  .search-results :global(a:hover) {
+    text-decoration: underline;
+  }
+
+  .search-results :global(p) {
+    margin: var(--space-1) 0 0;
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+  }
+
+  .search-results :global(mark) {
+    background: var(--color-primary-soft);
+    color: var(--color-text);
+  }
+</style>

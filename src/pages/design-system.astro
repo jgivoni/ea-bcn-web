@@ -251,9 +251,13 @@ const spaces = ['--space-1', '--space-2', '--space-3', '--space-4', '--space-5',
     <Prose>
       <h2>Header, banner and footer</h2>
       <p>
-        <code>SiteHeader</code> (logo, menu, language switcher, theme button), <code>Hero</code> (the Park Güell banner, which scrolls
-        at half speed) and <code>SiteFooter</code> (contact and social icons) frame every page, including this one. Below 1200px the
-        menu folds into the menu button.
+        <code>SiteHeader</code> (logo, menu, language switcher, search and theme buttons), <code>Hero</code> (the Park Güell banner,
+        which scrolls at half speed) and <code>SiteFooter</code> (contact and social icons) frame every page, including this one.
+        Below 1200px the menu folds into the menu button and drops down on the right.
+      </p>
+      <p>
+        <code>ToolButton</code> is the square icon button that <code>Search</code> and <code>ThemeToggle</code> share. Search
+        (Pagefind) finds pages in the current language; it works on the built site, not in <code>astro dev</code>.
       </p>
     </Prose>
   </Section>

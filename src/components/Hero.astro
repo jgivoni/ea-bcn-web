@@ -10,7 +10,7 @@ interface Props {
 const { image, alt = '' } = Astro.props;
 ---
 
-<div class="hero">
+<div class="hero" data-pagefind-ignore="all">
   <Image class="hero-image" src={image} alt={alt} widths={[640, 1024, 1584]} sizes="100vw" loading="eager" />
 </div>
 

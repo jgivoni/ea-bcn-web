@@ -18,6 +18,11 @@ type Strings = {
   notFoundTitle: string;
   notFoundText: string;
   notFoundHome: string;
+  search: string;
+  searchPlaceholder: string;
+  searchNoResults: string;
+  searchUnavailable: string;
+  close: string;
 };
 
 export const UI: Record<Lang, Strings> = {
@@ -36,6 +41,11 @@ export const UI: Record<Lang, Strings> = {
     notFoundTitle: 'Page not found',
     notFoundText: 'This page does not exist or has moved.',
     notFoundHome: 'Go to the home page',
+    search: 'Search',
+    searchPlaceholder: 'Search this site',
+    searchNoResults: 'No pages found.',
+    searchUnavailable: 'Search is not available right now.',
+    close: 'Close',
   },
   ca: {
     skip: 'Salta al contingut',
@@ -52,6 +62,11 @@ export const UI: Record<Lang, Strings> = {
     notFoundTitle: 'Pàgina no trobada',
     notFoundText: 'Aquesta pàgina no existeix o s’ha mogut.',
     notFoundHome: 'Ves a la pàgina d’inici',
+    search: 'Cerca',
+    searchPlaceholder: 'Cerca en aquest web',
+    searchNoResults: 'No s’ha trobat cap pàgina.',
+    searchUnavailable: 'La cerca no està disponible ara mateix.',
+    close: 'Tanca',
   },
   es: {
     skip: 'Saltar al contenido',
@@ -68,5 +83,10 @@ export const UI: Record<Lang, Strings> = {
     notFoundTitle: 'Página no encontrada',
     notFoundText: 'Esta página no existe o se ha movido.',
     notFoundHome: 'Ir a la página de inicio',
+    search: 'Buscar',
+    searchPlaceholder: 'Buscar en esta web',
+    searchNoResults: 'No se ha encontrado ninguna página.',
+    searchUnavailable: 'La búsqueda no está disponible ahora mismo.',
+    close: 'Cerrar',
   },
 };

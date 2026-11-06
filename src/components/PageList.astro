@@ -12,6 +12,9 @@ const { items } = Astro.props;
 const pages = await loadPages();
 ---
 
-<CardGrid columns="auto">
-  {items.map((item) => <Card title={headingOf(item)} href={item.url} image={thumbnailOf(pages, item)} />)}
-</CardGrid>
+<!-- The listed pages are indexed on their own, so the list is left out of search. -->
+<div data-pagefind-ignore="all">
+  <CardGrid columns="auto">
+    {items.map((item) => <Card title={headingOf(item)} href={item.url} image={thumbnailOf(pages, item)} />)}
+  </CardGrid>
+</div>

@@ -2,6 +2,7 @@
 import { LANG_LABELS, LANG_NAMES, type Lang } from '../lib/pages';
 import { UI } from '../lib/ui';
 import Logo from './Logo.astro';
+import Search from './Search.astro';
 import ThemeToggle from './ThemeToggle.astro';
 
 interface NavItem {
@@ -58,11 +59,32 @@ const ui = UI[lang];
             ))
           }
         </nav>
-        <ThemeToggle lang={lang} />
+        <div class="tool-buttons">
+          <Search lang={lang} />
+          <ThemeToggle lang={lang} />
+        </div>
       </div>
     </div>
   </div>
 </header>
+
+<script>
+  // The folded menu closes on a click outside it, on Escape, and when a link in it is followed.
+  const toggle = document.querySelector<HTMLInputElement>('#menu-toggle');
+  const header = document.querySelector('.site-header');
+  if (toggle && header) {
+    document.addEventListener('click', (event) => {
+      if (toggle.checked && !header.contains(event.target as Node)) toggle.checked = false;
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && toggle.checked) {
+        toggle.checked = false;
+        toggle.focus();
+      }
+    });
+    header.querySelectorAll('.menu a').forEach((link) => link.addEventListener('click', () => (toggle.checked = false)));
+  }
+</script>
 
 <style>
   .site-header {
@@ -74,6 +96,7 @@ const ui = UI[lang];
   }
 
   .bar {
+    position: relative;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -128,12 +151,19 @@ const ui = UI[lang];
     border-radius: var(--radius-sm);
   }
 
-  /* Phones and tablets: the menu opens below the bar. */
+  /* Phones and tablets: the menu drops down from the menu button, aligned to the right, over the page. */
   .menu {
+    position: absolute;
+    top: calc(100% + 1px);
+    right: var(--gutter-header);
     display: none;
-    flex-basis: 100%;
-    padding: var(--space-2) 0 var(--space-4);
-    border-top: 1px solid var(--color-border);
+    width: min(18rem, calc(100vw - 2 * var(--gutter-header)));
+    padding: var(--space-2) var(--space-5) var(--space-4);
+    border: 1px solid var(--color-border);
+    border-top: 0;
+    border-radius: 0 0 var(--radius-md) var(--radius-md);
+    background: var(--color-bg);
+    box-shadow: var(--shadow-card);
   }
 
   .menu-toggle:checked ~ .menu {
@@ -163,8 +193,15 @@ const ui = UI[lang];
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    gap: var(--space-3) var(--space-5);
+    gap: var(--space-3);
     margin-top: var(--space-3);
+    padding-top: var(--space-3);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .tool-buttons {
+    display: flex;
+    gap: var(--space-2);
   }
 
   .languages {
@@ -198,14 +235,18 @@ const ui = UI[lang];
 
     .menu,
     .menu-toggle:checked ~ .menu {
+      position: static;
       display: flex;
       flex: 1;
-      flex-basis: auto;
       align-items: center;
       justify-content: flex-end;
       gap: var(--space-5);
+      width: auto;
       padding: 0;
-      border-top: 0;
+      border: 0;
+      border-radius: 0;
+      background: none;
+      box-shadow: none;
     }
 
     ul {
@@ -226,15 +267,8 @@ const ui = UI[lang];
       flex-wrap: nowrap;
       gap: var(--space-3);
       margin-top: 0;
-    }
-
-    .tools :global(.theme-toggle .label) {
-      position: absolute;
-      width: 1px;
-      height: 1px;
-      overflow: hidden;
-      clip-path: inset(50%);
-      white-space: nowrap;
+      padding-top: 0;
+      border-top: 0;
     }
   }
 </style>
