@@ -1,0 +1,341 @@
+---
+// A catalogue of the design system: tokens, components and content patterns, rendered with the real code.
+// It is not in the menu or the sitemap, and search engines are told not to index it.
+import Button from '../components/Button.astro';
+import Card from '../components/Card.astro';
+import CardGrid from '../components/CardGrid.astro';
+import PageList from '../components/PageList.astro';
+import Prose from '../components/Prose.astro';
+import RecapNav from '../components/RecapNav.astro';
+import Section from '../components/Section.astro';
+import Base from '../layouts/Base.astro';
+import { childrenOf, loadPages } from '../lib/pages';
+import { photo } from '../lib/photos';
+
+const pages = await loadPages();
+const recaps2025 = pages.find((p) => p.lang === 'en' && p.path === 'events/past-events/events-2025');
+const recaps = recaps2025 ? childrenOf(pages, recaps2025).slice(0, 3) : [];
+const sampleRecap = pages.find((p) => p.lang === 'en' && p.path === 'events/past-events/events-2025/june-2025');
+
+const colors = [
+  ['--color-primary', 'Primary: links on dark, buttons, active marks'],
+  ['--color-primary-strong', 'Primary strong: headings, links, hover'],
+  ['--color-primary-soft', 'Primary soft: tinted backgrounds'],
+  ['--color-on-primary', 'Text on primary'],
+  ['--color-bg', 'Page background'],
+  ['--color-bg-alt', 'Alternate background'],
+  ['--color-text', 'Text'],
+  ['--color-text-muted', 'Muted text'],
+  ['--color-border', 'Borders and dividers'],
+  ['--color-footer-bg', 'Footer background'],
+  ['--color-footer-text', 'Footer text'],
+];
+const sizes = [
+  ['--text-2xl', 'Page title (h1)'],
+  ['--text-xl', 'Section heading (h2), heading in a column'],
+  ['--text-lg', 'Sub-heading (h3)'],
+  ['--text-base', 'Body text'],
+  ['--text-sm', 'Small text, footer'],
+  ['--text-xs', 'Labels, language switcher'],
+];
+const spaces = ['--space-1', '--space-2', '--space-3', '--space-4', '--space-5', '--space-6', '--space-7', '--space-8', '--space-9'];
+---
+
+<Base lang="en" title="Design system">
+  <Section>
+    <Prose>
+      <h1>Design system</h1>
+      <p>
+        The building blocks of this site, drawn with the real code. Use the theme button in the header to see light and dark.
+        Tokens live in <code>src/styles/tokens.css</code>, components in <code>src/components/</code>.
+      </p>
+
+      <h2>Rules</h2>
+      <ul>
+        <li>Every page is composed only of these components. A page or layout has no styles of its own.</li>
+        <li>A component looks and works the same on every page and in every language.</li>
+        <li>Page content (Markdown) uses only: column rows (<code>cols</code>, <code>col</code>, <code>col center</code>), buttons (<code>button</code>) and embeds (<code>iframe</code>).</li>
+        <li>A style that a component and Markdown share is defined once, in <code>src/styles/components.css</code>.</li>
+        <li>An exception is decided on purpose and listed below.</li>
+      </ul>
+
+      <h3>Deliberate exceptions</h3>
+      <ul>
+        <li>
+          This page: the swatches, type samples, space bars, shape samples and the dashed sample frame are documentation, not site
+          components.
+        </li>
+      </ul>
+
+      <h2>Colours</h2>
+    </Prose>
+    <ul class="swatches">
+      {
+        colors.map(([token, use]) => (
+          <li>
+            <span class="swatch" style={`background: var(${token})`} />
+            <code>{token}</code>
+            <span class="muted">{use}</span>
+          </li>
+        ))
+      }
+    </ul>
+
+    <Prose>
+      <h2>Type</h2>
+      <p>Raleway for everything. Body text is 16px on phones, growing to 18px on wide screens, with a line height of 1.75.</p>
+    </Prose>
+    <ul class="type">
+      {
+        sizes.map(([token, use]) => (
+          <li>
+            <span style={`font-size: var(${token}); font-weight: ${token === '--text-base' || token.endsWith('sm') || token.endsWith('xs') ? 400 : 700}`}>
+              Effective Altruism Barcelona
+            </span>
+            <span class="muted">
+              <code>{token}</code> · {use}
+            </span>
+          </li>
+        ))
+      }
+    </ul>
+
+    <Prose>
+      <h2>Space</h2>
+      <p>A 4px-based scale for gaps, padding and margins.</p>
+    </Prose>
+    <ul class="spaces">
+      {
+        spaces.map((token) => (
+          <li>
+            <span class="bar" style={`width: var(${token})`} />
+            <code>{token}</code>
+          </li>
+        ))
+      }
+    </ul>
+
+    <Prose>
+      <h2>Shape and depth</h2>
+    </Prose>
+    <div class="shapes">
+      <div style="border-radius: var(--radius-sm)">--radius-sm</div>
+      <div style="border-radius: var(--radius-md)">--radius-md</div>
+      <div style="border-radius: var(--radius-lg)">--radius-lg</div>
+      <div style="border-radius: var(--radius-md); box-shadow: var(--shadow-card)">--shadow-card</div>
+      <div style="border-radius: var(--radius-md); box-shadow: var(--shadow-card-hover)">--shadow-card-hover</div>
+    </div>
+
+    <Prose>
+      <h2>Buttons</h2>
+      <p>
+        Component <code>Button</code>, in two variants. In Markdown, the same button is <code>&lt;a class="button" href="…"&gt;</code>.
+        A button alone on its line is centred.
+      </p>
+      <p>
+        <Button href="#buttons">Primary</Button>
+        <Button href="#buttons" variant="secondary">Secondary</Button>
+      </p>
+      <p><a class="button" href="#buttons">I want to get involved</a></p>
+
+      <h2>Cards</h2>
+      <p>
+        Components <code>CardGrid</code> and <code>Card</code>. The whole card is the link. The home page uses three columns with text;
+        <code>PageList</code> uses the same cards in an automatic grid.
+      </p>
+    </Prose>
+    <CardGrid>
+      <Card title="Get informed" href="#cards" image={photo('inform')}>Learn about the world’s most pressing problems.</Card>
+      <Card title="Take action" href="#cards" image={photo('action')}>The three most impactful ways to make a difference.</Card>
+      <Card title="Join our community" href="#cards" image={photo('community')}>Come to an event in Barcelona.</Card>
+    </CardGrid>
+
+    <Prose>
+      <h2>Page title and intro</h2>
+      <p>The first heading of a page and the one or two paragraphs after it are centred.</p>
+    </Prose>
+    <div class="sample">
+      <Prose>
+        <h1>October: Talks, tapas & tiny homes</h1>
+        <p>October has been packed full of activities, including talks on <strong>entrepreneurship</strong> and a <strong>visit to a tiny home</strong>.</p>
+      </Prose>
+    </div>
+
+    <Prose>
+      <h2>Column rows</h2>
+      <p>
+        Rows of columns in page content use <code>&lt;div class="cols"&gt;</code> with one <code>&lt;div class="col"&gt;</code> per column.
+        <code>--start</code> and <code>--span</code> place a column on a 12-column grid on wide screens. On phones, every row stacks.
+      </p>
+
+      <h3>Photo and text (5 + 7), as in the event recaps</h3>
+      <div class="cols">
+        <div class="col" style="--start: 1; --span: 5">
+          <p><img src="/images/5efa9cfb0086.jpg" alt="Anya Reshetnyak speaks in front of a slide" /></p>
+        </div>
+        <div class="col" style="--start: 6; --span: 7">
+          <h3>The evolution of proteins</h3>
+          <p>A heading in a column is 24px and teal. Text starts level with the top of the photo, and the photo keeps its own shape.</p>
+        </div>
+      </div>
+
+      <h3>Cards (4 + 4 + 4), with centred text</h3>
+      <div class="cols">
+        <div class="col center" style="--start: 1; --span: 4">
+          <p><img src="/images/77de1378a110.jpg" alt="Speaker pointing at a slide" /></p>
+          <h3>With your career</h3>
+          <p>A photo with a heading under it is cropped square.</p>
+        </div>
+        <div class="col center" style="--start: 5; --span: 4">
+          <p><img src="/images/5109482bde28.jpg" alt="Members holding a donation cheque" /></p>
+          <h3>With your donations</h3>
+          <p>Add <code>center</code> to the column class.</p>
+        </div>
+        <div class="col center" style="--start: 9; --span: 4">
+          <p><img src="/images/9547e19691de.jpg" alt="Volunteer next to a drawing of a fork" /></p>
+          <h3>As a volunteer</h3>
+          <p>Three columns of four.</p>
+        </div>
+      </div>
+
+      <h3>Text and a small image (4 + 2)</h3>
+      <div class="cols">
+        <div class="col" style="--start: 1; --span: 4">
+          <h3>Books</h3>
+          <p>A narrow column keeps a cover or logo small, also on phones.</p>
+        </div>
+        <div class="col" style="--start: 5; --span: 2">
+          <p><img src="/images/8154f6ed8acf.png" alt="Cover of The Scout Mindset by Julia Galef" /></p>
+        </div>
+      </div>
+
+      <h3>Gallery (3 + 3 + 3 + 3)</h3>
+      <div class="cols">
+        <div class="col" style="--start: 1; --span: 3"><p><img src="/images/649e6527c969.jpg" alt="Attendees around a sofa" /></p></div>
+        <div class="col" style="--start: 4; --span: 3"><p><img src="/images/e265a1a6745e.jpg" alt="Members in front of Casa Sagnier" /></p></div>
+        <div class="col" style="--start: 7; --span: 3"><p><img src="/images/a751d13d3343.jpg" alt="Members at a café table" /></p></div>
+        <div class="col" style="--start: 10; --span: 3"><p><img src="/images/956435f919ee.jpg" alt="Audience at a talk" /></p></div>
+      </div>
+
+      <h3>Columns without a width</h3>
+      <div class="cols">
+        <div class="col"><p>Without <code>--span</code>, columns share the row equally.</p></div>
+        <div class="col"><p>Four columns go two by two on tablets.</p></div>
+      </div>
+
+      <h2>Text</h2>
+      <p>Body text with <strong>bold</strong>, <em>italic</em> and <a href="#text">a link</a>.</p>
+      <ul>
+        <li>A bullet list</li>
+        <li>With a second item</li>
+      </ul>
+      <ol>
+        <li>A numbered list</li>
+        <li>With a second item</li>
+      </ol>
+      <h3>Sub-heading (h3)</h3>
+      <h4>Small heading (h4)</h4>
+      <p>Long words and addresses wrap: https://80000hours.org/2012/10/how-to-be-a-high-impact-volunteer/</p>
+
+      <h2>Recap list</h2>
+      <p>Component <code>PageList</code>: index pages list their child pages, newest first, with the first photo of each.</p>
+    </Prose>
+    <PageList items={recaps} />
+
+    <Prose>
+      <h2>Recap navigation</h2>
+      <p>Component <code>RecapNav</code>, at the end of every recap: older, up to the year, newer.</p>
+    </Prose>
+    {sampleRecap && <RecapNav page={sampleRecap} />}
+
+    <Prose>
+      <h2>Header, banner and footer</h2>
+      <p>
+        <code>SiteHeader</code> (logo, menu, language switcher, theme button), <code>Hero</code> (the Park Güell banner, which scrolls
+        at half speed) and <code>SiteFooter</code> (contact and social icons) frame every page, including this one. Below 1200px the
+        menu folds into the menu button.
+      </p>
+    </Prose>
+  </Section>
+</Base>
+
+<style>
+  .muted {
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+  }
+
+  code {
+    font-size: 0.875em;
+  }
+
+  ul.swatches,
+  ul.type,
+  ul.spaces {
+    margin: var(--space-4) 0 var(--space-7);
+    padding: 0;
+    list-style: none;
+  }
+
+  .swatches {
+    display: grid;
+    gap: var(--space-4);
+    grid-template-columns: repeat(auto-fill, minmax(min(14rem, 100%), 1fr));
+  }
+
+  .swatches li {
+    display: grid;
+    gap: var(--space-1);
+  }
+
+  .swatch {
+    height: 3.5rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+  }
+
+  .type li {
+    display: grid;
+    gap: var(--space-1);
+    padding: var(--space-3) 0;
+    border-bottom: 1px solid var(--color-border);
+    line-height: var(--leading-tight);
+  }
+
+  .spaces li {
+    display: flex;
+    align-items: center;
+    gap: var(--space-4);
+    padding: var(--space-1) 0;
+  }
+
+  .bar {
+    height: 1rem;
+    background: var(--color-primary);
+    border-radius: 2px;
+  }
+
+  .shapes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-5);
+    margin: var(--space-4) 0 var(--space-7);
+  }
+
+  .shapes div {
+    display: grid;
+    place-items: center;
+    width: 10rem;
+    height: 6rem;
+    border: 1px solid var(--color-border);
+    background: var(--color-bg);
+    font-size: var(--text-xs);
+  }
+
+  .sample {
+    margin: var(--space-4) 0 var(--space-7);
+    padding: var(--space-6) var(--space-5);
+    border: 1px dashed var(--color-border);
+    border-radius: var(--radius-md);
+  }
+</style>
