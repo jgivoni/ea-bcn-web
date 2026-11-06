@@ -14,18 +14,48 @@ const { image, alt = '' } = Astro.props;
   <Image class="hero-image" src={image} alt={alt} widths={[640, 1024, 1584]} sizes="100vw" loading="eager" />
 </div>
 
+<script>
+  // As on the old site: while the page scrolls, the banner image moves at half speed inside its frame.
+  // The frame closes from the top and the bottom, so the last part in view is the middle of the image.
+  const image = document.querySelector<HTMLElement>('.hero-image');
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
+  if (image && !reduce.matches) {
+    let pending = false;
+    const update = () => {
+      pending = false;
+      const height = image.offsetHeight;
+      const y = Math.min(window.scrollY, height);
+      image.style.transform = y > 0 ? `translateY(${y / 2}px)` : '';
+    };
+    window.addEventListener(
+      'scroll',
+      () => {
+        if (!pending) {
+          pending = true;
+          requestAnimationFrame(update);
+        }
+      },
+      { passive: true },
+    );
+    update();
+  }
+</script>
+
 <style>
   .hero {
     width: 100%;
+    overflow: hidden;
     background: var(--color-bg-alt);
   }
 
+  /* A thin banner, as on the old site: about 285px tall on wide screens, a little lower on phones. */
   .hero-image {
     display: block;
     width: 100%;
-    max-height: 26rem;
-    min-height: 9rem;
+    height: clamp(10rem, 22vw + 6rem, 18rem);
     object-fit: cover;
-    object-position: center;
+    /* A little below the middle, so more of Park Güell and less sky shows. */
+    object-position: center 85%;
+    will-change: transform;
   }
 </style>

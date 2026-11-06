@@ -9,13 +9,13 @@ El mes d'octubre ha estat ple d'activitats, com ara xerrades sobre **emprenedori
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Assistents xerrant durant el networking després de la xerrada sobre emprenedoria a MOB Bailèn](/images/1e5c9cdf1de6.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Crear canvis significatius des de l'emprenedoria
 
@@ -27,13 +27,13 @@ Els emprenedors [Pablo Melchor](https://www.linkedin.com/in/pmelchor/) d'[Ayuda 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Sis persones posant juntes davant d'una pissarra a l'acte d'AI Safety Barcelona a la Universitat Pompeu Fabra](/images/4eafa1e7ff9b.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### AI Safety Barcelona continua creixent
 
@@ -45,13 +45,13 @@ El segon acte organitzat pel nou grup d'estudiants **AI Safety Barcelona** va te
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Tres ponents a l'escenari davant d'una diapositiva: "Part 2 - Panel discussion", amb Marc Coloma d'Heura i Anya Reshetnyak](/images/599cb9922701.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Tapa Talks amb ESAlogika
 
@@ -63,13 +63,13 @@ EA Barcelona va col·laborar amb la [Environmental Social Association of Barcelo
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Set membres somrient a una llarga taula de fusta amb ordinadors portàtils durant el coworking al cafè Sopa](/images/cb8ef22824f7.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking
 
@@ -81,13 +81,13 @@ Per descomptat, vam gaudir de la nostra sessió habitual de coworking a Sopa, aq
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Sis visitants posant entre arbres verds en un dia ennuvolat durant la visita a la minicasa de La Floresta](/images/9ed085b4113e.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Visita a una minicasa!
 

@@ -11,13 +11,13 @@ EA Barcelona has _marched into March_ by co-hosting a **guest lecture on AI Gove
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Two photos of Anthony Lara, one speaking at an event and one smiling on a boat](/images/b8cb9b53877a.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Anthony Lara joins the team as Assistant Community Builder 🚀
 
@@ -31,13 +31,13 @@ Now let’s look at the highlights from March!
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Tristan Williams sits on a desk and talks to attendees in a university classroom with a projector screen](/images/7e6268b58301.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Tristan Williams shares his insights on AI governance 🏛
 
@@ -49,13 +49,13 @@ Now let’s look at the highlights from March!
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Six book club participants in an online video call](/images/224bdc244016.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Bookclub: Thinking in Bets 🃏
 
@@ -67,13 +67,13 @@ We are now halfway through [_Thinking in Bets: Making Smarter Decisions When You
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Four community members smile at a café table with laptops, surrounded by large plants](/images/f6ee4c54e4e2.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking in Sopa ☕️
 

@@ -1,5 +1,6 @@
 @import '@fontsource-variable/raleway';
 @import './tokens.css';
+@import './components.css';
 
 *,
 *::before,
@@ -12,7 +13,12 @@ html {
   scroll-padding-top: var(--header-height);
 }
 
+/* The footer stays at the bottom of the window on short pages. */
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: 100dvh;
   margin: 0;
   background: var(--color-bg);
   color: var(--color-text);
@@ -20,10 +26,35 @@ body {
   font-size: var(--text-base);
   line-height: var(--leading-body);
   text-rendering: optimizeLegibility;
+  /* Long words, URLs and email addresses break instead of widening the page. */
+  overflow-wrap: break-word;
+}
+
+main {
+  flex: 1;
+}
+
+/* "Skip to content" link: hidden until it has keyboard focus. */
+.skip {
+  position: absolute;
+  left: -999px;
+}
+
+.skip:focus {
+  top: var(--space-3);
+  left: var(--gutter-header);
+  z-index: 30;
+  padding: var(--space-2) var(--space-3);
+  background: var(--color-bg);
+}
+
+img,
+iframe,
+video {
+  max-width: 100%;
 }
 
 img {
-  max-width: 100%;
   height: auto;
 }
 

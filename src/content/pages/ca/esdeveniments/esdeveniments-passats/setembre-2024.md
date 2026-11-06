@@ -9,13 +9,13 @@ Setembre ha estat un mes molt emocionant per a EA Barcelona, amb moltes plantes,
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Una amfitriona ofereix un tast de menjar a participants asseguts a una taula en un jardí frondós](/images/99beb267b3cf.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Veg-curious: Aprèn, empodera't i tasta!
 
@@ -27,13 +27,13 @@ Aquest esdeveniment tan dinàmic va incloure presentacions d'en [Ricard Soler](h
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Collage de l'esdeveniment Veg-curious: ponents, públic assegut, participants tastant i plats a base de plantes](/images/07aa7f9756e1.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Aquí teniu algunes fotos més perquè ens va encantar :D
 
@@ -45,13 +45,13 @@ Moltes gràcies a tots els que vau participar en aquest meravellós esdeveniment
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Un ponent somrient parla davant d'una diapositiva projectada a l'acte d'Altruisme Efectiu UAB](/images/fd0150ec4ff1.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Altruisme Efectiu UAB
 
@@ -63,13 +63,13 @@ En [Lukas Robertson](https://www.linkedin.com/in/lukas-paul-robertson/) va organ
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cinc participants somrients amb acreditacions de la conferència asseguts al voltant d'una tauleta a EAGx Berlin](/images/b05a21699945.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### EA Barcelona està representada a EAGx Berlin!
 

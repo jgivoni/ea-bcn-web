@@ -9,7 +9,7 @@ Creiem que pots tenir el màxim impacte aprofitant amb cura la teva carrera, els
 
 <div class="cols">
 
-<div class="col">
+<div class="col center" style="--start: 1; --span: 4">
 
 ![Un ponent en una xerrada assenyala una diapositiva: Què podem fer globalment per ajudar? Cal reduir l'arsenal nuclear.](/images/e4ed7e10f7b7.jpg)
 
@@ -19,7 +19,7 @@ Creiem que pots tenir el màxim impacte aprofitant amb cura la teva carrera, els
 
 </div>
 
-<div class="col">
+<div class="col center" style="--start: 5; --span: 4">
 
 ![Set membres somrients, dos d'ells sostenint un xec de donació](/images/e91d035e712f.jpg)
 
@@ -29,7 +29,7 @@ Creiem que pots tenir el màxim impacte aprofitant amb cura la teva carrera, els
 
 </div>
 
-<div class="col">
+<div class="col center" style="--start: 9; --span: 4">
 
 ![Una voluntària amb un vestit groc al costat d'un gran plafó amb el dibuix d'una forquilla](/images/93d79ccb0ba0.jpg)
 

@@ -11,13 +11,13 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 6">
 
 <iframe src="https://www.youtube-nocookie.com/embed/WyprXhvGVYk" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 7; --span: 6">
 
 <iframe src="https://www.youtube-nocookie.com/embed/48VAQtGmfWY" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -27,7 +27,7 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 4">
 
 ### Books
 
@@ -35,7 +35,7 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 5; --span: 2">
 
 ![Cover of The Scout Mindset by Julia Galef: Why Some People See Things Clearly and Others Don't](/images/8154f6ed8acf.png)
 
@@ -45,7 +45,7 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 4">
 
 ### Podcasts
 
@@ -54,7 +54,7 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 5; --span: 2">
 
 ![The 80,000 Hours Podcast logo](/images/ffcab0ce3008.jpg)
 
@@ -64,7 +64,7 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 4">
 
 ### Websites
 
@@ -74,7 +74,7 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 5; --span: 2">
 
 ![Effective altruism logo, a teal lightbulb with a heart inside](/images/075ea3d31ec4.png)
 
@@ -90,25 +90,25 @@ Our aim is to provide opportunities to learn about the world’s most urgent pro
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 3">
 
 ![About 15 smiling attendees, and a dog, gathered around a sofa at an evening EA Barcelona meetup](/images/649e6527c969.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 4; --span: 3">
 
 ![Nine members standing in front of the Casa Sagnier youth centre in Barcelona](/images/e265a1a6745e.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 7; --span: 3">
 
 ![Four members with laptops and coffee at a café table during a coworking session](/images/a751d13d3343.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 10; --span: 3">
 
 ![Audience on white chairs at a talk, with two speakers on stage and a remote speaker on two screens](/images/956435f919ee.jpg)
 
@@ -120,13 +120,13 @@ Our aim is to provide opportunities to learn about the world’s most urgent pro
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 6">
 
 <iframe src="https://www.youtube-nocookie.com/embed/roZoEhnQB-I" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 7; --span: 6">
 
 <iframe src="https://www.youtube-nocookie.com/embed/MCrSeWeZbOY" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

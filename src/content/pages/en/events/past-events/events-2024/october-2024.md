@@ -9,13 +9,13 @@ October has been packed full of activities, including talks on **entrepreneurshi
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Attendees chatting during the networking after the entrepreneurship talk at MOB Bailèn](/images/3dbe08ae16be.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Creating meaningful change through entrepreneurship
 
@@ -27,13 +27,13 @@ Entrepreneurs [Pablo Melchor](https://www.linkedin.com/in/pmelchor/) of [Ayuda E
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Six people posing together in front of a blackboard at the AI Safety Barcelona event at Universitat Pompeu Fabra](/images/3aeb80c39cdb.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### AI Safety Barcelona continues to grow
 
@@ -45,13 +45,13 @@ The second event organised by the new student group **AI Safety Barcelona** took
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Three panelists on stage in front of a slide: "Part 2 - Panel discussion", with Marc Coloma of Heura and Anya Reshetnyak](/images/a3044a894f5d.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Tapa Talks with ESAlogika
 
@@ -63,13 +63,13 @@ EA Barcelona collaborated with the [Environmental Social Association of Barcelon
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Seven members smiling at a long wooden table with laptops during coworking at the Sopa café](/images/ba394441f48a.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking
 
@@ -81,13 +81,13 @@ Of course, we enjoyed our usual coworking session at Sopa, this time sharing ide
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Six visitors posing among green trees on a cloudy day during the tiny home visit in La Floresta](/images/5d1d510b3431.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Tiny home visit!
 

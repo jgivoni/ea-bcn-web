@@ -9,13 +9,13 @@ Octubre ha estado repleto de actividades, incluyendo charlas sobre **emprendimie
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Asistentes charlando durante el networking después de la charla sobre emprendimiento en MOB Bailèn](/images/c154dd05f8b0.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Creando cambios significativos a través del emprendimiento
 
@@ -27,13 +27,13 @@ Los emprendedores [Pablo Melchor](https://www.linkedin.com/in/pmelchor/) de [Ayu
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Seis personas posando juntas delante de una pizarra en el evento de AI Safety Barcelona en la Universitat Pompeu Fabra](/images/ae8567d7a5cd.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### AI Safety Barcelona sigue creciendo
 
@@ -45,13 +45,13 @@ El segundo evento organizado por el nuevo grupo de estudiantes **AI Safety Barce
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Tres ponentes en el escenario delante de una diapositiva: "Part 2 - Panel discussion", con Marc Coloma de Heura y Anya Reshetnyak](/images/0ff0962da13e.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Tapa Talks con ESAlogika
 
@@ -63,13 +63,13 @@ EA Barcelona colaboró con la [Environmental Social Association of Barcelona](ht
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Siete miembros sonriendo en una larga mesa de madera con portátiles durante el coworking en el café Sopa](/images/c39d4fbdaf94.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking
 
@@ -81,13 +81,13 @@ Por supuesto, disfrutamos de nuestra habitual sesión de coworking en Sopa, esta
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Seis visitantes posando entre árboles verdes en un día nublado durante la visita a la minicasa en La Floresta](/images/b5fd5d07865f.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### ¡Visita a una minicasa!
 

@@ -12,6 +12,12 @@ type Strings = {
   newer: string;
   older: string;
   recaps: string;
+  menu: string;
+  mainNav: string;
+  language: string;
+  notFoundTitle: string;
+  notFoundText: string;
+  notFoundHome: string;
 };
 
 export const UI: Record<Lang, Strings> = {
@@ -24,6 +30,12 @@ export const UI: Record<Lang, Strings> = {
     newer: 'Newer',
     older: 'Older',
     recaps: 'Recap navigation',
+    menu: 'Menu',
+    mainNav: 'Main',
+    language: 'Language',
+    notFoundTitle: 'Page not found',
+    notFoundText: 'This page does not exist or has moved.',
+    notFoundHome: 'Go to the home page',
   },
   ca: {
     skip: 'Salta al contingut',
@@ -34,6 +46,12 @@ export const UI: Record<Lang, Strings> = {
     newer: 'Més recent',
     older: 'Anterior',
     recaps: 'Navegació de resums',
+    menu: 'Menú',
+    mainNav: 'Principal',
+    language: 'Idioma',
+    notFoundTitle: 'Pàgina no trobada',
+    notFoundText: 'Aquesta pàgina no existeix o s’ha mogut.',
+    notFoundHome: 'Ves a la pàgina d’inici',
   },
   es: {
     skip: 'Saltar al contenido',
@@ -44,5 +62,11 @@ export const UI: Record<Lang, Strings> = {
     newer: 'Más reciente',
     older: 'Anterior',
     recaps: 'Navegación de resúmenes',
+    menu: 'Menú',
+    mainNav: 'Principal',
+    language: 'Idioma',
+    notFoundTitle: 'Página no encontrada',
+    notFoundText: 'Esta página no existe o se ha movido.',
+    notFoundHome: 'Ir a la página de inicio',
   },
 };

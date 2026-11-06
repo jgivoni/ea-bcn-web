@@ -11,13 +11,13 @@ Let us take you through some of the best moments of 2024 so far:
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Four smiling attendees with name badges outside in London; a yellow arrow points to Ricard in an EAG London 2024 T-shirt](/images/667ba30fdf30.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Ricard joins the community building team!
 
@@ -31,13 +31,13 @@ We’re very happy to announce that multilingual translator & animal activist, [
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Bruce Friedrich speaks on a spotlit stage under a glowing Norrsken sign, in front of a seated audience](/images/4297c01e91a0.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Bruce Friedrich speaks at Norrsken House
 
@@ -49,13 +49,13 @@ EA Barcelona collaborated with [Norrsken House](https://site.norrsken.org/barcel
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Project for Awesome '24 and GiveDirectly logos next to a woman speaking to the camera in a fundraising video](/images/cb429b4b1056.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Project for Awesome
 
@@ -69,13 +69,13 @@ We participated in the [Project for Awesome](https://projectforawesome.com/) fun
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cover of The Scout Mindset by Julia Galef: Why Some People See Things Clearly and Others Don't](/images/ffe93021d5b9.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Book club
 
@@ -89,13 +89,13 @@ We concluded our 5-week book club for [The Scout Mindset by Julia Galef](https:/
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Eight participants of the nuclear risks deep dive pose together with name badges in a lounge bar](/images/965ff59d972f.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Nuclear risks deep dive
 
@@ -109,13 +109,13 @@ We concluded our 5-week book club for [The Scout Mindset by Julia Galef](https:/
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Rationality meetup attendees with name tags pose on the grass in Parc de la Ciutadella on a sunny day](/images/74a3f644c463.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Rationality meetup
 
@@ -127,13 +127,13 @@ EA Barcelona hosted the [Astral Codex Ten](https://www.astralcodexten.com/) Annu
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Students in a university lecture hall face a slide that reads: LLMs are not necessarily aligned with human interests and values](/images/7e9ca3836216.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### AI safety talks
 
@@ -145,13 +145,13 @@ The emerging AI Safety Barcelona community hosted its launch event at Universita
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Giving game participants pose with large Giving Game cheques for charities such as Against Malaria and GiveDirectly](/images/4e01970b057f.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Giving game
 
@@ -165,13 +165,13 @@ Guillem Lajara, the CEO of [Karoteno](https://karoteno.org/), organised a “giv
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Four EA Barcelona members with conference badges stand together in the venue lobby at EAG London](/images/52f18f2258e9.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### EAG London
 
@@ -183,13 +183,13 @@ Four of us headed off to London for the annual [EA global conference](https://ww
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Tobi Baur presents a slide titled Consequences to participants seated around a table](/images/028d7cccc2ce.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Open AI deep dive
 
@@ -201,13 +201,13 @@ Four of us headed off to London for the annual [EA global conference](https://ww
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Four smiling community members at a café table with laptops and coffee during a coworking session](/images/0b1c2cf8c109.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking
 

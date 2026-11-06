@@ -9,13 +9,13 @@ EA Barcelona is excited to wrap up an incredible 2025! Over the past two months,
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Karoteno collage with the slogan Una nueva forma de donar, the donation app, a zambomba party and a gift basket](/images/c5c1d99903bb.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Community Spotlight 🔦 Karoteno’s December Fundraising Campaign!
 
@@ -29,13 +29,13 @@ Thanks to the generosity of many contributors, **over €6,000** was raised and 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Six book club participants in a video call hold up copies of Altruismo racional by Pablo Melchor](/images/bd5b1a81bda3.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### “Altruismo Racional” Book Club 📚
 
@@ -49,13 +49,13 @@ Throughout November-December, EA Barcelona hosted a book club on [Altruismo Raci
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Workshop attendees watch a speaker on a video call on a large screen](/images/b1e8b35f0375.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Probably Good Workshop 🔨
 
@@ -69,13 +69,13 @@ Thanks to everyone who joined us, and we’re excited to plan the next workshop 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Selfie of attendees in a classroom at the EA Connect viewing, with a talk on the screen behind them](/images/392e75075b63.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### EA Connect Viewing 📺
 
@@ -89,13 +89,13 @@ It was great to see new connections forming - a big **thank you** to everyone wh
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Five community members smile for a selfie at a café table with laptops and coffee](/images/354f6cb0db82.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking at Sopa ☕️
 
@@ -109,13 +109,13 @@ We wrapped up the year with our final coworking session at **Sopa**. We exchange
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![A large group in festive sweaters poses for a selfie at the end-of-year social](/images/dbd20377c058.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### End-of-year Social! 🥳
 

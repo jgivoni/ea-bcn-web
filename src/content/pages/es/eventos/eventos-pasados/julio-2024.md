@@ -9,13 +9,13 @@ A continuación, os ofrecemos un breve resumen del mes de julio, con algunos jue
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Anya Reshetnyak habla delante de una diapositiva con el texto "Vote with your fork. Eat more alternative proteins" y comida en tres tenedores](/images/89e72413837a.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Evolución de las proteínas: pasado, presente y futuro
 
@@ -27,13 +27,13 @@ A continuación, os ofrecemos un breve resumen del mes de julio, con algunos jue
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Asistentes al encuentro sentados en círculo sobre mantas de pícnic en el césped de un parque soleado](/images/31aafeb91881.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Encuentro de racionalidad
 
@@ -45,13 +45,13 @@ A continuación, os ofrecemos un breve resumen del mes de julio, con algunos jue
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Seis personas sonríen en una mesa de cafetería con portátiles, café y zumo de naranja durante una sesión de coworking](/images/5d4b5677bca7.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking
 

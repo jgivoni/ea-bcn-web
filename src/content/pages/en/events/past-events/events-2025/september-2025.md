@@ -9,13 +9,13 @@ September was an **incredible month** for our community! From **kicking off our 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Video still of Pablo Rosado crouching in straw and petting a resting pig in a barn](/images/8b623190d741.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Community Spotlight 🔦
 
@@ -43,13 +43,13 @@ If this video makes you think differently, here are **three easy ways** to help 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Mel Brennan smiles and lowers her sunglasses outdoors](/images/b05627a5cd50.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### And a Big Congratulations to Mel! 🎤
 
@@ -63,7 +63,7 @@ You can read her full story [here](https://www.effectivealtruism.org/stories/mel
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Fellowship participants with laptops at a long table; the screen reads Close & what's next](/images/e111ae55d676.jpg)
 
@@ -71,7 +71,7 @@ You can read her full story [here](https://www.effectivealtruism.org/stories/mel
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 🎉 Kicking Off Our Second EA Intro Fellowship!
 
@@ -85,13 +85,13 @@ Sad you missed out this time? You can **express your interest in the next iterat
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Workshop attendees sit on chairs in a large room and smile at the camera](/images/7db06395ea0d.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Melanie Joy Workshop 🐷
 
@@ -105,7 +105,7 @@ A huge **thank you** to everyone who attended! We’re organising a **follow-up 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Five community members smile at a café table with laptops, surrounded by large plants](/images/116edd51e16b.jpg)
 
@@ -113,7 +113,7 @@ A huge **thank you** to everyone who attended! We’re organising a **follow-up 
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking at Sopa & Sandwichez ☕️
 
@@ -133,13 +133,13 @@ Whether you're looking to network, build, or grow, our coworking sessions are fo
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Group of attendees in front of a plant wall with the 42 Barcelona and Fundación Telefónica logos](/images/ae41511cd944.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 🤖 A Deep Dive into Generative AI at 42 Barcelona
 
@@ -153,7 +153,7 @@ The event even featured live **jailbreaking demos**, giving attendees a hands-on
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Four people play spikeball on the grass in a sunny park](/images/0c6516b68bae.jpg)
 
@@ -161,7 +161,7 @@ The event even featured live **jailbreaking demos**, giving attendees a hands-on
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 🧺 Montjuïc Picnic
 

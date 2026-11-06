@@ -1,21 +1,33 @@
 ---
+// A linked card: photo, title and optional text. The whole card is the link.
+// Used on the home page and in every list of pages (PageList).
 import { Image } from 'astro:assets';
 import type { ImageMetadata } from 'astro';
 
 interface Props {
   title: string;
   href: string;
-  image: ImageMetadata;
+  /** A photo from src/assets (optimised) or a path under public/. */
+  image?: ImageMetadata | string;
 }
 
 const { title, href, image } = Astro.props;
+const hasText = Astro.slots.has('default');
 ---
 
 <article class="card">
-  <Image class="card-image" src={image} alt="" widths={[320, 480, 720]} sizes="(min-width: 48rem) 22rem, 90vw" />
+  {
+    typeof image === 'string' ? (
+      <img class="card-image" src={image} alt="" loading="lazy" />
+    ) : image ? (
+      <Image class="card-image" src={image} alt="" widths={[320, 480, 720]} sizes="(min-width: 48rem) 24rem, 90vw" />
+    ) : (
+      <div class="card-image" />
+    )
+  }
   <div class="card-body">
     <h3 class="card-title"><a class="card-link" href={href}>{title}</a></h3>
-    <p class="card-text"><slot /></p>
+    {hasText && <p class="card-text"><slot /></p>}
   </div>
 </article>
 
@@ -28,7 +40,9 @@ const { title, href, image } = Astro.props;
     border-radius: var(--radius-md);
     background: var(--color-bg);
     box-shadow: var(--shadow-card);
-    transition: box-shadow 0.2s, transform 0.2s;
+    transition:
+      box-shadow 0.2s,
+      transform 0.2s;
   }
 
   .card:hover {
@@ -37,17 +51,19 @@ const { title, href, image } = Astro.props;
   }
 
   .card-image {
+    display: block;
     width: 100%;
     aspect-ratio: 4 / 3;
     object-fit: cover;
+    background: var(--color-primary-soft);
   }
 
   .card-body {
-    padding: var(--space-5);
+    padding: var(--space-4) var(--space-5) var(--space-5);
   }
 
   .card-title {
-    margin: 0 0 var(--space-2);
+    margin: 0;
     font-size: var(--text-xl);
   }
 
@@ -63,8 +79,17 @@ const { title, href, image } = Astro.props;
     inset: 0;
   }
 
+  .card-link:focus-visible {
+    outline: none;
+  }
+
+  .card:has(.card-link:focus-visible) {
+    outline: 3px solid var(--color-focus);
+    outline-offset: 2px;
+  }
+
   .card-text {
-    margin: 0;
+    margin: var(--space-2) 0 0;
     color: var(--color-text-muted);
   }
 </style>

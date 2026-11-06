@@ -11,13 +11,13 @@ T'expliquem alguns dels millors moments del 2024 fins ara:
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Quatre assistents somrients amb acreditacions a l'aire lliure a Londres; una fletxa groga assenyala en Ricard, amb una samarreta d'EAG London 2024](/images/7e8364d54da0.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### En Ricard s'uneix a l'equip de community building!
 
@@ -31,13 +31,13 @@ Estem molt contents d'anunciar que el traductor multilingüe i activista dels an
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Bruce Friedrich parla en un escenari il·luminat sota un rètol lluminós de Norrsken, davant del públic assegut](/images/20f79e18996e.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Bruce Friedrich fa una xerrada a Norrsken House
 
@@ -49,13 +49,13 @@ EA Barcelona va col·laborar amb [Norrsken House](https://site.norrsken.org/barc
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Logotips de Project for Awesome '24 i GiveDirectly al costat d'una dona que parla a càmera en un vídeo de recaptació de fons](/images/46a544f84c5b.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Project for Awesome
 
@@ -69,13 +69,13 @@ Vam participar a l'esdeveniment de recaptació de fons [Project for Awesome](htt
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Coberta del llibre The Scout Mindset de Julia Galef: Why Some People See Things Clearly and Others Don't](/images/5bd4b7689bae.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Club de lectura
 
@@ -89,13 +89,13 @@ Vam concloure el nostre club de lectura de 5 setmanes per a [The Scout Mindset d
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Vuit participants de la sessió sobre riscos nuclears posen junts amb acreditacions en un bar](/images/fae12d415d1b.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Els riscos nuclears en profunditat
 
@@ -109,13 +109,13 @@ En [Pablo Rosado](https://pablorosado.com/) ens va guiar a través d'una discuss
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Assistents a la trobada de racionalitat amb etiquetes amb el nom posen a la gespa del Parc de la Ciutadella en un dia assolellat](/images/94ee1021c563.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Trobada de racionalitat
 
@@ -127,13 +127,13 @@ EA Barcelona va acollir la Trobada Anual de Racionalitat d'[Astral Codex Ten](ht
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Estudiants en una aula universitària davant d'una diapositiva que diu: LLMs are not necessarily aligned with human interests and values](/images/28ea5a65e70a.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Xerrades sobre seguretat de la IA
 
@@ -145,13 +145,13 @@ La comunitat emergent d'AI Safety Barcelona va acollir el seu esdeveniment de pr
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Participants del giving game posen amb xecs grans de Giving Game per a organitzacions benèfiques com Against Malaria i GiveDirectly](/images/34ad67a94a45.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Giving game
 
@@ -165,13 +165,13 @@ En Guillem Lajara, CEO de [Karoteno](https://karoteno.org/), va organitzar un �
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Quatre membres d'EA Barcelona amb acreditacions de la conferència drets junts al vestíbul de l'EAG de Londres](/images/08b244c87a6f.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### EAG Londres
 
@@ -183,13 +183,13 @@ Quatre de nosaltres vam marxar a Londres per a la [conferència global anual d'E
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![En Tobi Baur presenta una diapositiva titulada Consequences als participants asseguts al voltant d'una taula](/images/133f03944f01.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Discussió sobre Open AI
 
@@ -201,13 +201,13 @@ Quatre de nosaltres vam marxar a Londres per a la [conferència global anual d'E
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Quatre membres de la comunitat somrients en una taula de cafeteria amb portàtils i cafès durant una sessió de coworking](/images/38b940ad48c0.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking
 

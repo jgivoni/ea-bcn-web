@@ -11,13 +11,13 @@ Este mes ha estado dedicado a **reconectar entre nosotros.** Los fríos meses de
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Ana Luna Hernández sonríe en un balcón soleado con edificios de la ciudad detrás](/images/e270bf68aef1.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### ¡Os presentamos nuestra NUEVA sección Protagonista de la comunidad!
 
@@ -29,13 +29,13 @@ Este mes ha estado dedicado a **reconectar entre nosotros.** Los fríos meses de
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Collage de asistentes charlando y sonriendo sobre el césped del Parc de la Ciutadella](/images/856f5ba32083.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Encuentro social de primavera en el Parc de la Ciutadella 🌷
 
@@ -47,13 +47,13 @@ Pasamos una **tarde de sábado estupenda en el Parc de la Ciutadella** con **14 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Siete miembros de la comunidad sonríen en una mesa larga de madera durante una sesión de coworking en una cafetería](/images/312ac0f48e59.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking en Sopa ☕️
 

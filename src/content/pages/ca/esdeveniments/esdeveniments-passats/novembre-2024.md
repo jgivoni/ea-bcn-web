@@ -9,13 +9,13 @@ El mes de novembre va comptar amb la nostra **visualització de la conferència 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Assistents amb etiquetes de nom asseguts a la moqueta verda i en bancs, mirant la conferència EAGxVirtual 2024](/images/ec2e55771b45.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Connectant idees per abordar els reptes globals
 
@@ -27,13 +27,13 @@ EA Barcelona va acollir una **visualització presencial** de la [conferència EA
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Set participants del curs asseguts al voltant d'una tauleta amb tasses en una sala d'estar amb llum càlida](/images/1e7ab5fc7184.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### EA Barcelona comença el seu primer curs introductori!
 
@@ -47,13 +47,13 @@ El nostre primer curs introductori d'EA ha començat molt bé! Fins ara, hem par
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Sis membres amb ordinadors portàtils a una taula al costat d'una paret de pedra durant el coworking a Sandwichez Provença](/images/c52818d7a78c.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking
 
@@ -65,13 +65,13 @@ Estàvem gaudint d'una sessió productiva a Sandwichez Provença, quan inesperad
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Portada de l'àlbum Parets de Vidre de Nu Drama: un gran ull envoltat de dibuixos d'animals de granja, xarxes de pesca i escenes d'escorxador](/images/85418b25c6ff.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### EXTRA: En Ricard Soler publica un àlbum de rap en català sobre els nombrosos problemes associats a l'explotació animal en el Dia Mundial del Veganisme
 

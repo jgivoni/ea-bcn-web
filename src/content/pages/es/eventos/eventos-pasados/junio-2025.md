@@ -9,13 +9,13 @@ Junio llevó a **EA Barcelona a escala global**. Con **varios de nosotros en EA 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Recorte de Gina Haubner sonriendo con un vestido azul sin mangas sobre un fondo coral](/images/0187c1854936.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Protagonista de la comunidad 🔦
 
@@ -35,7 +35,7 @@ _"Como teórica política, me gusta que el EA sea una comunidad construida sobre
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Público en una gran sala mirando a una ponente en el escenario de EA Global: London, con diapositivas tituladas Radical Empathy](/images/73597442e39c.jpg)
 
@@ -43,7 +43,7 @@ _"Como teórica política, me gusta que el EA sea una comunidad construida sobre
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### EA Global London: donde las grandes ideas se encuentran con la acción real ✈️
 
@@ -59,7 +59,7 @@ La escala, el enfoque y la profundidad de la EAG son **difíciles de exagerar.**
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Grupo del club de lectura en una mesa larga; en la pantalla se lee Close & What's Next, Upcoming Session 2: Thursday June 26th](/images/87027f51ae80.jpg)
 
@@ -67,7 +67,7 @@ La escala, el enfoque y la profundidad de la EAG son **difíciles de exagerar.**
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 6">
 
 ### Club de lectura: Moral Ambition 📚
 
@@ -81,13 +81,13 @@ Debatimos sobre el compromiso moral, la ambición como fuerza para el bien y có
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Clara, Cheng y Mel sonríen delante del cartel del Barcelona Supercomputing Center](/images/fa60ce1f7929.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Supercomputación + seguridad de la IA 🧠
 

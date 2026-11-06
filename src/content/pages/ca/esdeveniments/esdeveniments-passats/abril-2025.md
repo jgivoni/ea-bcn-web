@@ -11,13 +11,13 @@ Preparats per al resum? Som-hi!
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![L'Ana Luna Hernández somriu en un balcó assolellat amb edificis de la ciutat al darrere](/images/e270bf68aef1.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Presentem la nostra NOVA secció Community Spotlight!
 
@@ -29,13 +29,13 @@ L'[Ana Luna Hernández](https://www.linkedin.com/in/ana-luna-hern%C3%A1ndez/) é
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Collage d'assistents que xerren i somriuen a la gespa del Parc de la Ciutadella](/images/856f5ba32083.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Trobada social de primavera al Parc de la Ciutadella 🌷
 
@@ -47,13 +47,13 @@ Vam passar una **tarda de dissabte encantadora al Parc de la Ciutadella** amb **
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Set membres de la comunitat somriuen a una llarga taula de fusta durant una sessió de coworking en una cafeteria](/images/312ac0f48e59.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking a Sopa ☕️
 

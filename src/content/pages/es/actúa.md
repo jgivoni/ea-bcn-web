@@ -9,7 +9,7 @@ Creemos que puedes tener el mayor impacto si aprovechas al máximo tu carrera, t
 
 <div class="cols">
 
-<div class="col">
+<div class="col center" style="--start: 1; --span: 4">
 
 ![Un ponente en una charla señala una diapositiva: ¿Qué podemos hacer globalmente para ayudar? Hay que reducir el arsenal nuclear.](/images/271400f14f87.jpg)
 
@@ -19,7 +19,7 @@ Creemos que puedes tener el mayor impacto si aprovechas al máximo tu carrera, t
 
 </div>
 
-<div class="col">
+<div class="col center" style="--start: 5; --span: 4">
 
 ![Siete miembros sonrientes, dos de ellos sosteniendo un cheque de donación](/images/ebca75112dd7.jpg)
 
@@ -29,7 +29,7 @@ Creemos que puedes tener el mayor impacto si aprovechas al máximo tu carrera, t
 
 </div>
 
-<div class="col">
+<div class="col center" style="--start: 9; --span: 4">
 
 ![Una voluntaria con un vestido amarillo junto a un gran panel con el dibujo de un tenedor](/images/3458c393425f.jpg)
 

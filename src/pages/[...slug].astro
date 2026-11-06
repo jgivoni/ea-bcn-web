@@ -1,9 +1,10 @@
 ---
+// Every content page: one Section with the page's Markdown in Prose, plus the parts its layout adds.
+// All layouts compose the same components; none has styles of its own.
 import { render } from 'astro:content';
 import Button from '../components/Button.astro';
 import Card from '../components/Card.astro';
 import CardGrid from '../components/CardGrid.astro';
-import Hero from '../components/Hero.astro';
 import PageList from '../components/PageList.astro';
 import Prose from '../components/Prose.astro';
 import RecapNav from '../components/RecapNav.astro';
@@ -29,47 +30,32 @@ const isRecap = parentOf(pages, page)?.entry.data.layout === 'index';
 ---
 
 <Base page={page}>
-  {
-    layout === 'home' ? (
-      <>
-        <Hero image={photo('hero')} alt="Park Güell, Barcelona" />
-        <Section width="prose" align="center">
-          <Prose>
-            <h1>{headline}</h1>
-            <div class="lead">
-              <Content />
-            </div>
-          </Prose>
-        </Section>
-        <Section width="wide">
-          <CardGrid>
-            {cards.map((card) => (
-              <Card title={card.title} href={card.href} image={photo(card.image)}>
-                {card.text}
-              </Card>
-            ))}
-          </CardGrid>
-        </Section>
-        {cta && (
-          <Section width="prose" align="center">
-            <Button href={cta.href}>{cta.label}</Button>
-          </Section>
-        )}
-      </>
-    ) : (
-      <Section width="prose">
+  <Section>
+    <Prose>
+      {layout === 'home' && <h1>{headline}</h1>}
+      <Content />
+    </Prose>
+    {
+      layout === 'home' && (
+        <CardGrid>
+          {cards.map((card) => (
+            <Card title={card.title} href={card.href} image={photo(card.image)}>
+              {card.text}
+            </Card>
+          ))}
+        </CardGrid>
+      )
+    }
+    {
+      layout === 'home' && cta && (
         <Prose>
-          <Content />
+          <p>
+            <Button href={cta.href}>{cta.label}</Button>
+          </p>
         </Prose>
-        {layout === 'index' && <PageList items={children} />}
-        {isRecap && <RecapNav page={page} />}
-      </Section>
-    )
-  }
+      )
+    }
+    {layout === 'index' && <PageList items={children} />}
+    {isRecap && <RecapNav page={page} />}
+  </Section>
 </Base>
-
-<style>
-  .lead {
-    font-size: var(--text-lg);
-  }
-</style>

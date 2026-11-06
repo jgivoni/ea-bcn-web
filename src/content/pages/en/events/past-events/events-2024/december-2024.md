@@ -9,13 +9,13 @@ In December, we **finished our first introductory fellowship**, co-hosted a **ta
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Two speakers on stools beside a projection screen, facing the audience at the effective giving talk](/images/41477406143a.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### A talk on the power of effective giving
 
@@ -27,13 +27,13 @@ EA Barcelona and [ESAlogika](https://esalogika.com/) organized an event on **the
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Fellowship participants in a living room listening to one member speak during a session](/images/eaef09afc87b.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### We concluded our first Introductory Fellowship!
 
@@ -47,13 +47,13 @@ For five weeks, our group of thoughtful, curious participants came together to e
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Five players around a coffee table with cards and pieces as one person explains the board game "Chase Patate"](/images/160e9e42a13c.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Last boardgame night for the year (of course!)
 

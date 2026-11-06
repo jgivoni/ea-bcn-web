@@ -11,13 +11,13 @@ EA Barcelona ha començat el 2025 amb un enfocament clar en la millora del benes
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Sis persones amb acreditacions de l'esdeveniment posen juntes davant d'una pantalla amb les diapositives del panell sobre activisme animal](/images/f8a59d33d0d5.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Panell d'experts sobre l'activisme animal eficaç 🐟
 
@@ -31,13 +31,13 @@ Vam unir forces amb el [Centre for Animal Ethics](https://www.upf.edu/web/cae-ce
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Fotograma d'un vídeo d'una persona que parla a la càmera, amb el logotip d'ACTRA i un bàner de Project for Awesome](/images/0115c285081d.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Gravació de vídeos per al Project for Awesome 2025 🎥
 
@@ -49,13 +49,13 @@ Sis de nosaltres ens vam posar darrere la càmera per gravar vídeos per al [Pro
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![En Lukas Paul Robertson presenta davant d'una diapositiva titulada Wild Animal Welfare ? Important? amb una foto de dofins](/images/c8be306fe4e4.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Discussió en profunditat: Screwworm Free Future 🐛
 
@@ -67,13 +67,13 @@ En [Lukas Paul Robertson](https://www.linkedin.com/in/lukas-paul-robertson/) **v
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Tres membres de la comunitat somriuen per a una selfie a la taula d'una cafeteria amb un portàtil, davant d'una paret de pedra](/images/0a58ab0cd797.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking a Sandwichez Provença ☕️
 

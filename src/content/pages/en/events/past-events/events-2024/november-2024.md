@@ -9,13 +9,13 @@ The month of November featured our **EAGxVirtual conference viewing**, the kick 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Attendees with name tags sitting on green carpet and benches, watching the EAGxVirtual 2024 conference](/images/9efbedd3e126.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Connecting Minds to Tackle Global Challenges
 
@@ -27,13 +27,13 @@ EA Barcelona hosted an **in-person viewing** of the [EAGxVirtual 2024 conference
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Seven fellowship participants sitting around a coffee table with mugs in a warmly lit living room](/images/46aa09df1ec0.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### EA Barcelona starts its first ever Introductory Fellowship!
 
@@ -47,13 +47,13 @@ Our first EA intro fellowship is off to a great start! So far, we've explored **
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Six members with laptops at a table by a stone wall during coworking at Sandwichez Provença](/images/2cf299e64e37.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking
 
@@ -65,13 +65,13 @@ We were enjoying a productive session at Sandwichez Provença, when a biosecurit
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Album cover of Parets de Vidre by Nu Drama: a large eye surrounded by drawings of farm animals, fishing nets and slaughter scenes](/images/dc7c241bd748.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### BONUS: Ricard Soler publishes rap album in Catalan about the many problems associated with animal agriculture on World Vegan Day
 

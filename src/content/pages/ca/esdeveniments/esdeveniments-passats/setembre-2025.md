@@ -9,13 +9,13 @@ El setembre va ser un **mes increïble** per a la nostra comunitat! Des de **l'i
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Fotograma d'un vídeo d'en Pablo Rosado ajupit sobre la palla acariciant un porc que descansa en un estable](/images/8b623190d741.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Community Spotlight 🔦
 
@@ -43,13 +43,13 @@ Si aquest vídeo et fa pensar diferent, aquí tens **tres maneres fàcils** d'aj
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![La Mel Brennan somriu i s'abaixa les ulleres de sol a l'aire lliure](/images/b05627a5cd50.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### I moltes felicitats a la Mel! 🎤
 
@@ -63,7 +63,7 @@ Pots llegir la seva història completa [aquí](https://www.effectivealtruism.org
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Participants del curs amb portàtils en una taula llarga; la pantalla diu Close & what's next](/images/e111ae55d676.jpg)
 
@@ -71,7 +71,7 @@ Pots llegir la seva història completa [aquí](https://www.effectivealtruism.org
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 🎉 Comencem el nostre segon curs introductori d'EA!
 
@@ -85,13 +85,13 @@ Et sap greu haver-te'l perdut aquesta vegada? Pots **expressar el teu interès p
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Assistents al taller asseguts en cadires en una sala gran somriuen a la càmera](/images/7db06395ea0d.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Taller amb Melanie Joy 🐷
 
@@ -105,7 +105,7 @@ Quin impuls per al moviment d'activisme animal a Barcelona! El nostre taller amb
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cinc membres de la comunitat somriuen a la taula d'una cafeteria amb portàtils, envoltats de plantes grans](/images/116edd51e16b.jpg)
 
@@ -113,7 +113,7 @@ Quin impuls per al moviment d'activisme animal a Barcelona! El nostre taller amb
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking a Sopa i Sandwichez ☕️
 
@@ -133,13 +133,13 @@ Tant si vols fer networking, construir o créixer, les nostres sessions de cowor
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Grup d'assistents davant d'una paret de plantes amb els logotips de 42 Barcelona i Fundación Telefónica](/images/ae41511cd944.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 🤖 Una immersió en la IA generativa a 42 Barcelona
 
@@ -153,7 +153,7 @@ L'esdeveniment fins i tot va incloure **demostracions de jailbreaking** en direc
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Quatre persones juguen a spikeball a la gespa d'un parc assolellat](/images/0c6516b68bae.jpg)
 
@@ -161,7 +161,7 @@ L'esdeveniment fins i tot va incloure **demostracions de jailbreaking** en direc
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 🧺 Pícnic a Montjuïc
 

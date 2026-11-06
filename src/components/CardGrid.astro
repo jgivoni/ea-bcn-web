@@ -1,4 +1,16 @@
-<div class="card-grid">
+---
+interface Props {
+  /**
+   * A number: one column on phones, then that many columns in one row, so a row never ends with a lone card.
+   * 'auto': as many columns of at least 15rem as fit (for lists of any length).
+   */
+  columns?: 2 | 3 | 4 | 'auto';
+}
+
+const { columns = 3 } = Astro.props;
+---
+
+<div class:list={['card-grid', columns === 'auto' && 'auto']} style={columns === 'auto' ? undefined : `--columns: ${columns}`}>
   <slot />
 </div>
 
@@ -6,6 +18,17 @@
   .card-grid {
     display: grid;
     gap: var(--space-5);
-    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    grid-template-columns: minmax(0, 1fr);
+    margin: var(--space-6) 0 0;
+  }
+
+  .card-grid.auto {
+    grid-template-columns: repeat(auto-fill, minmax(min(15rem, 100%), 1fr));
+  }
+
+  @media (min-width: 48rem) {
+    .card-grid:not(.auto) {
+      grid-template-columns: repeat(var(--columns), minmax(0, 1fr));
+    }
   }
 </style>

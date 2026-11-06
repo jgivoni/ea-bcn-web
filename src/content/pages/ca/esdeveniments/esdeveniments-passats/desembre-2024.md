@@ -9,13 +9,13 @@ Al desembre, **vam acabar el nostre primer curs introductori**, vam organitzar c
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Dos ponents en tamborets al costat d'una pantalla de projecció, davant del públic a la xerrada sobre donacions efectives](/images/999245d03344.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Una xerrada sobre el poder de les donacions efectives
 
@@ -27,13 +27,13 @@ EA Barcelona i [ESAlogika](https://esalogika.com/) van organitzar un esdevenimen
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Participants del curs en una sala d'estar escoltant un membre que parla durant una sessió](/images/5f7c70327953.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Hem acabat el nostre primer Curs Introductori!
 
@@ -47,13 +47,13 @@ Durant cinc setmanes, el nostre grup de participants reflexius i curiosos es van
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cinc jugadors al voltant d'una tauleta amb cartes i peces mentre una persona explica el joc de taula "Chase Patate"](/images/72149636b70b.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Última nit de jocs de taula de l'any (per descomptat!)
 

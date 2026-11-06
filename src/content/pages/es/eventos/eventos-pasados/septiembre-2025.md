@@ -9,13 +9,13 @@ key: "past-2025-09"
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Fotograma de un vídeo de Pablo Rosado agachado sobre la paja acariciando a un cerdo que descansa en un establo](/images/8b623190d741.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Protagonista de la comunidad 🔦
 
@@ -43,13 +43,13 @@ Si este vídeo te hace ver las cosas de otra manera, aquí tienes **tres formas 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Mel Brennan sonríe y se baja las gafas de sol al aire libre](/images/b05627a5cd50.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### ¡Y una gran enhorabuena a Mel! 🎤
 
@@ -63,7 +63,7 @@ Puedes leer su historia completa [aquí](https://www.effectivealtruism.org/stori
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Participantes del curso con portátiles en una mesa larga; en la pantalla se lee Close & what's next](/images/e111ae55d676.jpg)
 
@@ -71,7 +71,7 @@ Puedes leer su historia completa [aquí](https://www.effectivealtruism.org/stori
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 🎉 ¡Arranca nuestro segundo curso introductorio de EA!
 
@@ -85,13 +85,13 @@ Puedes leer su historia completa [aquí](https://www.effectivealtruism.org/stori
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Asistentes al taller sentados en sillas en una sala grande sonríen a la cámara](/images/7db06395ea0d.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Taller con Melanie Joy 🐷
 
@@ -105,7 +105,7 @@ Puedes leer su historia completa [aquí](https://www.effectivealtruism.org/stori
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cinco miembros de la comunidad sonríen en la mesa de una cafetería con portátiles, rodeados de plantas grandes](/images/116edd51e16b.jpg)
 
@@ -113,7 +113,7 @@ Puedes leer su historia completa [aquí](https://www.effectivealtruism.org/stori
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking en Sopa y Sandwichez ☕️
 
@@ -133,13 +133,13 @@ Tanto si quieres hacer networking, construir algo o crecer, nuestras sesiones de
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Grupo de asistentes delante de una pared vegetal con los logotipos de 42 Barcelona y Fundación Telefónica](/images/ae41511cd944.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 🤖 Una inmersión en la IA generativa en 42 Barcelona
 
@@ -153,7 +153,7 @@ El evento incluso contó con **demostraciones de jailbreaking** en directo, que 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cuatro personas juegan al spikeball sobre el césped de un parque soleado](/images/0c6516b68bae.jpg)
 
@@ -161,7 +161,7 @@ El evento incluso contó con **demostraciones de jailbreaking** en directo, que 
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 🧺 Pícnic en Montjuïc
 

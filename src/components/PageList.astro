@@ -1,5 +1,8 @@
 ---
+// A list of pages as cards, composed from CardGrid and Card.
 import { headingOf, loadPages, thumbnailOf, type Page } from '../lib/pages';
+import Card from './Card.astro';
+import CardGrid from './CardGrid.astro';
 
 interface Props {
   items: Page[];
@@ -9,75 +12,6 @@ const { items } = Astro.props;
 const pages = await loadPages();
 ---
 
-<ul class="page-list">
-  {
-    items.map((item) => {
-      const thumbnail = thumbnailOf(pages, item);
-      return (
-        <li class="page-card">
-          {thumbnail ? <img src={thumbnail} alt="" loading="lazy" /> : <div class="placeholder" />}
-          <a href={item.url}>{headingOf(item)}</a>
-        </li>
-      );
-    })
-  }
-</ul>
-
-<style>
-  /* Wider than the text column and centred, like the content rows in Prose. */
-  .page-list {
-    position: relative;
-    left: 50%;
-    width: min(var(--width-content), calc(100vw - 2 * var(--gutter)));
-    transform: translateX(-50%);
-    display: grid;
-    gap: var(--space-5);
-    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
-    margin: var(--space-6) 0 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  .page-card {
-    position: relative;
-    overflow: hidden;
-    border-radius: var(--radius-md);
-    background: var(--color-bg);
-    box-shadow: var(--shadow-card);
-    transition: box-shadow 0.2s, transform 0.2s;
-  }
-
-  .page-card:hover {
-    box-shadow: var(--shadow-card-hover);
-    transform: translateY(-2px);
-  }
-
-  .page-card img,
-  .placeholder {
-    display: block;
-    width: 100%;
-    aspect-ratio: 3 / 2;
-    object-fit: cover;
-    background: var(--color-primary-soft);
-  }
-
-  .page-card a {
-    display: block;
-    padding: var(--space-4) var(--space-5) var(--space-5);
-    color: var(--color-text);
-    font-weight: var(--weight-semibold);
-    line-height: var(--leading-tight);
-    text-decoration: none;
-  }
-
-  /* The whole card is the click target. */
-  .page-card a::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-  }
-
-  .page-card:hover a {
-    color: var(--color-primary-strong);
-  }
-</style>
+<CardGrid columns="auto">
+  {items.map((item) => <Card title={headingOf(item)} href={item.url} image={thumbnailOf(pages, item)} />)}
+</CardGrid>

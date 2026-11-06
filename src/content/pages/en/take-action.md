@@ -9,7 +9,7 @@ We believe you can have the biggest impact by carefully leveraging your career, 
 
 <div class="cols">
 
-<div class="col">
+<div class="col center" style="--start: 1; --span: 4">
 
 ![Speaker at a talk points to a slide: What can we globally do to help? We need to reduce the nuclear arsenal.](/images/77de1378a110.jpg)
 
@@ -19,7 +19,7 @@ We believe you can have the biggest impact by carefully leveraging your career, 
 
 </div>
 
-<div class="col">
+<div class="col center" style="--start: 5; --span: 4">
 
 ![Seven smiling members, two of them holding up a donation cheque](/images/5109482bde28.jpg)
 
@@ -29,7 +29,7 @@ We believe you can have the biggest impact by carefully leveraging your career, 
 
 </div>
 
-<div class="col">
+<div class="col center" style="--start: 9; --span: 4">
 
 ![Volunteer in a yellow dress next to a large panel with a drawing of a fork](/images/9547e19691de.jpg)
 

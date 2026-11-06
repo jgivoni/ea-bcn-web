@@ -7,6 +7,7 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { load } from 'cheerio';
 import TurndownService from 'turndown';
+import { colTag, columnsOf } from './column-layout.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const crawlDir = join(root, 'crawl');
@@ -300,22 +301,20 @@ function hasContent(column) {
 }
 
 function convertSection($, section, lang, page) {
-  const columns = section
-    .find('div.JNdkSc')
-    .filter((_, el) => $(el).parentsUntil(section, 'div.JNdkSc').length === 0)
-    .toArray()
-    .map((el) => $(el))
-    .filter((column) => hasContent(column) && !isIconRow($, column));
+  const columns = columnsOf($, section).filter(({ column }) => hasContent(column) && !isIconRow($, column));
   if (columns.length === 0) {
     return hasContent(section) && !isIconRow($, section) ? cleanMarkdown(makeConverter(lang, page).turndown($.html(section))) : '';
   }
-  if (columns.length === 1) return cleanMarkdown(makeConverter(lang, page).turndown($.html(columns[0])));
+  if (columns.length === 1) return cleanMarkdown(makeConverter(lang, page).turndown($.html(columns[0].column)));
   const cells = columns
-    .map((column) => cleanMarkdown(makeConverter(lang, page, { inColumn: true }).turndown($.html(column)), 3))
-    .filter(Boolean);
-  if (cells.length === 1) return cells[0];
+    .map((layout) => ({
+      layout,
+      markdown: cleanMarkdown(makeConverter(lang, page, { inColumn: true }).turndown($.html(layout.column)), 3),
+    }))
+    .filter((cell) => cell.markdown);
+  if (cells.length === 1) return cells[0].markdown;
   report.grids += 1;
-  return ['<div class="cols">', ...cells.map((cell) => `<div class="col">\n\n${cell}\n\n</div>`), '</div>'].join('\n\n');
+  return ['<div class="cols">', ...cells.map((cell) => `${colTag(cell.layout)}\n\n${cell.markdown}\n\n</div>`), '</div>'].join('\n\n');
 }
 
 function pageTitle($) {

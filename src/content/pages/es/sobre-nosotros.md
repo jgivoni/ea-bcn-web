@@ -11,13 +11,13 @@ Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 6">
 
 <iframe src="https://www.youtube-nocookie.com/embed/WyprXhvGVYk" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 7; --span: 6">
 
 <iframe src="https://www.youtube-nocookie.com/embed/48VAQtGmfWY" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -27,7 +27,7 @@ Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 4">
 
 ### Libros
 
@@ -35,7 +35,7 @@ Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences 
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 5; --span: 2">
 
 ![Portada del libro The Scout Mindset de Julia Galef: Why Some People See Things Clearly and Others Don't](/images/28ecc6e595de.png)
 
@@ -45,7 +45,7 @@ Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 4">
 
 ### Podcasts
 
@@ -54,7 +54,7 @@ Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences 
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 5; --span: 2">
 
 ![Logotipo de The 80,000 Hours Podcast](/images/b327a04dfb84.jpg)
 
@@ -64,7 +64,7 @@ Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 4">
 
 ### Webs
 
@@ -74,7 +74,7 @@ Si eres nuevo en el concepto de Altruismo Eficaz, te recomendamos que comiences 
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 5; --span: 2">
 
 ![Logotipo del altruismo eficaz, una bombilla turquesa con un corazón dentro](/images/a048a6fd10ba.png)
 
@@ -90,25 +90,25 @@ Nuestro objetivo es ofrecer oportunidades para conocer los problemas más urgent
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 3">
 
 ![Unos quince asistentes sonrientes, y un perro, alrededor de un sofá en un encuentro nocturno de EA Barcelona](/images/4117389de325.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 4; --span: 3">
 
 ![Nueve miembros de pie frente al espacio joven Casa Sagnier de Barcelona](/images/ba58965dcc1e.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 7; --span: 3">
 
 ![Cuatro miembros con portátiles y café en la mesa de una cafetería durante una sesión de coworking](/images/7dce49e8b541.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 10; --span: 3">
 
 ![Público en sillas blancas en una charla, con dos ponentes en el escenario y un ponente remoto en dos pantallas](/images/884645afb822.jpg)
 
@@ -120,13 +120,13 @@ Nuestro objetivo es ofrecer oportunidades para conocer los problemas más urgent
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 6">
 
 <iframe src="https://www.youtube-nocookie.com/embed/roZoEhnQB-I" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 7; --span: 6">
 
 <iframe src="https://www.youtube-nocookie.com/embed/MCrSeWeZbOY" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

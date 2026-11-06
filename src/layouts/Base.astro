@@ -1,4 +1,5 @@
 ---
+import Hero from '../components/Hero.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import {
@@ -10,41 +11,45 @@ import {
   loadPages,
   OG_LOCALES,
   urlFor,
+  type Lang,
   type Page,
 } from '../lib/pages';
+import { photo } from '../lib/photos';
 import { UI } from '../lib/ui';
 import '../styles/global.css';
 
-interface Props {
-  page: Page;
-}
+/** A content page passes `page`. A page outside the content collection (such as 404) passes `lang` and `title`. */
+type Props = { page: Page } | { page?: undefined; lang: Lang; title: string };
 
-const { page } = Astro.props;
+const props = Astro.props;
+const page = props.page;
+const lang: Lang = page ? page.lang : props.lang!;
 const site = Astro.site!.origin;
 const pages = await loadPages();
-const alternates = alternatesFor(pages, page);
-const description = describe(page);
-const ui = UI[page.lang];
-const isHome = page.path === HOME_SLUGS[page.lang];
-const title = isHome ? `${ui.siteName} — ${page.entry.data.title}` : `${page.entry.data.title} | ${ui.siteName}`;
+const alternates: Partial<Record<Lang, string>> = page ? alternatesFor(pages, page) : {};
+const description = page ? describe(page) : undefined;
+const ui = UI[lang];
+const isHome = page?.path === HOME_SLUGS[lang];
+const pageTitle = page ? page.entry.data.title : props.title!;
+const title = isHome ? `${ui.siteName} — ${pageTitle}` : `${pageTitle} | ${ui.siteName}`;
 const absolute = (url: string) => site + (url === '/' ? '/' : url);
-const canonical = absolute(page.url);
+const canonical = page ? absolute(page.url) : undefined;
 
 const navKeys = ['about', 'upcoming-events', 'past-events', 'take-action', 'get-involved'];
-const isCurrent = (url: string) => page.url === url || page.url.startsWith(`${url}/`);
+const isCurrent = (url: string) => !!page && (page.url === url || page.url.startsWith(`${url}/`));
 const nav = navKeys
-  .map((key) => findByKey(pages, page.lang, key))
+  .map((key) => findByKey(pages, lang, key))
   .filter((item): item is Page => Boolean(item))
   .map((item) => ({ label: item.entry.data.title, href: item.url, current: isCurrent(item.url) }));
 
-const switcher = LANGS.map((lang) => ({
-  lang,
-  href: alternates[lang] ?? urlFor(lang, HOME_SLUGS[lang]),
+const switcher = LANGS.map((other) => ({
+  lang: other,
+  href: alternates[other] ?? urlFor(other, HOME_SLUGS[other]),
 }));
 ---
 
 <!doctype html>
-<html lang={page.lang} data-theme="light">
+<html lang={lang} data-theme="light">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -58,8 +63,8 @@ const switcher = LANGS.map((lang) => ({
       }
     </script>
     <title>{title}</title>
-    <meta name="description" content={description} />
-    <link rel="canonical" href={canonical} />
+    {description && <meta name="description" content={description} />}
+    {canonical ? <link rel="canonical" href={canonical} /> : <meta name="robots" content="noindex" />}
     {Object.entries(alternates).map(([lang, url]) => <link rel="alternate" hreflang={lang} href={absolute(url)} />)}
     {
       alternates.en && Object.keys(alternates).length > 1 && (
@@ -69,32 +74,18 @@ const switcher = LANGS.map((lang) => ({
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content={ui.siteName} />
     <meta property="og:title" content={title} />
-    <meta property="og:description" content={description} />
-    <meta property="og:url" content={canonical} />
-    <meta property="og:locale" content={OG_LOCALES[page.lang]} />
+    {description && <meta property="og:description" content={description} />}
+    {canonical && <meta property="og:url" content={canonical} />}
+    <meta property="og:locale" content={OG_LOCALES[lang]} />
     <meta name="twitter:card" content="summary" />
   </head>
   <body>
     <a class="skip" href="#content">{ui.skip}</a>
-    <SiteHeader lang={page.lang} homeHref={urlFor(page.lang, HOME_SLUGS[page.lang])} nav={nav} switcher={switcher} />
+    <SiteHeader lang={lang} homeHref={urlFor(lang, HOME_SLUGS[lang])} nav={nav} switcher={switcher} />
     <main id="content">
+      <Hero image={photo('hero')} alt="Park Güell, Barcelona" />
       <slot />
     </main>
     <SiteFooter>{ui.footerContact}</SiteFooter>
   </body>
 </html>
-
-<style is:global>
-  .skip {
-    position: absolute;
-    left: -999px;
-  }
-
-  .skip:focus {
-    left: var(--gutter);
-    top: var(--gutter);
-    z-index: 30;
-    padding: var(--space-2) var(--space-3);
-    background: var(--color-bg);
-  }
-</style>

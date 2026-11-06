@@ -9,13 +9,13 @@ L'agost ha estat un mes tranquil per a EA Barcelona. Molta gent ha marxat de vac
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![](/images/ed9c4a5caef3.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### EA Barcelona estrena pàgina web! 🎊
 
@@ -27,13 +27,13 @@ Això és una cosa que fa temps que està en procés i que finalment s'ha public
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Logotip de Meetup amb una fletxa que apunta al logotip de Luma](/images/322bcee0cc82.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Deixem Meetup i ens traslladem a Luma!
 
@@ -45,13 +45,13 @@ Fa temps que fem servir Meetup com a principal plataforma d'esdeveniments, però
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 <iframe src="https://www.youtube-nocookie.com/embed/3DKWdoIzQvE" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### La cruda verdad detrás de la carne (La crua veritat darrere de la indústria de la carn)
 
@@ -63,13 +63,13 @@ En [Pablo Rosado](https://pablorosado.com/es/), membre de la comunitat i youtube
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Quatre persones somriuen en una taula llarga de cafeteria amb ordinadors i cafè durant una sessió de coworking](/images/edf33cf29a8c.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking
 
@@ -81,13 +81,13 @@ Tornem a ser a Sopa! Treballant en previsió (forecasting), defensa dels animals
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Vuit persones somriuen en una selfie de grup sobre mantes de pícnic al costat de la piscina del Parc de la Creueta del Coll](/images/d042e675a6e2.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Dia assolellat al Parc de la Creueta del Coll
 

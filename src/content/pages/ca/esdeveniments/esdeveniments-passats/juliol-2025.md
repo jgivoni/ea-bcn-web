@@ -9,13 +9,13 @@ Aquest mes ens ha portat de la **teoria quàntica** a les **aules d'Uganda**, i 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Assistents al retir posen junts en un bosc de pollancres assolellat](/images/a89f4505d43d.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Community Spotlight 🔦
 
@@ -37,13 +37,13 @@ Moltes gràcies a **tothom qui ho va fer possible,** especialment als **organitz
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![La Sofía Martínez Gálvez presenta al costat d'una diapositiva que diu A journey of using data to improve lives](/images/626e68a3baf0.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 👩🏽‍🏫 Sofia Martínez Gálvez: de la física a l'impacte global
 
@@ -57,13 +57,13 @@ Vam estar encantats de rebre la [Sofía Martínez Gálvez](https://www.linkedin.
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Tres membres de la comunitat somriuen per a una selfie a una taula de coworking amb portàtils, al costat d'una antiga paret de maó](/images/4adfc5fd1d65.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking a Sopa i Sandwichez ☕️
 

@@ -9,13 +9,13 @@ October was packed - from a full house at the **_Altruismo Racional_ book launch
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Pablo Melchor and Pablo Rosado in conversation in front of bookshelves at the book launch](/images/686d9650f140.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 📚 Pablo + Pablo: Altruismo Racional
 
@@ -29,13 +29,13 @@ We had the pleasure of listening to **Pablo Melchor** at **Llibrería +Bernat** 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Attendees watch a screen with the paper General Scales Unlock AI Evaluation with Explanatory and Predictive Power](/images/746334ce40e6.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 💻 How to make AI safe?
 
@@ -49,13 +49,13 @@ A big **thank you** to the AI Safety BCN team for organizing and to everyone who
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![A speaker presents next to a slide about adopting alternative proteins and a local ecosystem in Catalonia](/images/385dc8071416.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Test Kitchen Confessions with the Alt. Protein Club
 
@@ -69,13 +69,13 @@ We heard candid stories from **Camilla Ariano**, who shared how aligning her sci
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Six community members sit at a long wooden café table with laptops](/images/38ed709c91f8.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking at Sopa & Sandwichez ☕️
 
@@ -87,13 +87,13 @@ At our last coworking session, we explored task **automation** - Joey shared hel
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![A black chess king stands among fallen white chess pieces on a board](/images/3c1e1d458da0.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Community Games Night! 🎲
 

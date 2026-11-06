@@ -9,13 +9,13 @@ August has been a quiet month for EA Barcelona. Many people have been away on ho
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![](/images/ee6dc897f944.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### EA Barcelona has a brand new website! 🎊
 
@@ -27,13 +27,13 @@ This is something that’s been in the pipeline for a while and has now finally 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Meetup logo with an arrow pointing to the Luma logo](/images/7d09483dbfaa.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### We are leaving Meetup and moving to Luma!
 
@@ -45,13 +45,13 @@ We have been using Meetup as our main events platform for a while now, but given
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 <iframe src="https://www.youtube-nocookie.com/embed/3DKWdoIzQvE" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### La cruda verdad detrás de la carne (The harsh truth behind the meat industry)
 
@@ -63,13 +63,13 @@ We have been using Meetup as our main events platform for a while now, but given
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Four people smile at a long café table with laptops and coffee during a coworking session](/images/5b40dd8bfd2b.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking
 
@@ -81,13 +81,13 @@ Here we are back at Sopa again! Working on forecasting, animal advocacy, financi
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Eight people smile for a group selfie on picnic blankets next to the outdoor pool at Parc de la Creueta del Coll](/images/70958d134379.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Sunny day at Parc de la Creueta del Coll
 

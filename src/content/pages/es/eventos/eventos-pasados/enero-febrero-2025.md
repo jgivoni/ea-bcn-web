@@ -11,13 +11,13 @@ EA Barcelona ha comenzado 2025 con un objetivo claro: mejorar el bienestar anima
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Seis personas con acreditaciones del evento posan juntas delante de una pantalla con las diapositivas del panel sobre defensa animal](/images/f8a59d33d0d5.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Panel de expertos sobre defensa animal eficaz 🐟
 
@@ -31,13 +31,13 @@ Unimos fuerzas con el [Centre for Animal Ethics](https://www.upf.edu/web/cae-cen
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Fotograma de un vídeo de una persona que habla a la cámara, con el logotipo de ACTRA y un banner de Project for Awesome](/images/0115c285081d.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Grabación de vídeos para Project for Awesome 2025 🎥
 
@@ -49,13 +49,13 @@ Seis de nosotros nos pusimos detrás de la cámara para grabar vídeos para [Pro
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Lukas Paul Robertson presenta delante de una diapositiva titulada Wild Animal Welfare ? Important? con una foto de delfines](/images/c8be306fe4e4.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Debate en profundidad: Screwworm Free Future 🐛
 
@@ -67,13 +67,13 @@ Seis de nosotros nos pusimos detrás de la cámara para grabar vídeos para [Pro
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Tres miembros de la comunidad sonríen para un selfie en la mesa de una cafetería con un portátil, delante de una pared de piedra](/images/0a58ab0cd797.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking en Sandwichez Provença ☕️
 

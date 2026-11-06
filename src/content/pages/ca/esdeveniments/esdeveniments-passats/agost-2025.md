@@ -9,13 +9,13 @@ L'agost va ser per a nosaltres un mes de **reflexió i connexió**. Vam gaudir d
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![En Martin Lange sosté un certificat de premi del KIT davant d'un bàner amb l'any 2025](/images/f86e9f286f18.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Community Spotlight 🔦
 
@@ -33,7 +33,7 @@ En paraules seves, en Martin va destacar que aquesta causa és sovint **una de l
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cinc membres de la comunitat somriuen per a una selfie al voltant de la taula d'una cafeteria amb portàtils i begudes](/images/88786211bc94.jpg)
 
@@ -41,7 +41,7 @@ En paraules seves, en Martin va destacar que aquesta causa és sovint **una de l
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking a Sopa i Sandwichez ☕️
 

@@ -9,13 +9,13 @@ Este mes nos llevó de la **teoría cuántica** a las **aulas de Uganda**, de **
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Asistentes al retiro posan juntos en una alameda soleada](/images/a89f4505d43d.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Protagonista de la comunidad 🔦
 
@@ -37,13 +37,13 @@ Muchas gracias a **todos los que lo hicieron posible,** especialmente a los **or
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Sofía Martínez Gálvez presenta junto a una diapositiva que dice A journey of using data to improve lives](/images/626e68a3baf0.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 👩🏽‍🏫 Sofía Martínez Gálvez: de la física al impacto global
 
@@ -57,13 +57,13 @@ Este mes tuvimos el placer de recibir a [Sofía Martínez Gálvez](https://www.l
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Tres miembros de la comunidad sonríen para un selfie en una mesa de coworking con portátiles, junto a una antigua pared de ladrillo](/images/4adfc5fd1d65.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking en Sopa y Sandwichez ☕️
 

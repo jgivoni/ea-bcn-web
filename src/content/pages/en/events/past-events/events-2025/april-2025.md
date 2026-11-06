@@ -11,13 +11,13 @@ Ready for the recap? Let’s go!
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Ana Luna Hernández smiles on a sunny balcony with city buildings behind her](/images/e270bf68aef1.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### We’re introducing our brand NEW Community Spotlight!
 
@@ -29,13 +29,13 @@ Ready for the recap? Let’s go!
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Collage of attendees chatting and smiling on the grass in Ciutadella Park](/images/856f5ba32083.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Spring social in Ciutadella Park 🌷
 
@@ -47,13 +47,13 @@ We had a **delightful Saturday afternoon in Ciutadella Park** with **14 attendee
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Seven community members smile at a long wooden table during a coworking session in a café](/images/312ac0f48e59.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking in Sopa ☕️
 

@@ -9,13 +9,13 @@ EA Barcelona està encantada de tancar un 2025 increïble! Durant els últims do
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Collage de Karoteno amb l'eslògan Una nueva forma de donar, l'aplicació de donacions, una festa de zambomba i una panera](/images/c5c1d99903bb.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Community Spotlight 🔦 La campanya de recaptació de desembre de Karoteno!
 
@@ -29,13 +29,13 @@ Gràcies a la generositat de molts col·laboradors, es van recaptar **més de 6.
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Sis participants del club de lectura en una videotrucada mostren exemplars d'Altruismo racional de Pablo Melchor](/images/bd5b1a81bda3.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Club de lectura "Altruismo Racional" 📚
 
@@ -49,13 +49,13 @@ Durant novembre i desembre, EA Barcelona va organitzar un club de lectura sobre 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Assistents al taller miren un ponent en una videotrucada en una pantalla gran](/images/b1e8b35f0375.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Taller de Probably Good 🔨
 
@@ -69,13 +69,13 @@ Gràcies a tothom qui ens va acompanyar, i tenim moltes ganes de planificar avia
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Selfie d'assistents en una aula durant la visualització de l'EA Connect, amb una xerrada a la pantalla del darrere](/images/392e75075b63.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Visualització de l'EA Connect 📺
 
@@ -89,13 +89,13 @@ Va ser genial veure com es formaven noves connexions. **Moltes gràcies** a toth
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cinc membres de la comunitat somriuen per a una selfie a la taula d'una cafeteria amb portàtils i cafè](/images/354f6cb0db82.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking a Sopa ☕️
 
@@ -109,13 +109,13 @@ Vam tancar l'any amb la nostra última sessió de coworking a **Sopa**. Vam inte
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Un grup nombrós amb jerseis nadalencs posa per a una selfie a la trobada social de final d'any](/images/dbd20377c058.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Trobada social de final d'any! 🥳
 

@@ -9,13 +9,13 @@ Septiembre ha sido un mes apasionante para EA Barcelona, con muchas plantas, pro
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Una anfitriona ofrece una degustación a asistentes sentados a una mesa en un jardín frondoso](/images/200ee578240c.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Veg-curious: ¡Aprende, empodérate y saborea!
 
@@ -27,13 +27,13 @@ Este evento dinámico incluyó presentaciones de [Ricard Soler](https://www.link
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Collage del evento Veg-curious: ponentes, público sentado, asistentes degustando y platos a base de plantas](/images/556477c4af66.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Aquí tenéis más fotos porque nos encantó :D
 
@@ -45,13 +45,13 @@ Muchas gracias a todos los que participaron en este maravilloso evento, que tuvo
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Un ponente sonriente habla delante de una diapositiva proyectada en el evento de Altruisme Efectiu UAB](/images/7f833d43689d.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Altruisme Efectiu UAB
 
@@ -63,13 +63,13 @@ Muchas gracias a todos los que participaron en este maravilloso evento, que tuvo
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cinco asistentes sonrientes con acreditaciones de la conferencia sentados alrededor de una mesita en EAGx Berlín](/images/2e53c38eb6b3.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### ¡EA Barcelona está representada en EAGx Berlín!
 

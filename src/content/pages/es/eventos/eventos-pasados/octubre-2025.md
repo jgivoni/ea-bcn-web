@@ -9,13 +9,13 @@ Octubre vino cargado: desde un lleno total en la **presentación del libro _Altr
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Pablo Melchor y Pablo Rosado conversan delante de unas estanterías de libros en la presentación del libro](/images/686d9650f140.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 📚 Pablo + Pablo: Altruismo Racional
 
@@ -29,13 +29,13 @@ Tuvimos el placer de escuchar a **Pablo Melchor** en la **Llibrería +Bernat** e
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Asistentes miran una pantalla con el artículo General Scales Unlock AI Evaluation with Explanatory and Predictive Power](/images/746334ce40e6.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 💻 ¿Cómo hacer que la IA sea segura?
 
@@ -49,13 +49,13 @@ Tuvimos el placer de escuchar a **Pablo Melchor** en la **Llibrería +Bernat** e
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Una ponente presenta junto a una diapositiva sobre la adopción de proteínas alternativas y un ecosistema local en Cataluña](/images/385dc8071416.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Confesiones de la cocina de pruebas con el Alt. Protein Club
 
@@ -69,13 +69,13 @@ Escuchamos historias muy francas de **Camilla Ariano**, que contó cómo alinear
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Seis miembros de la comunidad sentados con portátiles en una mesa larga de madera de una cafetería](/images/38ed709c91f8.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking en Sopa y Sandwichez ☕️
 
@@ -87,13 +87,13 @@ En nuestra última sesión de coworking exploramos la **automatización** de tar
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Un rey negro de ajedrez de pie entre piezas blancas caídas sobre un tablero](/images/3c1e1d458da0.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### ¡Noche de juegos de la comunidad! 🎲
 

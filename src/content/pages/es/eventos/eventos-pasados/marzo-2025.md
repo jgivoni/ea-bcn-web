@@ -11,13 +11,13 @@ EA Barcelona ha _arrancado marzo con fuerza_: hemos coorganizado una **conferenc
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Dos fotos de Anthony Lara, una hablando en un evento y otra sonriendo en un barco](/images/b8cb9b53877a.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Anthony Lara se une al equipo como Assistant Community Builder 🚀
 
@@ -31,13 +31,13 @@ EA Barcelona ha _arrancado marzo con fuerza_: hemos coorganizado una **conferenc
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Tristan Williams sentado sobre una mesa habla con los asistentes en un aula universitaria con una pantalla de proyección](/images/7e6268b58301.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Tristan Williams comparte sus reflexiones sobre la gobernanza de la IA 🏛
 
@@ -49,13 +49,13 @@ EA Barcelona ha _arrancado marzo con fuerza_: hemos coorganizado una **conferenc
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Seis participantes del club de lectura en una videollamada](/images/224bdc244016.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Club de lectura: Thinking in Bets 🃏
 
@@ -67,13 +67,13 @@ Ya vamos por la mitad de [_Thinking in Bets: Making Smarter Decisions When You D
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cuatro miembros de la comunidad sonríen en la mesa de una cafetería con portátiles, rodeados de plantas grandes](/images/f6ee4c54e4e2.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking en Sopa ☕️
 

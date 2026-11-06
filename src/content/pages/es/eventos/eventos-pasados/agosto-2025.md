@@ -9,13 +9,13 @@ Agosto fue para nosotros un mes de **reflexión y conexión**. Disfrutamos de al
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Martin Lange sostiene un diploma de premio del KIT delante de una pancarta con el año 2025](/images/f86e9f286f18.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Protagonista de la comunidad 🔦
 
@@ -33,7 +33,7 @@ En sus propias palabras, Martin subrayó que esta causa es a menudo **una de las
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cinco miembros de la comunidad sonríen para un selfie alrededor de la mesa de una cafetería con portátiles y bebidas](/images/88786211bc94.jpg)
 
@@ -41,7 +41,7 @@ En sus propias palabras, Martin subrayó que esta causa es a menudo **una de las
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking en Sopa y Sandwichez ☕️
 

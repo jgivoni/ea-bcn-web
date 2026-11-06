@@ -9,13 +9,13 @@ key: "past-2025-11-12"
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Collage de Karoteno con el lema Una nueva forma de donar, la app de donaciones, una fiesta de zambomba y una cesta de regalo](/images/c5c1d99903bb.png)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Protagonista de la comunidad 🔦 ¡La campaña de recaudación de diciembre de Karoteno!
 
@@ -29,13 +29,13 @@ Gracias a la generosidad de muchas personas, se recaudaron **más de 6.000 €**
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Seis participantes del club de lectura en una videollamada muestran sus ejemplares de Altruismo racional de Pablo Melchor](/images/bd5b1a81bda3.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Club de lectura de "Altruismo Racional" 📚
 
@@ -49,13 +49,13 @@ Durante noviembre y diciembre, EA Barcelona organizó un club de lectura sobre [
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Asistentes al taller miran a una ponente en videollamada en una pantalla grande](/images/b1e8b35f0375.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Taller de Probably Good 🔨
 
@@ -69,13 +69,13 @@ Gracias a todos los que vinisteis. Tenemos muchas ganas de organizar pronto el p
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Selfie de asistentes en un aula durante la visualización de EA Connect, con una charla en la pantalla detrás de ellos](/images/392e75075b63.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Visualización de EA Connect 📺
 
@@ -89,13 +89,13 @@ Fue genial ver cómo se formaban nuevas conexiones. ¡Muchas **gracias** a todos
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cinco miembros de la comunidad sonríen para un selfie en la mesa de una cafetería con portátiles y café](/images/354f6cb0db82.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking en Sopa ☕️
 
@@ -109,13 +109,13 @@ Cerramos el año con nuestra última sesión de coworking en **Sopa**. Intercamb
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Un grupo grande con jerséis navideños posa para un selfie en el encuentro social de fin de año](/images/dbd20377c058.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### ¡Encuentro social de fin de año! 🥳
 

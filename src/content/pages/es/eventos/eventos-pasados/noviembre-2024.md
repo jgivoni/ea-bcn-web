@@ -9,13 +9,13 @@ En noviembre contamos con nuestra **visualización de la conferencia EAGxVirtual
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Asistentes con etiquetas de nombre sentados en la moqueta verde y en bancos, viendo la conferencia EAGxVirtual 2024](/images/e43b029f57c7.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Conectando ideas para abordar los retos globales
 
@@ -27,13 +27,13 @@ EA Barcelona acogió una **visualización presencial** de la [conferencia EAGxVi
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Siete participantes del curso sentados alrededor de una mesita con tazas en un salón con luz cálida](/images/53acc6378e8c.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### ¡EA Barcelona comienza su primer curso introductorio!
 
@@ -47,13 +47,13 @@ EA Barcelona acogió una **visualización presencial** de la [conferencia EAGxVi
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Seis miembros con portátiles en una mesa junto a una pared de piedra durante el coworking en Sandwichez Provença](/images/c50179f253df.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking
 
@@ -65,13 +65,13 @@ Estábamos disfrutando de una sesión productiva en Sandwichez Provença, cuando
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Portada del álbum Parets de Vidre de Nu Drama: un gran ojo rodeado de dibujos de animales de granja, redes de pesca y escenas de matadero](/images/74b42a7aad24.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### EXTRA: Ricard Soler publica un álbum de rap en catalán sobre los numerosos problemas asociados a la ganadería en el Día Mundial del Veganismo
 

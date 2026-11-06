@@ -9,13 +9,13 @@ L'octubre va anar ple: des d'una sala plena a la **presentació del llibre _Altr
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![En Pablo Melchor i en Pablo Rosado conversen davant d'unes prestatgeries a la presentació del llibre](/images/686d9650f140.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 📚 Pablo + Pablo: Altruismo Racional
 
@@ -29,13 +29,13 @@ Vam tenir el plaer d'escoltar en **Pablo Melchor** a la **Llibreria +Bernat** en
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Assistents miren una pantalla amb l'article General Scales Unlock AI Evaluation with Explanatory and Predictive Power](/images/746334ce40e6.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### 💻 Com fer que la IA sigui segura?
 
@@ -49,13 +49,13 @@ Vam tenir el plaer d'escoltar en **Pablo Melchor** a la **Llibreria +Bernat** en
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Una persona presenta al costat d'una diapositiva sobre l'adopció de proteïnes alternatives i un ecosistema local a Catalunya](/images/385dc8071416.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Test Kitchen Confessions amb l'Alt. Protein Club
 
@@ -69,13 +69,13 @@ Vam escoltar històries sinceres de la **Camilla Ariano**, que va explicar com a
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Sis membres de la comunitat asseguts a una llarga taula de fusta d'una cafeteria amb portàtils](/images/38ed709c91f8.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Coworking a Sopa i Sandwichez ☕️
 
@@ -87,13 +87,13 @@ A la nostra darrera sessió de coworking, vam explorar l'**automatització** de 
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Un rei d'escacs negre dret entre peces d'escacs blanques caigudes sobre un tauler](/images/3c1e1d458da0.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Nit de jocs de la comunitat! 🎲
 

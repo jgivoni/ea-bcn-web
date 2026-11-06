@@ -3,10 +3,19 @@
 </div>
 
 <style is:global>
+  /* Page content from Markdown. It spans the full content width, as on the old site, so every row shares one left edge. */
+
   .prose h1 {
     margin: 0 0 var(--space-5);
     color: var(--color-primary-strong);
     font-size: var(--text-2xl);
+  }
+
+  /* The page title and its intro are centred, as on the old site. */
+  .prose > h1,
+  .prose > h1 + p,
+  .prose > h1 + p + p {
+    text-align: center;
   }
 
   .prose h2 {
@@ -18,6 +27,11 @@
   .prose h3 {
     margin: var(--space-6) 0 var(--space-2);
     font-size: var(--text-lg);
+  }
+
+  .prose h4 {
+    margin: var(--space-5) 0 var(--space-2);
+    font-size: var(--text-base);
   }
 
   .prose p,
@@ -39,7 +53,7 @@
   .prose iframe {
     display: block;
     width: 100%;
-    min-height: 26rem;
+    min-height: min(26rem, 80vh);
     margin: var(--space-5) 0;
     border: 1px solid var(--color-border);
     border-radius: var(--radius-md);
@@ -50,23 +64,59 @@
     min-height: 0;
   }
 
-  .prose h4 {
-    margin: var(--space-5) 0 var(--space-2);
-    font-size: var(--text-base);
+  .prose > iframe[src*='youtube'] {
+    max-width: var(--width-prose);
+    margin-inline: auto;
   }
 
-  /* Rows of columns from the old site: cards, photo and text pairs, video pairs.
-     They are wider than the text column and centred on the page. */
+  /* Rows of columns from the old site: cards, photo and text pairs, video pairs, photo galleries.
+     Phones: one column.
+     Wider: columns with a width from the old site (--start and --span) sit on a 12-column grid, as on the old site.
+     Rows without widths split evenly; four columns go two by two before they fit in one row. */
   .prose .cols {
-    position: relative;
-    left: 50%;
-    width: min(var(--width-content), calc(100vw - 2 * var(--gutter)));
-    transform: translateX(-50%);
     display: grid;
     gap: var(--space-5) var(--space-6);
-    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+    grid-template-columns: minmax(0, 1fr);
     align-items: start;
-    margin: var(--space-6) 0;
+    /* Rows are further apart than the photo and text inside a row, so each pair reads as one item. */
+    margin: var(--space-7) 0;
+  }
+
+  @media (min-width: 40rem) {
+    .prose .cols:not(:has(> .col[style*='--span'])) {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .prose .cols:not(:has(> .col[style*='--span'])):has(> .col:nth-child(3):last-child) {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: var(--space-5);
+    }
+  }
+
+  @media (min-width: 64rem) {
+    .prose .cols:not(:has(> .col[style*='--span'])):has(> .col:nth-child(4):last-child) {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: var(--space-5);
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .prose .cols:has(> .col[style*='--span']) {
+      grid-template-columns: repeat(12, minmax(0, 1fr));
+      gap: var(--space-5);
+    }
+
+    .prose .col[style*='--span'] {
+      grid-column: var(--start, auto) / span var(--span, 12);
+    }
+  }
+
+  .prose .col {
+    min-width: 0;
+  }
+
+  .prose .col.center {
+    text-align: center;
   }
 
   .prose .col > :first-child {
@@ -77,35 +127,38 @@
     margin-bottom: 0;
   }
 
+  /* A photo next to text keeps its own shape, so nothing is cut off. */
   .prose .col img,
   .prose .col iframe {
     width: 100%;
-    margin: 0 0 var(--space-3);
+    margin: 0;
   }
 
-  .prose .col img {
-    aspect-ratio: 4 / 3;
+  /* Cards (photo with a heading) and galleries (only photos) crop to squares, as on the old site, so the row lines up. */
+  .prose .col:has(> h3, > h4) img,
+  .prose .cols:not(:has(h2, h3, h4, ul, ol, iframe, p:not(:has(img)))) img {
+    aspect-ratio: 1;
     object-fit: cover;
+  }
+
+  /* Narrow columns (a book cover, a logo) keep a small size when the row stacks on a phone. */
+  .prose .col:is([style$='--span: 1'], [style$='--span: 2']) img {
+    max-width: 12rem;
+  }
+
+  .prose .col:has(> h3, > h4) p:has(> img) {
+    margin-bottom: var(--space-4);
   }
 
   .prose .col h3 {
     margin-top: 0;
     color: var(--color-primary-strong);
+    font-size: var(--text-xl);
   }
 
-  /* A link styled as a button. Content uses <a class="button" href="…">Label</a>. */
-  .prose a.button {
-    display: table;
-    margin: var(--space-6) auto 0;
-    padding: var(--space-3) var(--space-6);
-    border-radius: var(--radius-sm);
-    background: var(--color-primary);
-    color: var(--color-on-primary);
-    font-weight: var(--weight-semibold);
-    text-decoration: none;
-  }
-
-  .prose a.button:hover {
-    background: var(--color-primary-strong);
+  /* A button (src/styles/components.css) on its own line is centred, like the Button component in a centred Section. */
+  .prose p:has(> a.button:only-child) {
+    margin-top: var(--space-6);
+    text-align: center;
   }
 </style>

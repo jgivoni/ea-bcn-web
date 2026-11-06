@@ -9,13 +9,13 @@ En diciembre, **terminamos nuestro primer curso introductorio**, organizamos con
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Dos ponentes en taburetes junto a una pantalla de proyección, frente al público en la charla sobre donaciones efectivas](/images/1a4fc9b53d6c.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Una charla sobre el poder de las donaciones efectivas
 
@@ -27,13 +27,13 @@ EA Barcelona y [ESAlogika](https://esalogika.com/) organizaron un evento sobre *
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Participantes del curso en un salón escuchando a un miembro que habla durante una sesión](/images/441e2f663bed.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### ¡Hemos terminado nuestro primer Curso Introductorio!
 
@@ -47,13 +47,13 @@ Durante cinco semanas, nuestro grupo de participantes reflexivos y curiosos se r
 
 <div class="cols">
 
-<div class="col">
+<div class="col" style="--start: 1; --span: 5">
 
 ![Cinco jugadores alrededor de una mesita con cartas y piezas mientras una persona explica el juego de mesa "Chase Patate"](/images/7f2a824d97a5.jpg)
 
 </div>
 
-<div class="col">
+<div class="col" style="--start: 6; --span: 7">
 
 ### Última noche de juegos de mesa del año (¡por supuesto!)
 
