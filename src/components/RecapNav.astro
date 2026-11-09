@@ -1,5 +1,5 @@
 ---
-import { childrenOf, headingOf, loadPages, parentOf, type Page } from '../lib/pages';
+import { headingOf, loadPages, parentOf, recapSeries, type Page } from '../lib/pages';
 import { UI } from '../lib/ui';
 
 interface Props {
@@ -9,11 +9,11 @@ interface Props {
 const { page } = Astro.props;
 const pages = await loadPages();
 const parent = parentOf(pages, page);
-const siblings = parent ? childrenOf(pages, parent) : [];
-const index = siblings.findIndex((sibling) => sibling.url === page.url);
-// Siblings are newest first.
-const newer = index > 0 ? siblings[index - 1] : undefined;
-const older = index >= 0 ? siblings[index + 1] : undefined;
+const series = recapSeries(pages, page);
+const index = series.findIndex((other) => other.url === page.url);
+// The series is newest first.
+const newer = index > 0 ? series[index - 1] : undefined;
+const older = index >= 0 ? series[index + 1] : undefined;
 const ui = UI[page.lang];
 ---
 

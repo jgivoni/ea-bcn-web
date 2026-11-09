@@ -91,6 +91,33 @@ export function childrenOf(pages: Page[], page: Page): Page[] {
     .sort((a, b) => slugDate(b.path) - slugDate(a.path));
 }
 
+const isIndex = (page: Page | undefined) => page?.entry.data.layout === 'index';
+
+// The pages that older/newer links step through, newest first.
+// A recap steps through all recaps under its topmost index ancestor, across year folders.
+// An index page (such as a year) steps through its siblings.
+export function recapSeries(pages: Page[], page: Page): Page[] {
+  const parent = parentOf(pages, page);
+  if (!parent) return [];
+  if (isIndex(page)) return childrenOf(pages, parent);
+  let root = parent;
+  for (let up = parentOf(pages, root); isIndex(up); up = parentOf(pages, up!)) root = up!;
+  return pages
+    .filter((other) => other.lang === page.lang && other.path.startsWith(`${root.path}/`) && !isIndex(other))
+    .sort((a, b) => slugDate(b.path) - slugDate(a.path));
+}
+
+// The URL of the page in another language. A page without a translation falls back to the nearest
+// ancestor that has one, then to the home page of that language.
+export function translatedUrl(pages: Page[], page: Page | undefined, lang: Lang): string {
+  if (page?.lang === lang) return page.url;
+  for (let current = page; current; current = parentOf(pages, current)) {
+    const match = current.key ? findByKey(pages, lang, current.key) : undefined;
+    if (match) return match.url;
+  }
+  return urlFor(lang, HOME_SLUGS[lang]);
+}
+
 // The first "# " heading of the Markdown body, or the frontmatter title.
 export function headingOf(page: Page): string {
   return (page.entry.body ?? '').match(/^# (.+)$/m)?.[1].trim() ?? page.entry.data.title;
