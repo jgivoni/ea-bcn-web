@@ -9,6 +9,6 @@ Els esdeveniments es publicaran aquí a mesura que es confirmin. Assegura't de s
 
 Tingueu en compte que no tots els esdeveniments publicats aquí estan organitzats per EA Barcelona. Alguns venen d'altres entitats i individus dins o més enllà del moviment EA. Promovem aquests esdeveniments perquè és probable que siguin rellevants per a les persones interessades en EA en general.
 
-<iframe src="https://lu.ma/embed/calendar/cal-9tdD2nUvxmygpXa/events" title="Calendari d’esdeveniments d’EA Barcelona" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://luma.com/embed/calendar/cal-9tdD2nUvxmygpXa/events?locale=ca" title="Calendari d’esdeveniments d’EA Barcelona" loading="lazy" allowfullscreen></iframe>
 
 <a class="button" href="/ca/esdeveniments/esdeveniments-passats">Consulta esdeveniments passats</a>

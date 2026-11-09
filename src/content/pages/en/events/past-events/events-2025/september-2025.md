@@ -95,7 +95,7 @@ Sad you missed out this time? You can **express your interest in the next iterat
 
 ### Melanie Joy Workshop 🐷
 
-What a boost for the animal advocacy movement in Barcelona! Our workshop with [Dr. Melanie Joy](https://www.melaniejoy.org/) at the beautiful [Heura House](https://heurafoods.com/es/) was a powerful morning of open, honest conversation. We walked away with practical tools to build a **stronger, more effective movement**, and our hearts are full from the sense of community and vulnerability in the room. (You can read the full recap including more photos on Linkedin [here](https://www.linkedin.com/feed/update/urn:li:activity:7376904136933531649)).
+What a boost for the animal advocacy movement in Barcelona! Our workshop with [Dr. Melanie Joy](https://www.melaniejoy.org/) at the beautiful [Heura House](https://heurafoods.com/es/) was a powerful morning of open, honest conversation. We walked away with practical tools to build a **stronger, more effective movement**, and our hearts are full from the sense of community and vulnerability in the room. (You can read the full recap including more photos on LinkedIn [here](https://www.linkedin.com/feed/update/urn:li:activity:7376904136933531649)).
 
 A huge **thank you** to everyone who attended! We’re organising a **follow-up brunch session** for those who want to keep the conversation going. Interested? [More info here](https://luma.com/w2bcv308)!
 
@@ -115,7 +115,7 @@ A huge **thank you** to everyone who attended! We’re organising a **follow-up 
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking at Sopa & Sandwichez ☕️
+### Coworking at Sopa & SandwiChez ☕️
 
 Whether you're looking to network, build, or grow, our coworking sessions are for you. In September, we saw:
 

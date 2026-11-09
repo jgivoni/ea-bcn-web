@@ -77,7 +77,7 @@ Vam escoltar històries sinceres de la **Camilla Ariano**, que va explicar com a
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking a Sopa i Sandwichez ☕️
+### Coworking a Sopa i SandwiChez ☕️
 
 A la nostra darrera sessió de coworking, vam explorar l'**automatització** de tasques: en Joey va compartir idees útils sobre com reduir la feina repetitiva i simplificar processos. També vam gaudir posant-nos al dia amb els assistents sobre les seves **experiències buscant feina**.
 

@@ -49,7 +49,7 @@ EA Barcelona acogió una **visualización presencial** de la [conferencia EAGxVi
 
 <div class="col" style="--start: 1; --span: 5">
 
-![Seis miembros con portátiles en una mesa junto a una pared de piedra durante el coworking en Sandwichez Provença](/images/c50179f253df.jpg)
+![Seis miembros con portátiles en una mesa junto a una pared de piedra durante el coworking en SandwiChez Provença](/images/c50179f253df.jpg)
 
 </div>
 
@@ -57,7 +57,7 @@ EA Barcelona acogió una **visualización presencial** de la [conferencia EAGxVi
 
 ### Coworking
 
-Estábamos disfrutando de una sesión productiva en Sandwichez Provença, cuando inesperadamente un experto en bioseguridad se unió a nosotros y tomó esta foto... ¿Alguien puede adivinar quién era?🤔
+Estábamos disfrutando de una sesión productiva en SandwiChez Provença, cuando inesperadamente un experto en bioseguridad se unió a nosotros y tomó esta foto... ¿Alguien puede adivinar quién era?🤔
 
 </div>
 

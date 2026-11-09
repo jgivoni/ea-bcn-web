@@ -41,7 +41,7 @@ Estem molt contents d'anunciar que el traductor multilingüe i activista dels an
 
 ### Bruce Friedrich fa una xerrada a Norrsken House
 
-EA Barcelona va col·laborar amb [Norrsken House](https://site.norrsken.org/barcelona) i [Naked Innovations](https://www.nakedinnovations.eu/) convidant [Bruce Friedrich](https://www.linkedin.com/in/brucegfriedrich/) del [Good Food Institute](https://gfi.org/) a parlar sobre el potencial transformador de les proteïnes alternatives davant d'un públic de 100 persones. Podeu veure la xerrada al nostre canal de Youtube [aquí](https://youtu.be/3VIsp3xffAs?si=Fq9LzcnCOnHV9b_o).
+EA Barcelona va col·laborar amb [Norrsken House](https://www.norrsken.org/houses/barcelona) i [Naked Innovations](https://www.nakedinnovations.eu/) convidant [Bruce Friedrich](https://www.linkedin.com/in/brucegfriedrich/) del [Good Food Institute](https://gfi.org/) a parlar sobre el potencial transformador de les proteïnes alternatives davant d'un públic de 100 persones. Podeu veure la xerrada al nostre canal de YouTube [aquí](https://youtu.be/3VIsp3xffAs?si=Fq9LzcnCOnHV9b_o).
 
 </div>
 
@@ -59,7 +59,7 @@ EA Barcelona va col·laborar amb [Norrsken House](https://site.norrsken.org/barc
 
 ### Project for Awesome
 
-Vam participar a l'esdeveniment de recaptació de fons [Project for Awesome](https://projectforawesome.com/) per recaptar diners amb finalitats benèfiques, i [Give Directly](https://www.givedirectly.org/) i [Against Malaria Foundation](https://www.againstmalaria.com/) van aconseguir rebre més de 37.000 dòlars cadascun! Pots veure els vídeos i subscriure't al nostre canal de Youtube d'EA Barcelona [aquí](https://www.youtube.com/@eabarcelona).
+Vam participar a l'esdeveniment de recaptació de fons [Project for Awesome](https://projectforawesome.com/) per recaptar diners amb finalitats benèfiques, i [GiveDirectly](https://www.givedirectly.org/) i [Against Malaria Foundation](https://www.againstmalaria.com/) van aconseguir rebre més de 37.000 dòlars cadascun! Pots veure els vídeos i subscriure't al nostre canal de YouTube d'EA Barcelona [aquí](https://www.youtube.com/@eabarcelona).
 
 </div>
 
@@ -99,7 +99,7 @@ Vam concloure el nostre club de lectura de 5 setmanes per a [The Scout Mindset d
 
 ### Els riscos nuclears en profunditat
 
-En [Pablo Rosado](https://pablorosado.com/) ens va guiar a través d'una discussió estructurada sobre la història de les bombes nuclears, el seu potencial destructiu i les maneres en què els membres de la comunitat d'altruisme eficaç intenten mitigar aquest risc. Podeu veure el vídeo posterior d'en Pablo a Youtube sobre aquest tema [aquí](https://www.youtube.com/watch?v=yEOVvGqfjJ0).
+En [Pablo Rosado](https://pablorosado.com/) ens va guiar a través d'una discussió estructurada sobre la història de les bombes nuclears, el seu potencial destructiu i les maneres en què els membres de la comunitat d'altruisme eficaç intenten mitigar aquest risc. Podeu veure el vídeo posterior d'en Pablo a YouTube sobre aquest tema [aquí](https://www.youtube.com/watch?v=yEOVvGqfjJ0).
 
 </div>
 
@@ -191,7 +191,7 @@ Quatre de nosaltres vam marxar a Londres per a la [conferència global anual d'E
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Discussió sobre Open AI
+### Discussió sobre OpenAI
 
 [Tobi Baur](https://www.linkedin.com/in/tobibaur/) ens va portar a través de la història i el desenvolupament d'OpenAI i les controvèrsies que va viure l'empresa durant els últims 12 mesos, i després ens va guiar a través d'una discussió oberta sobre els dilemes de seguretat de la IA.
 

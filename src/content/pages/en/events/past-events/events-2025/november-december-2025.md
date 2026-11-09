@@ -101,7 +101,7 @@ It was great to see new connections forming - a big **thank you** to everyone wh
 
 We wrapped up the year with our final coworking session at **Sopa**. We exchanged ideas on **community-building strategies for 2026** - from strengthening EA in Barcelona and at universities, to engaging more with AI ethics communities. It was a productive and enjoyable close to the year at our **favourite Poblenou spot**.
 
-**Make sure you’re following us on** [LUMA](https://luma.com/calendar/cal-9tdD2nUvxmygpXa?period=past) to be ready for our next coworking sessions to be announced in the new year!
+**Make sure you’re following us on** [Luma](https://luma.com/calendar/cal-9tdD2nUvxmygpXa?period=past) to be ready for our next coworking sessions to be announced in the new year!
 
 </div>
 
@@ -121,7 +121,7 @@ We wrapped up the year with our final coworking session at **Sopa**. We exchange
 
 We finished off 2025 with a lovely end-of-year social event - a relaxed evening of good food, music, and conversation. We shared a community circle where people reflected on **wins and learnings from 2025**, talked about **projects that could use support**, and looked ahead to **plans and goals for 2026**, both personal and professional. A huge thanks to everyone who came, and especially to Anthony for hosting (once again!)
 
-If you’d like to join upcoming social events, be sure to [join our Whatsapp Community](https://docs.google.com/document/d/1MJeUyYfCRPz5lKI2olGrQ0sqBJT4577UZAIRYHqb3tE/edit?tab=t.0#heading=h.juefg6vf5iew) - we’ll be announcing more activities soon inside the _Social Events_ channel.
+If you’d like to join upcoming social events, be sure to [join our WhatsApp Community](https://docs.google.com/document/d/1MJeUyYfCRPz5lKI2olGrQ0sqBJT4577UZAIRYHqb3tE/edit?tab=t.0#heading=h.juefg6vf5iew) - we’ll be announcing more activities soon inside the _Social Events_ channel.
 
 </div>
 

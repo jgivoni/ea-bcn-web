@@ -19,7 +19,7 @@ Octubre vino cargado: desde un lleno total en la **presentación del libro _Altr
 
 ### 📚 Pablo + Pablo: Altruismo Racional
 
-Tuvimos el placer de escuchar a **Pablo Melchor** en la **Llibrería +Bernat** en la presentación de su primer libro, [Altruismo Racional](https://www.altruismoracional.com/p/libro), en una conversación fascinante guiada por **Pablo Rosado**. El evento llenó la sala para explorar cómo **los datos, la empatía y las decisiones inteligentes pueden ayudarnos a hacer más bien**.
+Tuvimos el placer de escuchar a **Pablo Melchor** en la **Llibreria +Bernat** en la presentación de su primer libro, [Altruismo Racional](https://www.altruismoracional.com/p/libro), en una conversación fascinante guiada por **Pablo Rosado**. El evento llenó la sala para explorar cómo **los datos, la empatía y las decisiones inteligentes pueden ayudarnos a hacer más bien**.
 
 📽️ ¿Te perdiste el evento? Mira la charla en nuestro [canal de YouTube](https://youtu.be/qOSm20S-NI8?si=jRBDTmRPgjeP53no)
 
@@ -77,7 +77,7 @@ Escuchamos historias muy francas de **Camilla Ariano**, que contó cómo alinear
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking en Sopa y Sandwichez ☕️
+### Coworking en Sopa y SandwiChez ☕️
 
 En nuestra última sesión de coworking exploramos la **automatización** de tareas: Joey compartió ideas muy útiles sobre cómo reducir el trabajo repetitivo y agilizar procesos. También disfrutamos poniéndonos al día con los asistentes sobre sus **procesos de búsqueda de empleo**.
 

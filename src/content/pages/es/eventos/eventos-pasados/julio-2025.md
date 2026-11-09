@@ -65,9 +65,9 @@ Este mes tuvimos el placer de recibir a [Sofía Martínez Gálvez](https://www.l
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking en Sopa y Sandwichez ☕️
+### Coworking en Sopa y SandwiChez ☕️
 
-¡En julio organizamos dos sesiones de coworking en Sandwichez y en Sopa Barcelona!
+¡En julio organizamos dos sesiones de coworking en SandwiChez y en Sopa Barcelona!
 
 Como siempre, fue una gran oportunidad para **conectar, concentrarse y escuchar** en qué están trabajando los demás. Si nunca has venido a una, no te preocupes: es **poca presión, mucha cafeína** y **muy buen ambiente.** ¿Quieres venir en agosto? ¡[Consulta el calendario aquí](https://lu.ma/calendar/cal-9tdD2nUvxmygpXa)!
 

@@ -49,7 +49,7 @@ Our first EA intro fellowship is off to a great start! So far, we've explored **
 
 <div class="col" style="--start: 1; --span: 5">
 
-![Six members with laptops at a table by a stone wall during coworking at Sandwichez Provença](/images/2cf299e64e37.jpg)
+![Six members with laptops at a table by a stone wall during coworking at SandwiChez Provença](/images/2cf299e64e37.jpg)
 
 </div>
 
@@ -57,7 +57,7 @@ Our first EA intro fellowship is off to a great start! So far, we've explored **
 
 ### Coworking
 
-We were enjoying a productive session at Sandwichez Provença, when a biosecurity expert unexpectedly joined us and took this photo…. I wonder if anyone can guess who it was?🤔
+We were enjoying a productive session at SandwiChez Provença, when a biosecurity expert unexpectedly joined us and took this photo…. I wonder if anyone can guess who it was?🤔
 
 </div>
 

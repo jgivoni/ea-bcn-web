@@ -19,7 +19,7 @@ October was packed - from a full house at the **_Altruismo Racional_ book launch
 
 ### 📚 Pablo + Pablo: Altruismo Racional
 
-We had the pleasure of listening to **Pablo Melchor** at **Llibrería +Bernat** for the launch of his first book, [Altruismo Racional](https://www.altruismoracional.com/p/libro), in a fascinating conversation guided by **Pablo Rosado**. The event brought together a full room to explore how **data, empathy, and smart choices can help us do more good**.
+We had the pleasure of listening to **Pablo Melchor** at **Llibreria +Bernat** for the launch of his first book, [Altruismo Racional](https://www.altruismoracional.com/p/libro), in a fascinating conversation guided by **Pablo Rosado**. The event brought together a full room to explore how **data, empathy, and smart choices can help us do more good**.
 
 📽️ Missed the event? Watch the talk on our [YouTube channel](https://youtu.be/qOSm20S-NI8?si=jRBDTmRPgjeP53no)
 
@@ -77,7 +77,7 @@ We heard candid stories from **Camilla Ariano**, who shared how aligning her sci
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking at Sopa & Sandwichez ☕️
+### Coworking at Sopa & SandwiChez ☕️
 
 At our last coworking session, we explored task **automation** - Joey shared helpful insights on how to cut down on repetitive work and streamline processes. We also enjoyed catching up with attendees about their **job search journeys**.
 

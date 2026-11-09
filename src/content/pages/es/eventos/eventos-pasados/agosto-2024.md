@@ -47,7 +47,7 @@ Llevamos un tiempo utilizando Meetup como nuestra plataforma principal de evento
 
 <div class="col" style="--start: 1; --span: 5">
 
-<iframe src="https://www.youtube-nocookie.com/embed/3DKWdoIzQvE" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/3DKWdoIzQvE" title="La Cruda Verdad Detrás de la Carne" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 

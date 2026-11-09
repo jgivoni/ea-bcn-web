@@ -45,9 +45,9 @@ Moltes gràcies a **tothom qui ho va fer possible,** especialment als **organitz
 
 <div class="col" style="--start: 6; --span: 7">
 
-### 👩🏽‍🏫 Sofia Martínez Gálvez: de la física a l'impacte global
+### 👩🏽‍🏫 Sofía Martínez Gálvez: de la física a l'impacte global
 
-Vam estar encantats de rebre la [Sofía Martínez Gálvez](https://www.linkedin.com/in/smartinezgalvez/) a principis d'aquest mes per a una xerrada molt potent sobre el seu camí des de la física quàntica fins a fundar [Learning Alliance](https://www.linkedin.com/company/learning-alliance-africa/posts/?feedView=all), una organització sense ànim de lucre que millora l'educació a Uganda. Amb **més de 20 persones** a la sala (moltes cares noves!), la història de la Sofia va suscitar reflexions sobre el risc, l'impacte i construir amb humilitat.
+Vam estar encantats de rebre la [Sofía Martínez Gálvez](https://www.linkedin.com/in/smartinezgalvez/) a principis d'aquest mes per a una xerrada molt potent sobre el seu camí des de la física quàntica fins a fundar [Learning Alliance](https://www.linkedin.com/company/learning-alliance-africa/posts/?feedView=all), una organització sense ànim de lucre que millora l'educació a Uganda. Amb **més de 20 persones** a la sala (moltes cares noves!), la història de la Sofía va suscitar reflexions sobre el risc, l'impacte i construir amb humilitat.
 
 🎥 Ja pots veure la xerrada al nostre [canal de YouTube](https://www.youtube.com/watch?v=GIoj2bWSGUo)!
 
@@ -65,9 +65,9 @@ Vam estar encantats de rebre la [Sofía Martínez Gálvez](https://www.linkedin.
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking a Sopa i Sandwichez ☕️
+### Coworking a Sopa i SandwiChez ☕️
 
-Al juliol vam organitzar dues sessions de coworking a Sandwichez i a Sopa Barcelona!
+Al juliol vam organitzar dues sessions de coworking a SandwiChez i a Sopa Barcelona!
 
 Com sempre, va ser una gran oportunitat per **connectar, concentrar-se i conèixer** en què treballen els altres. Si encara no has vingut mai a cap sessió, no et preocupis: és **poca pressió, molta cafeïna** i **molt acollidor.** Vols venir a l'agost? [Consulta el calendari aquí](https://lu.ma/calendar/cal-9tdD2nUvxmygpXa)!
 

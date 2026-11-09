@@ -327,7 +327,7 @@ const yaml = (value) => JSON.stringify(value);
 const LUMA_CALENDAR = 'cal-9tdD2nUvxmygpXa';
 const LUMA_TITLES = { en: 'EA Barcelona events calendar', ca: 'Calendari d’esdeveniments d’EA Barcelona', es: 'Calendario de eventos de EA Barcelona' };
 const lumaEmbed = (lang) =>
-  `<iframe src="https://lu.ma/embed/calendar/${LUMA_CALENDAR}/events" title="${LUMA_TITLES[lang]}" loading="lazy" allowfullscreen></iframe>`;
+  `<iframe src="https://luma.com/embed/calendar/${LUMA_CALENDAR}/events?locale=${lang}" title="${LUMA_TITLES[lang]}" loading="lazy" allowfullscreen></iframe>`;
 
 // Pages are edited by hand after the first import. Existing files are kept unless --force is given.
 const force = process.argv.includes('--force');

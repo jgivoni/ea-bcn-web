@@ -19,7 +19,7 @@ October has been packed full of activities, including talks on **entrepreneurshi
 
 ### Creating meaningful change through entrepreneurship
 
-Entrepreneurs [Pablo Melchor](https://www.linkedin.com/in/pmelchor/) of [Ayuda Efectiva](https://ayudaefectiva.org/) and [Emma Stoks](https://www.linkedin.com/in/emmastoks/) of [Ambitious Impact (AIM)](https://www.ambitiousimpact.com/) gave a fascinating talk on their **unique approaches to social impact** at [MOB Bailèn Eixample](https://mob-barcelona.com/coworking-eixample/), followed by networking and interesting discussions. You can **watch their presentation on Youtube** [here](https://youtu.be/8RytPkSHjr8?si=aoMqFcMIE8eYigd4).
+Entrepreneurs [Pablo Melchor](https://www.linkedin.com/in/pmelchor/) of [Ayuda Efectiva](https://ayudaefectiva.org/) and [Emma Stoks](https://www.linkedin.com/in/emmastoks/) of [Ambitious Impact (AIM)](https://www.ambitiousimpact.com/) gave a fascinating talk on their **unique approaches to social impact** at [MOB Bailèn Eixample](https://mob-barcelona.com/coworking-eixample/), followed by networking and interesting discussions. You can **watch their presentation on YouTube** [here](https://youtu.be/8RytPkSHjr8?si=aoMqFcMIE8eYigd4).
 
 </div>
 
@@ -37,7 +37,7 @@ Entrepreneurs [Pablo Melchor](https://www.linkedin.com/in/pmelchor/) of [Ayuda E
 
 ### AI Safety Barcelona continues to grow
 
-The second event organised by the new student group **AI Safety Barcelona** took place at **Universitat Pompeu Fabra**. Research scientist and Cambridge PhD [Adriá Garriga-Alonso](https://www.linkedin.com/in/adrigarriga/) shared his latest work on **mitigating AI risks**, which was followed by a Q&A, some mingling & pizzas. If you’d like to learn more about AIS Barcelona and see how you can get involved, you can visit their **brand new website** [here](https://www.aisafetybcn.org/).
+The second event organised by the new student group **AI Safety Barcelona** took place at **Universitat Pompeu Fabra**. Research scientist and Cambridge PhD [Adrià Garriga-Alonso](https://www.linkedin.com/in/adrigarriga/) shared his latest work on **mitigating AI risks**, which was followed by a Q&A, some mingling & pizzas. If you’d like to learn more about AIS Barcelona and see how you can get involved, you can visit their **brand new website** [here](https://www.aisafetybcn.org/).
 
 </div>
 
@@ -47,7 +47,7 @@ The second event organised by the new student group **AI Safety Barcelona** took
 
 <div class="col" style="--start: 1; --span: 5">
 
-![Three panelists on stage in front of a slide: "Part 2 - Panel discussion", with Marc Coloma of Heura and Anya Reshetnyak](/images/a3044a894f5d.jpg)
+![Three panelists on stage in front of a slide: "Part 2 - Panel discussion", with Marc Coloma of Heura and Anne Reshetnyak](/images/a3044a894f5d.jpg)
 
 </div>
 
@@ -55,7 +55,7 @@ The second event organised by the new student group **AI Safety Barcelona** took
 
 ### Tapa Talks with ESAlogika
 
-EA Barcelona collaborated with the [Environmental Social Association of Barcelona](https://esalogika.com/) (ESAlogika) for their **TapaTalks workshop on alternative proteins**, featuring **Ricard Soler, Anya Reshetnyak** and special guest, [Marc Coloma](https://www.linkedin.com/in/marccoloma/), co-founder of [Heura](https://heurafoods.com/), one of Spain’s fastest-growing plant-based meats companies. We got to try their new York ham! 😋 If you’d like to learn more about ESAlogika and their TapaTalks series, you can **join their Meetup group** [here](https://www.meetup.com/barcelona-community-meetup-group/?eventOrigin=event_home_page).
+EA Barcelona collaborated with the [Environmental Social Association of Barcelona](https://esalogika.com/) (ESAlogika) for their **TapaTalks workshop on alternative proteins**, featuring **Ricard Soler, Anne Reshetnyak** and special guest, [Marc Coloma](https://www.linkedin.com/in/marccoloma/), co-founder of [Heura](https://heurafoods.com/), one of Spain’s fastest-growing plant-based meat companies. We got to try their new York ham! 😋 If you’d like to learn more about ESAlogika and their TapaTalks series, you can **join their Meetup group** [here](https://www.meetup.com/barcelona-community-meetup-group/?eventOrigin=event_home_page).
 
 </div>
 
@@ -91,7 +91,7 @@ Of course, we enjoyed our usual coworking session at Sopa, this time sharing ide
 
 ### Tiny home visit!
 
-Despite the rainy weather, a group of us made it out to **La Floresta** to visit our member Jakob’s **tiny home** (30 square metres!). We enjoyed a **special tour**, a **delicious felafel lunch** and played an interesting **boardgame called “Cuarto”**. We thank Jakob and his wife Helena for hosting us 🙏
+Despite the rainy weather, a group of us made it out to **La Floresta** to visit our member Jakob’s **tiny home** (30 square metres!). We enjoyed a **special tour**, a **delicious felafel lunch** and played an interesting **boardgame called “Quarto”**. We thank Jakob and his wife Helena for hosting us 🙏
 
 </div>
 

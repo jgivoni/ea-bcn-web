@@ -101,7 +101,7 @@ Va ser genial veure com es formaven noves connexions. **Moltes gràcies** a toth
 
 Vam tancar l'any amb la nostra última sessió de coworking a **Sopa**. Vam intercanviar idees sobre **estratègies de construcció de comunitat per al 2026**, des d'enfortir l'EA a Barcelona i a les universitats fins a implicar-nos més amb les comunitats d'ètica de la IA. Va ser un final d'any productiu i agradable al nostre **racó preferit del Poblenou**.
 
-**Assegura't de seguir-nos a** [LUMA](https://luma.com/calendar/cal-9tdD2nUvxmygpXa?period=past) per estar a punt quan anunciem les properes sessions de coworking l'any nou!
+**Assegura't de seguir-nos a** [Luma](https://luma.com/calendar/cal-9tdD2nUvxmygpXa?period=past) per estar a punt quan anunciem les properes sessions de coworking l'any nou!
 
 </div>
 

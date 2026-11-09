@@ -21,7 +21,7 @@ Ready for the recap? Let’s go!
 
 ### We’re introducing our brand NEW Community Spotlight!
 
-[Ana Luna Hernández](https://www.linkedin.com/in/ana-luna-hern%C3%A1ndez/) is a third-year Biotechnology student at the University of Barcelona. She is especially interested in **alternative protein development** and the [One Health approach](https://www.who.int/health-topics/one-health), which links human, animal, and environmental health. This month, she and her classmates organised a **university fundraising campaign** and successfully raised **460,68€** for [Against Malaria Foundation](https://www.againstmalaria.com/)! This initiative will provide **230 insecticide-treated bed nets**, protecting approximately **460 people** for **3 to 4 years**. Amazing work, Ana and team!
+[Ana Luna Hernández](https://www.linkedin.com/in/ana-luna-hern%C3%A1ndez/) is a third-year Biotechnology student at the University of Barcelona. She is especially interested in **alternative protein development** and the [One Health approach](https://www.who.int/health-topics/one-health), which links human, animal, and environmental health. This month, she and her classmates organised a **university fundraising campaign** and successfully raised **€460.68** for [Against Malaria Foundation](https://www.againstmalaria.com/)! This initiative will provide **230 insecticide-treated bed nets**, protecting approximately **460 people** for **3 to 4 years**. Amazing work, Ana and team!
 
 </div>
 

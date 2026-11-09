@@ -49,7 +49,7 @@ El nostre primer curs introductori d'EA ha començat molt bé! Fins ara, hem par
 
 <div class="col" style="--start: 1; --span: 5">
 
-![Sis membres amb ordinadors portàtils a una taula al costat d'una paret de pedra durant el coworking a Sandwichez Provença](/images/c52818d7a78c.jpg)
+![Sis membres amb ordinadors portàtils a una taula al costat d'una paret de pedra durant el coworking a SandwiChez Provença](/images/c52818d7a78c.jpg)
 
 </div>
 
@@ -57,7 +57,7 @@ El nostre primer curs introductori d'EA ha començat molt bé! Fins ara, hem par
 
 ### Coworking
 
-Estàvem gaudint d'una sessió productiva a Sandwichez Provença, quan inesperadament un expert en bioseguretat es va unir a nosaltres i va fer aquesta foto... Algú pot endevinar qui era?🤔
+Estàvem gaudint d'una sessió productiva a SandwiChez Provença, quan inesperadament un expert en bioseguretat es va unir a nosaltres i va fer aquesta foto... Algú pot endevinar qui era?🤔
 
 </div>
 

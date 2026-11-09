@@ -19,7 +19,7 @@ Setembre ha estat un mes molt emocionant per a EA Barcelona, amb moltes plantes,
 
 ### Veg-curious: Aprèn, empodera't i tasta!
 
-Aquest esdeveniment tan dinàmic va incloure presentacions d'en [Ricard Soler](https://www.linkedin.com/in/ricardsolerroger/) sobre el seu canvi a l'altruisme eficaç i de l'[Anne Reshetnyak](https://www.linkedin.com/in/anne-reshetnyak/) sobre la nutrició i les alternatives a la carn. A continuació, els nostres xefs estrella [Camilla Ariano](https://www.linkedin.com/in/camilla-ariano-6b5552163/) i [Anthony Lara](https://www.linkedin.com/in/anthonylarap/) van demostrar el seu enfocament a la cuina basada en plantes i ens van demostrar com alliberar el poder de les proteïnes vegetals i els gustos de l'umami. Hem sortit inspirats i plens d'idees (i bon menjar!) 😋 Si voleu un resum més complet, mireu [aquesta publicació de Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7246802144882774016).
+Aquest esdeveniment tan dinàmic va incloure presentacions d'en [Ricard Soler](https://www.linkedin.com/in/ricardsolerroger/) sobre el seu canvi a l'altruisme eficaç i de l'[Anne Reshetnyak](https://www.linkedin.com/in/anne-reshetnyak/) sobre la nutrició i les alternatives a la carn. A continuació, els nostres xefs estrella [Camilla Ariano](https://www.linkedin.com/in/camilla-ariano-6b5552163/) i [Anthony Lara](https://www.linkedin.com/in/anthonylarap/) van demostrar el seu enfocament a la cuina basada en plantes i ens van demostrar com alliberar el poder de les proteïnes vegetals i els gustos de l'umami. Hem sortit inspirats i plens d'idees (i bon menjar!) 😋 Si voleu un resum més complet, mireu [aquesta publicació de LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7246802144882774016).
 
 </div>
 

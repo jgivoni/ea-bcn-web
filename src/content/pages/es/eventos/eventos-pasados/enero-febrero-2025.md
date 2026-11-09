@@ -75,9 +75,9 @@ Seis de nosotros nos pusimos detrás de la cámara para grabar vídeos para [Pro
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking en Sandwichez Provença ☕️
+### Coworking en SandwiChez Provença ☕️
 
-Nuestra última **sesión de coworking en Sandwichez Provença** fue una buena mezcla de **trabajo concentrado, debates productivos** y **apoyo mutuo**. Fue una gran oportunidad para conectar, compartir ideas y avanzar en proyectos de impacto en un espacio relajado y colaborativo.
+Nuestra última **sesión de coworking en SandwiChez Provença** fue una buena mezcla de **trabajo concentrado, debates productivos** y **apoyo mutuo**. Fue una gran oportunidad para conectar, compartir ideas y avanzar en proyectos de impacto en un espacio relajado y colaborativo.
 
 </div>
 

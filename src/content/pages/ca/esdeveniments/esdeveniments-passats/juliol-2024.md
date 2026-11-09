@@ -11,7 +11,7 @@ A continuació trobaràs un breu resum del mes de juliol, amb alguns jocs de rac
 
 <div class="col" style="--start: 1; --span: 5">
 
-![L'Anya Reshetnyak parla davant d'una diapositiva amb el text "Vote with your fork. Eat more alternative proteins" i menjar en tres forquilles](/images/45b58612e39e.jpg)
+![L'Anne Reshetnyak parla davant d'una diapositiva amb el text "Vote with your fork. Eat more alternative proteins" i menjar en tres forquilles](/images/45b58612e39e.jpg)
 
 </div>
 
@@ -19,7 +19,7 @@ A continuació trobaràs un breu resum del mes de juliol, amb alguns jocs de rac
 
 ### L'evolució de les proteïnes: passat, present i futur
 
-L'[Anya Reshetnyak](https://www.linkedin.com/in/anne-reshetnyak/) ens va oferir una visió general molt entretinguda de la història de les proteïnes a la nostra dieta i de com el desenvolupament de noves alternatives té el potencial de resoldre alguns dels problemes més urgents del món. Donem les gràcies a l'Anya pel seu coneixement, peculiaritat i originalitat: fins i tot va portar una forquilla gegant! Podeu veure la xerrada sencera [aquí](https://youtu.be/roZoEhnQB-I?si=2xwt77oSBjYy8sdl).
+L'[Anne Reshetnyak](https://www.linkedin.com/in/anne-reshetnyak/) ens va oferir una visió general molt entretinguda de la història de les proteïnes a la nostra dieta i de com el desenvolupament de noves alternatives té el potencial de resoldre alguns dels problemes més urgents del món. Donem les gràcies a l'Anne pel seu coneixement, peculiaritat i originalitat: fins i tot va portar una forquilla gegant! Podeu veure la xerrada sencera [aquí](https://youtu.be/roZoEhnQB-I?si=2xwt77oSBjYy8sdl).
 
 </div>
 

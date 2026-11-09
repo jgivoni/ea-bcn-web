@@ -101,7 +101,7 @@ Fue genial ver cómo se formaban nuevas conexiones. ¡Muchas **gracias** a todos
 
 Cerramos el año con nuestra última sesión de coworking en **Sopa**. Intercambiamos ideas sobre **estrategias de creación de comunidad para 2026**: desde reforzar el EA en Barcelona y en las universidades hasta colaborar más con las comunidades de ética de la IA. Fue un cierre de año productivo y agradable en nuestro **rincón favorito del Poblenou**.
 
-**No te olvides de seguirnos en** [LUMA](https://luma.com/calendar/cal-9tdD2nUvxmygpXa?period=past) para estar al tanto de nuestras próximas sesiones de coworking, que anunciaremos en el nuevo año.
+**No te olvides de seguirnos en** [Luma](https://luma.com/calendar/cal-9tdD2nUvxmygpXa?period=past) para estar al tanto de nuestras próximas sesiones de coworking, que anunciaremos en el nuevo año.
 
 </div>
 

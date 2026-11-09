@@ -43,9 +43,9 @@ In his own words, Martin highlighted that this cause is often **one of the most 
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking at Sopa & Sandwichez ☕️
+### Coworking at Sopa & SandwiChez ☕️
 
-August was quiet on events, _except_ for two cozy coworking sessions at **SandwiChez** and **SOPA Barcelona**. These turned into mini-labs: from refining tools for **sustainable food systems**, exploring **anti-tobacco advocacy** through the [Moral Ambition](https://www.moralambition.org/?r=0) network, a volunteer **analyzing data** for a mental-health org, or **fine-tuning new projects,** it's where ideas turn into impact!
+August was quiet on events, _except_ for two cozy coworking sessions at **SandwiChez** and **Sopa Barcelona**. These turned into mini-labs: from refining tools for **sustainable food systems**, exploring **anti-tobacco advocacy** through the [Moral Ambition](https://www.moralambition.org/?r=0) network, a volunteer **analyzing data** for a mental-health org, or **fine-tuning new projects,** it's where ideas turn into impact!
 
 [Join us in September](https://lu.ma/calendar/cal-9tdD2nUvxmygpXa) for a welcoming, low-pressure environment where you can get work done and collaborate with peers on high-impact initiatives.
 

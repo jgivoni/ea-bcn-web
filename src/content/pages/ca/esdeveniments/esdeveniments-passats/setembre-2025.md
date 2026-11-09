@@ -115,7 +115,7 @@ Quin impuls per al moviment d'activisme animal a Barcelona! El nostre taller amb
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking a Sopa i Sandwichez ☕️
+### Coworking a Sopa i SandwiChez ☕️
 
 Tant si vols fer networking, construir o créixer, les nostres sessions de coworking són per a tu. Al setembre vam veure:
 

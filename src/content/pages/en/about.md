@@ -13,13 +13,13 @@ If you’re new to the concept of Effective Altruism, we recommend that you star
 
 <div class="col" style="--start: 1; --span: 6">
 
-<iframe src="https://www.youtube-nocookie.com/embed/WyprXhvGVYk" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/WyprXhvGVYk" title="What are the most important moral problems of our time? | Will MacAskill" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
 <div class="col" style="--start: 7; --span: 6">
 
-<iframe src="https://www.youtube-nocookie.com/embed/48VAQtGmfWY" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/48VAQtGmfWY" title="Introduction to EA | Ajeya Cotra | EAGxBerkeley 2016" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
@@ -122,13 +122,13 @@ Our aim is to provide opportunities to learn about the world’s most urgent pro
 
 <div class="col" style="--start: 1; --span: 6">
 
-<iframe src="https://www.youtube-nocookie.com/embed/roZoEhnQB-I" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/roZoEhnQB-I" title="The evolution of proteins: Past, present and future by Anne Reshetnyak" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
 <div class="col" style="--start: 7; --span: 6">
 
-<iframe src="https://www.youtube-nocookie.com/embed/MCrSeWeZbOY" title="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/MCrSeWeZbOY" title="Helping with our heads as well as our hearts: An introduction to effective giving" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 

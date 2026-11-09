@@ -115,7 +115,7 @@ Puedes leer su historia completa [aquí](https://www.effectivealtruism.org/stori
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking en Sopa y Sandwichez ☕️
+### Coworking en Sopa y SandwiChez ☕️
 
 Tanto si quieres hacer networking, construir algo o crecer, nuestras sesiones de coworking son para ti. En septiembre:
 

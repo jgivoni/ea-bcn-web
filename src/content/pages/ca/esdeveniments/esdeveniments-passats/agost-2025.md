@@ -43,9 +43,9 @@ En paraules seves, en Martin va destacar que aquesta causa és sovint **una de l
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking a Sopa i Sandwichez ☕️
+### Coworking a Sopa i SandwiChez ☕️
 
-L'agost va ser tranquil pel que fa a esdeveniments, _excepte_ per dues sessions de coworking acollidores a **SandwiChez** i **SOPA Barcelona**. Es van convertir en minilaboratoris: des de perfeccionar eines per a **sistemes alimentaris sostenibles**, explorar l'**activisme antitabac** a través de la xarxa [Moral Ambition](https://www.moralambition.org/?r=0), un voluntari **analitzant dades** per a una organització de salut mental, o **afinar nous projectes,** és on les idees es converteixen en impacte!
+L'agost va ser tranquil pel que fa a esdeveniments, _excepte_ per dues sessions de coworking acollidores a **SandwiChez** i **Sopa Barcelona**. Es van convertir en minilaboratoris: des de perfeccionar eines per a **sistemes alimentaris sostenibles**, explorar l'**activisme antitabac** a través de la xarxa [Moral Ambition](https://www.moralambition.org/?r=0), un voluntari **analitzant dades** per a una organització de salut mental, o **afinar nous projectes,** és on les idees es converteixen en impacte!
 
 [Vine amb nosaltres al setembre](https://lu.ma/calendar/cal-9tdD2nUvxmygpXa) i trobaràs un entorn acollidor i sense pressió on pots avançar feina i col·laborar amb altres persones en iniciatives d'alt impacte.
 

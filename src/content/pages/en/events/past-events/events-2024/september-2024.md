@@ -19,7 +19,7 @@ September has been an exciting month for EA Barcelona, featuring plenty of plant
 
 ### Veg-curious: Learn, empower and taste!
 
-This dynamic event included presentations by [Ricard Soler](https://www.linkedin.com/in/ricardsolerroger/) on his shift to effective altruism and [Anne Reshetnyak](https://www.linkedin.com/in/anne-reshetnyak/) on nutrition and meat alternatives. Then, our star chefs [Camilla Ariano](https://www.linkedin.com/in/camilla-ariano-6b5552163/) and [Anthony Lara](https://www.linkedin.com/in/anthonylarap/) demonstrated their approach to plant-based cooking, focusing on unleashing the power of plant proteins and umami flavors. We left inspired and full of ideas (and great food!) 😋 If you’d like a more complete recap, see [this Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7246802144882774016).
+This dynamic event included presentations by [Ricard Soler](https://www.linkedin.com/in/ricardsolerroger/) on his shift to effective altruism and [Anne Reshetnyak](https://www.linkedin.com/in/anne-reshetnyak/) on nutrition and meat alternatives. Then, our star chefs [Camilla Ariano](https://www.linkedin.com/in/camilla-ariano-6b5552163/) and [Anthony Lara](https://www.linkedin.com/in/anthonylarap/) demonstrated their approach to plant-based cooking, focusing on unleashing the power of plant proteins and umami flavors. We left inspired and full of ideas (and great food!) 😋 If you’d like a more complete recap, see [this LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7246802144882774016).
 
 </div>
 

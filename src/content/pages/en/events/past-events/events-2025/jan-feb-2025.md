@@ -21,7 +21,7 @@ EA Barcelona has begun 2025 with a clear focus on improving animal welfare. In J
 
 ### Expert Panel on Effective Animal Advocacy 🐟
 
-We joined forces with the [Centre for Animal Ethics](https://www.upf.edu/web/cae-center-for-animal-ethics) at Universitat Pompeu Fabra to host an expert panel: "**Effective Animal Advocacy: Exploring Neglected Areas in Animal Welfare**.” The panel featured **Míriam Martínez** ([Observatorio de Bienestar Animal](https://observatoriodebienestaranimal.org/)), **Björn Jóhann Olafsson** ([Faunalytics](https://faunalytics.org/)), and **Daniela R. Waldhorn** ([Rethink Priorities](https://rethinkpriorities.org/)) who shared powerful insights on **fish welfare**, the **role of research in shaping policy**, and how we can **make a bigger impact for animals**. You can watch it all unfold on our Youtube channel [here](https://youtu.be/4rMKHd8_g18)!
+We joined forces with the [Centre for Animal Ethics](https://www.upf.edu/web/cae-center-for-animal-ethics) at Universitat Pompeu Fabra to host an expert panel: "**Effective Animal Advocacy: Exploring Neglected Areas in Animal Welfare**.” The panel featured **Míriam Martínez** ([Observatorio de Bienestar Animal](https://observatoriodebienestaranimal.org/)), **Björn Jóhann Olafsson** ([Faunalytics](https://faunalytics.org/)), and **Daniela R. Waldhorn** ([Rethink Priorities](https://rethinkpriorities.org/)) who shared powerful insights on **fish welfare**, the **role of research in shaping policy**, and how we can **make a bigger impact for animals**. You can watch it all unfold on our YouTube channel [here](https://youtu.be/4rMKHd8_g18)!
 
 </div>
 
@@ -41,7 +41,7 @@ We joined forces with the [Centre for Animal Ethics](https://www.upf.edu/web/cae
 
 ### Videomaking for Project for Awesome 2025 🎥
 
-Six of us got behind the camera to film videos for [Project for Awesome](https://www.projectforawesome.com/) **(P4A)**, an annual **online fundraising event** that raises money for different charities. This year we supported the [Good Food Institute](http://gfi.org/), [Faunalytics](https://faunalytics.org/), [ACTRA](https://www.actra.ngo/), and [Children Change Colombia](https://childrenchangecolombia.org/), advocating for a **better food system, improved animal welfare, mental health** and **global development**. Unfortunately, it’s too late to vote, but you can **watch our videos** [here](https://youtube.com/playlist?list=PLW138mEwvWcG6HD9XkZ5rF1OVcHpJwjIn&si=n9dwp80awqmRY1IU), and don’t forget to **subscribe to our Youtube Channel**!
+Six of us got behind the camera to film videos for [Project for Awesome](https://www.projectforawesome.com/) **(P4A)**, an annual **online fundraising event** that raises money for different charities. This year we supported the [Good Food Institute](http://gfi.org/), [Faunalytics](https://faunalytics.org/), [ACTRA](https://www.actra.ngo/), and [Children Change Colombia](https://childrenchangecolombia.org/), advocating for a **better food system, improved animal welfare, mental health** and **global development**. Unfortunately, it’s too late to vote, but you can **watch our videos** [here](https://youtube.com/playlist?list=PLW138mEwvWcG6HD9XkZ5rF1OVcHpJwjIn&si=n9dwp80awqmRY1IU), and don’t forget to **subscribe to our YouTube Channel**!
 
 </div>
 
@@ -75,9 +75,9 @@ Six of us got behind the camera to film videos for [Project for Awesome](https:/
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking in Sandwichez Provença ☕️
+### Coworking in SandwiChez Provença ☕️
 
-Our latest **coworking session at Sandwichez Provença** was a nice mix of **focused work, productive discussions**, and **mutual support**. It was a great opportunity to connect, share ideas, and make progress on impactful projects in a relaxed, collaborative space.
+Our latest **coworking session at SandwiChez Provença** was a nice mix of **focused work, productive discussions**, and **mutual support**. It was a great opportunity to connect, share ideas, and make progress on impactful projects in a relaxed, collaborative space.
 
 </div>
 

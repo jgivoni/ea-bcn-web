@@ -75,9 +75,9 @@ En [Lukas Paul Robertson](https://www.linkedin.com/in/lukas-paul-robertson/) **v
 
 <div class="col" style="--start: 6; --span: 7">
 
-### Coworking a Sandwichez Provença ☕️
+### Coworking a SandwiChez Provença ☕️
 
-La nostra darrera **sessió de coworking a Sandwichez Provença** va ser una bona combinació de **feina concentrada, discussions productives** i **suport mutu**. Va ser una gran oportunitat per connectar, compartir idees i avançar en projectes amb impacte en un espai relaxat i col·laboratiu.
+La nostra darrera **sessió de coworking a SandwiChez Provença** va ser una bona combinació de **feina concentrada, discussions productives** i **suport mutu**. Va ser una gran oportunitat per connectar, compartir idees i avançar en projectes amb impacte en un espai relaxat i col·laboratiu.
 
 </div>
 
