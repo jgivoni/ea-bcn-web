@@ -2,7 +2,7 @@ import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://www.eabarcelona.org',
+  site: 'https://eabarcelona.org',
   trailingSlash: 'never',
   build: { format: 'file' },
   // The design system page is a reference for editors, not content.
