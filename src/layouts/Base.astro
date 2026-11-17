@@ -5,6 +5,7 @@ import SiteHeader from '../components/SiteHeader.astro';
 import {
   alternatesFor,
   describe,
+  documentTitle,
   findByKey,
   HOME_SLUGS,
   LANGS,
@@ -28,10 +29,10 @@ const lang: Lang = page ? page.lang : props.lang!;
 const site = Astro.site!.origin;
 const pages = await loadPages();
 const alternates: Partial<Record<Lang, string>> = page ? alternatesFor(pages, page) : {};
-const description = page ? describe(page) : undefined;
+const description = page ? describe(pages, page) : undefined;
 const ui = UI[lang];
 const isHome = page?.path === HOME_SLUGS[lang];
-const pageTitle = page ? page.entry.data.title : props.title!;
+const pageTitle = page ? documentTitle(pages, page) : props.title!;
 const title = isHome ? `${ui.siteName} — ${pageTitle}` : `${pageTitle} | ${ui.siteName}`;
 const absolute = (url: string) => site + (url === '/' ? '/' : url);
 const canonical = page ? absolute(page.url) : undefined;

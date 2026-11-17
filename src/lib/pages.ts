@@ -131,16 +131,44 @@ export function thumbnailOf(pages: Page[], page: Page): string | undefined {
   return first ? thumbnailOf(pages, first) : undefined;
 }
 
-export function describe(page: Page): string {
-  if (page.entry.data.description) return page.entry.data.description;
-  const text = (page.entry.body ?? '')
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
-    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
-    .replace(/^#+\s*/gm, '')
-    .replace(/https?:\/\/\S+/g, ' ')
+const stripEmoji = (text: string) =>
+  text
+    .replace(/[\p{Extended_Pictographic}\u{FE0F}\u{200D}]/gu, '')
     .replace(/\s+/g, ' ')
     .trim();
+
+const isRecap = (pages: Page[], page: Page) => !isIndex(page) && isIndex(parentOf(pages, page));
+
+// The title for the browser tab and search results. A recap adds its heading, without the month prefix,
+// so the title names the events: "October 2025: From Rational Altruism to Boardgame Chaos".
+export function documentTitle(pages: Page[], page: Page): string {
+  const title = page.entry.data.title;
+  if (!isRecap(pages, page)) return title;
+  const heading = stripEmoji(headingOf(page));
+  if (heading === title) return title;
+  const colon = heading.indexOf(': ');
+  if (colon === -1) return heading.replace(/\.$/, '');
+  return `${title}: ${heading.slice(colon + 2).replace(/\.$/, '')}`;
+}
+
+// The meta description: the frontmatter description, or the start of the body text.
+// A recap starts after its heading, because its title already contains the heading.
+export function describe(pages: Page[], page: Page): string {
+  if (page.entry.data.description) return page.entry.data.description;
+  const body = page.entry.body ?? '';
+  const text = stripEmoji(
+    (isRecap(pages, page) ? body.replace(/^# .*$/m, ' ') : body)
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/^\s*[-*+]\s*$/gm, ' ')
+      .replace(/^\s*[-*+]\s+/gm, '')
+      .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
+      .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+      .replace(/^#+\s*/gm, '')
+      .replace(/https?:\/\/\S+/g, ' ')
+      .replace(/\*+/g, '')
+      .replace(/(^|[\s('’])_+|_+(?=[\s.,;:!?)'’]|$)/gm, '$1'),
+  );
+  if (!text) return stripEmoji(headingOf(page));
   if (text.length <= 160) return text;
   return `${text.slice(0, 157).replace(/\s+\S*$/, '')}…`;
 }
